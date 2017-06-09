@@ -1,0 +1,1393 @@
+FRoM
+John T. I3iackmor
+
+EA&
+
+(NJ
+
+'/ot'zl'r;
+
+PAQAo
+
+u5E. rg)
+('V
+
+ent objects. It was Strato. Archimedes. and Arlstarchus who, by combining the indirect epistemology of Democritus and idealizing types
+rather than particulars, were the effective precursors of Galileo (and he
+seems to have been familiar with their workl. As for historical writing.
+In the hands of Thucydides It reached a level which few later historians
+have even been able to approach since his time. He lived a centuryprior
+to Strato and more than that before Archimedes and Aristarchus.
+
+5.
+
+5C/iiC5
+
+The Division of Knowledge
+W W Barttey, III
+In counterpoint to these attempts to reconstitute a unified episicrnoloqtcai field, weflncl at regular intervals the affirmation of an
+tm possibility.
+Michel Foucau1t
+If the logical structure of existing knowledge Is one of distinct,
+unique. irreducible forms, it cannot readily be regarded as a unity.
+but neither is It a chaos.
+Paul H. Hlrst2
+
+Introduction
+I'he purpose of my paper is to consider, and to criticize, that
+particular version of the doctrine of the disunity of the sciencesor of the division of knowledge-that is most commgn and influential today: namely, that which stems from a Witgensteinlan
+approach to philosophy.
+First, however, I wish to comment more generally on our topic.
+I do not know whether and to what extent the sciences are or
+can be unified and am not entirely clear about what the issues are.
+As I read the papers of my fellow speakers, I found an assurance
+that Is perhaps not warranted by the real state of our understandlug. From a commonsensical point of view, the sciences are obviously not unified. Of course science probes beyond commonsense: but if we are going to argue a hidden unity in the sciences.
+we need to show that this doctrine has explanatory or Interpretive
+power. and is not simply a reflection, perhaps in new dress of, say.
+the shopworn old ideoloi of the unity of the sciences. In the
+sciences. just as anywhere, it is easy enough to point to similaritIes and differences: whereas what are needed are important
+similarities, important differences.
+This certainty does not mean that I have no opinions: and I shall
+mehtion a few of them now.
+1
+
+& W. Bartley. Ill
+
+The first opinion is that professional philosophical and meth)dological literature on this subject tends to be of little value. It
+ontinues to be littered with, and filtered through, the detritus of
+)bsolete philosophies and research programmes. Much of it is
+ither positivistic in approach, in the sense of the old EnyclopedLa of Unfled Science: or it deals onesidedly and rather
+ideologically with questions and programmes of reduction, to the
+xclusion of other Issues.
+My second opinion is that some pertinent and valuable work has
+een created by scientists working outside the main tradition of
+:liscussion of these matters, and outside the philosophical profesion-work that is ignored by most of those who discuss these
+luestions. This work Includes Gregory Bateson's Mind and Naure: A Necessary Unity. and the work of F. von Hayek as repreented In The Sensory Order and many of his other books. Today
+ve are taking a step towards better integrating Hayek's views into
+Lhe larger discussion. But the subject of the unity of the sciences
+annot really be taken seriously until it has been fundamentally
+reworked: until it has both been cleansed of professional philo;ophical superstition, and has integrated (by which I do not mean
+'accepted") the work of such "outsiders."
+Until this has been done, one must be wary of imposing common notions and distinctions that characterize discussions about
+the unity of the sciences: the notion of verstehen, for instance, or
+the distinctions between Naturwissenschaften and Geisteswissenschaften. or between natural and social sciences. Such distinctions may turn out to be neither fundamental nor even
+important. The alleged distinction between Naturwissenschaften
+and Gelsteswissenschaften Is not part of the answer: it is part of
+the problem. That at least ought to be clear from our discussion
+today.
+My third opinion has to do with the issue of reduction. While it
+is fruitful to attempt reductions, I believe that philosophical reriuctionism-the Idea that ultimate explanations can be given
+strictly in terms of the concepts and theories of one fundamental
+and underlying science-is nonetheless a mistake. That is, while
+It is valuable to attempt analytic reductions in individual cases
+(for such attempts can be revealing and even lead to pathbreaking
+research), there is no reason to suppose that a general reduction
+will ever be possible, and every reason to suppose the contrary. Nor
+have there been more than a few successful reductions in the past:
+philosophical reductionism persists despite lack of evidence in its
+
+The Division of Knowledge
+
+favor, and the presence of overwhelming logical and empirical
+arguments against it. On this issue I have been convinced by the
+arguments of Medawar and Popper, and by Donald Campbell's
+important argument about "downward causation." As Popper rel)ortS: "Hardly any major reduction in science has ever been completely successful , . . one of the very few . . . is the reduction of
+rational fractions to ordered pairs of natural numbers." If the
+possibility of complete reduction is what is meant by the programme for the unity of the sciences, then I do not believe In the
+
+iethelessa fundamental
+unity to the sciences, one that does provide some explanatory and
+interpretive power, and that this is a unity of underit in method.
+evera other speakers in t is Committee in supposing that the unity of the sciences-and, in the wider sense, the
+unity of all endeavors concerned with the growth of knowredgeconsists in a unity of method, and that a good account of this
+method emerges from the work of Popper. That is, chemistry and
+physics. say, cannot be reduced to one another, but they employ
+the same underlying method. And the same applies to the other
+domains of knowledge. In fact, I go further than those who maintain the unity of the sciences, So far as this underlying methodology is concerned. I believe that there is a unity to all areas devoted
+to the growth of knowledge, whether they be called "scientific" or
+not:
+The basic method of the growth of knowledge is the method of
+variation and selection found in living organisms. It is the evolutionary Darwinian method of conjecture (variation) and refutation
+(selection). Within this basic unity, many Important subdivisions
+or speclations of knowledge may of course exist: that, for example,
+between simple and complex phenomena that is so important to
+Hayek's discussion, and which has been brilliantly developed for
+this session by Gray and Weimer, and by Naomi Moldofsky.
+Whether one speaks of the unity or division of knowledge depends
+on whether one Is speaking of the underlying unity or is concentrating on speciation within this unity.
+The basic methodological unity, and the discovery of its parallels
+or even identity with evolutionary processes in biology. is of great
+Importance.
+But even here, where some members of the panel appear to
+agree. there are problems. There are, for Instance, problems about
+the Interpretation of our key figures-in particular, of Popper and
+
+W W Bartiey. ill
+
+Hayek. For example. I disagree with the interpretations of Hayek
+and Popper presented by Gray and Weimer. And they differ with
+one another too."
+Much more important. there are problems in fleshing out what
+this underlying method consists tn-indeed, even in interpreting
+i the idea of conjecture and refutation. I myself prefer to say. with
+Campbell,7 that the three essential and distinct components of the
+growth of knowledge-and of the evolutionary process, which is
+itself a knowledge process-are 1) the occurrence of blind, unjustified variations: 2) selectIon: i.e.,, weeding out, according to
+certain criteria, from variants: and 3) a mechanism for the preservation, duplication, propagation, transmission of selected variants. And that the methodological problem, in all areas of
+knowledge, is how to interact with these stages so as progressively
+to enhance "fit" or correspondence between theory and fact.
+Yet Walter Weimer carves out three different basic components:
+1) creativity or productivity: 2) rhythm and its progressive differentiation: and 3) regulation by opponent processes. And he does
+not state a methodological problem with respect to these. The first
+and third steps here seem close to my first and second steps. But
+what of my third step and Weimer's second? Are these just minor
+differences, easily reconciled? Or does a major disagreement lurk
+here? And what of the fact that Weimer, although he declares
+himself an evolutionary epistemologist. rejects the idea of "verisimilitude" that underlies the "hypothetical realism" of Popper.
+Lorcnz, and Campbell, and which has been intended, particularly
+by Popper. to capture the fit or correspondence attempted between
+theory and reality?TM
+These are just a few questions and reflections in a situation
+where I am not sure what the questions are. With them I conclude
+'my introductory remarks, which have been intended only to alert
+readers to my approach and prejudices, and to some doubts and
+reservations about the subject matter, and about our discussion
+",today.
+
+The Division of the Sciences as aflogma of Analytical
+Philosophy
+The main purpose of this paper is to combat an important
+representative of the opposing. dominant position: namely, that
+er'td
+inrjprivinj limitations to the possible meth-
+
+The Division of Knowledge
+
+odological unity of the sciences-that the sciences are essentially
+divided. Analytical philosophy of the Wlttgensteinian sort is more
+responsible for this doctrine, and for the form in which it usually
+appears, than anything else. However the sciences may really bewhether unified or divided-this particular doctrine about the
+division of the sciences seems to me seriously wrong.
+Yet it is widespread. One finds it everywhere in the arts: indeed
+its prevalence among members of Arts faculties confirms the continuing persistence of"Tvo Cultures." But the idea is also held by
+some scientists. it Is, on the face of it, commonsensical: one finds
+it in the work of many people who have never read Wittgenstein:
+one finds similar doctrines in the sociology of knowledge: in
+Habcrmas and in the writings of the Frankfurt school: in Heidegger: in the work of Michcl Foucault and the "archeologists of
+knowledge": in the sort of American pragmatism represented by
+Morton Wbite or, more recently, by Richard Rorty.9
+This popular position is held not only in a purely theoretical way
+but also has had a social and educational Impact, for example.
+through the account of "forms of knowledge" advanced by the
+\Vlttgensteinian philosopher, Professor Paul H. Hirst, of the University of Cambridge)"
+Hirst's work has not only been influential; he actually appears to
+have succeeded in introducing his account of the essential division of knowledge Into the British school curriculum. Professor
+Malcolm Sklibcck, Director of Studies at the British Schools
+Council-and formerly Director of the Australian National Curriculum Development Centre-testifies that:
+• . . an academic theory olliberal education underlies Her Majesty's
+inspectorate's view of the curriculum. I am referring to Paul Hirst's
+analysis of forms and fields of knowledge.
+And Professor Richard Peters, of the University of London,
+writes of Hirst's account of the "forms of knowledge." and their
+bearing on education, that "anyone working In the field has to
+take up some stand" with regard to them.°
+I stand opposed. Yet I am not chiefly interested in opposing
+I-llrst: I want to mark the Wittgensteinian assumptions that lie
+behind his approach. and thereby to illustrate the reach they now
+have into the very heart of our cuitural life. Moreover, i hardly want
+
+W. W Bartley. III
+
+to examine Hirst's position as a whole, only to touch on points
+that relate to our argument.
+In any case, he claims no originality for his position, and acknowledges as antecedents, in addition to Wlttgenstein. Michael
+Oakeshott's Experience and Its Modes. John MacMurray's Interprettng the Universe, R. G. Collingwood's Speculum Mentis. and
+Louis Arnaud Reid's Ways of Knowledge and Experience. A position similar to Hirst's, and similarly inspired, is Stephen
+ibulmin's The Uses of Argument and Human Understandlng.°
+
+An Example: Hirst's Position That Knowledge Is
+Compartmentalized and Rationality Is Limited
+According to Hirst, the "domain of knowledge" is the "domain of
+true propositions or statements": and all such knowledge is ciivided into "seven or eight" essentially different, "primary," "necessary," "final," "unique" and "irreducible" categories or "forms."
+each of which has a "distinctive logical structure" stemming from
+the "logic," "truth criteria," "criteria of validity," "criteria of meaning," "manner of justification," and "central concepts" that are
+peculiar to It and distinguish it from all others. These categories
+are described alternately as "forms of knowledge" and "forms of
+understanding." Hirst also sometimes identifies them wlth Wittgensteinian "language games." All of this constitutes a "basic
+philosophic truth about the nature of knowledge" which he proposes to analyze. Any knowledge that occurs must occur within
+one or another of these basic categories)4 And although these
+categories are not identical with traditional school and university
+subjects or disciplines, different areas of research nonetheless
+tend to follow these allegedly logical dlstinctions)
+These essentially separate, "logically delimited" domains seem to
+be mathematics, the physical_sciences, knowledge of persons,
+literature and the fine arts, morals, religion, and philosophy. I write
+"ëieciiiiTThakes differliig listings ii iTIei t places:
+thus he once seemed to distinguish "historical knowledge" as a
+separate form, but later thought it best "not to refer to history or the
+social sciences in any statement of the forms of knowledge as such."
+He also sometimes writes as if there is a more general underlying
+distinction between the "human sciences" and the "physical sciences." And he has vacillated over the question of whether religion
+really does constitute a separate form of knowledge.
+72
+
+The Division of Knowledge
+
+About one thing. however, he is definite: whatever the forms of
+knowledge may be, they are essentially different, "primary," "necessary." "final," "unique" and "irreducible." That is, his theory, like
+much British philosophy, despite its pretense to analyze the concrete, is a priori. Hirst got it from reading Wittgenstein, not from
+any investigation of the different areas of knowledge about which
+he purports to write. He did not get it from investigation of, or
+reflection on, the current state of the sciences: there is no evidence
+in his work of the sort of relevant current knowledge of, say
+cybernetics, the central nervous system, or economics, that characterizes several of the papers presented to this Committee. Indeed, Hirst does not really give an "analysis" of the "forms and
+fields of knowledge" at all.
+Hirst claims not only that knowledge is essentially compartmentalized, but also that rationality is essentially limited. This is not
+the Havekian doctrine of the limits of rationality-limits with
+regard, that Is. to prediction and explanation in the treatment of
+complex phenomena. Hirst's is a doctrine according to which
+some principles are exempted from rational consideration, assessment and criticism, and require commitment to them)
+Htrst gives the following account of rationality:
+1) Any rational activity "as such," is characterized by commitment to two fundamental principles concerning the
+possibility of justification which mark the limits of
+rationality
+2) This applIes to the pursuit of knowledge. To pursue
+knowledge rationally, one must be committed to the
+fundamental principles of justification.
+3) These principles are ultimate, themselves cannot bejustifled. and hence cannot be assessed or questioned: justification, and hence assessment, can be made only by
+means of them.
+Hirst's doctrIne of the division of knowledge reinforces his doctrine of the limits of ratIonality-leading to what Popper calls "a
+reinforced dogmatism." For once one has conceded that rationality
+is iimited in its critical range. it becomes more plausible to suppose that there exist disciplines or"forms of knowledge" where the
+
+W. W Bartley, Ill
+
+standards of logic and science, the chief instruments of rationality. should be forbidden to range: disciplines and practices.
+that is, that are intrinsically protected from the judgement of logic
+and science.
+Thus, for Hirst, there Is indeed no way for the standards of one
+discipline (or form of knowledge) to be assessed in terms of the
+standards of another discipline: such standards are, In effect, selfassessing, and can, themselves, only be assessed in terms of
+HIrsCs "principles of rationality." And the principles of rationality
+cannot be assessed at all: we are asked to believe, rather, that
+"their Justification is written into them."
+An Approach to the Disagreement
+Wlttgensteinian philosophy is so much at odds with the approach of most speakers at this session that, in comparing and
+contrasting approaches, we risk failing to reach an understandding of the underlying disagreements. let alone any resolution
+thereof. To refute claims such as Hirst's, it is ineffectual to begin
+by disputing details, and this paper is in any case not the place for
+such a dlspute) In such situations, a little preparatory work, a
+little context, helps. So I will sketch the background problem
+situation, and some of the main steps that lead to the sort of
+position Hirst represents.
+Next, I shall try to do the same for the members of our panel,
+that is, for philosophers of a Popperian disposition, who tend to
+uphold a unity of method in the growth of knowledge.
+If successful. my attempt will identify the main assumptions
+about which most Wittgensteinians differ from most members of
+our panel: and thus also identify those assumptions which force
+them to deny the unity of the sciences. Our questions might be:
+Why Is It that a Wittgensteinian must deny. a priori, the unity of
+the sciences? And, why must a Wittgenstelnian compartmentalize
+knowledge and limit rationality?
+
+The Background Context to Hirst's Position:
+The "Wittgensteinian Problemmatic"
+What then are the answers to our two questions?
+Two independent but closely related features of the Wittgensteinian position force sucl conclusions on them. The first Is contex-
+
+The Division of Knowledge
+
+tual, and is distinctively, although not uniquely, Wittgensteinian.
+It comes from what I call "the Wittgensteinian problemmatic." The
+second Is structural, and comes from "justificationlsm"-.something that is not distinctively Wlttgensteinlan but is especially
+prominent In Wittgenstein's On Certainty, and which he shares
+with most other philosophies that also have never felt the impact
+of Darwin, I.e., with most contemporary philosophIes.
+I shall discuss the Wittgensteinlan problemmatic in this section, and justificatlonism in the following sections.
+It Is often forgotten that Wlttgenstein's later philosophy was
+created In specific opposition to a false doctrine about the unity of
+the sciences. The doctrine that I have in mind is of course that of
+the logical positivists. The positivist position was a form of scientific Imperialism according to which legitimate utterances are to
+be judged In terms of the canons and criteria ofscience-"sclence"
+being understood in a positivist sense.
+It Is clear how this position was meant to provide a unity to
+intellectual endeavour. For the notion that sense observation is
+the foundation of all legitimate discourse provides a universal
+theory of criticism and explanation of error. If observation is the
+only true source of knowledge. and If reports of sense observation
+serve as the only legitimate premises in valid argument, their
+truth vill be, In accordance with elementary logic, transmitted to
+the conclusion of that argument.2 Thus, any legitimate, I.e.,
+properly sourced or justified, statement would be derived logically
+from, and justified in terms of, true observational premises.
+Whereas an unacceptable theory would be one that could not be so
+derived. Hence the main source of error would lie in accepting a
+position not logically derivable from sense observation reports.
+But this approach is untenable. Its proponents-from Hume to
+the present-are confronted by an Insuperable difficulty. That is,
+many perfectly legitimate scientific claims cannot be justified as
+demanded. Every universal law of nature Is logically too strong to
+function as the conclusion of a valid argument whose only premises are sense observation reports. And not only scientific iaws are
+underivable from sense observation reports: various principles
+often supposed, particularly by positivists, to be indispensable to
+science, e.g.. principles of induction, verification, and causality,
+also cannot be thus derived.
+But ibis means that the principle of criticism that had been
+advanced, far from being universal, hardly works anywhere. More75
+
+W. W Bartley, Ill
+
+over, it would appear that any relationship between evidence and
+conclusion must be Illogical.
+There Is nothing distinctively Wittgensteinian about the step
+Just rehearsed: such a "difficulty"-an epistemological crisis,
+rather-has occurred repeatedly in the history of philosophy, and
+that created by Hume's work in the eighteenth century is, in
+essentials, identical to the crisis that the logical positivists faced
+in the twentieth century.
+What is distinctively Wittgensteinlan is, rather, an extension of
+the strategy commonly adopted to resolve this crisis. The most
+common way of resolving the crisis had been the following. It is
+asserted that the relationship between evidence and conclusion is
+not Illogical, only non-logical. There are two kinds of inference:
+deduction, which defines logic; and induction, which defines the
+natural sciences. Induction is indeed not deductive; but there is
+no need for It to be so. The whole epistemological "crisis" was In
+fact a "pseudo-problem" artificially created by the unwarranted
+imperialistic) assumption that canons of science must conform
+to canons of logic. Whereas, instead of being a faulty sort of
+deduction, induction is ultimate, defining science, just as deduction is ultimate, defining logic. Thus the problem of induction is
+"dissolved" by learning not to apply logical standards to inductive
+inference.
+One should, then, so it is concluded, not judge between deduction and induction, not judge inductive argument by deductive
+standards. Rather, the task is to describe and clarify the standards
+and principles of deductive and of inductive reasoning, as they are
+embedded in actual practice. And to do so is to make clear that
+there Is no way to unify the principles of these two domains. I
+have emphasized the last sentence to stress that the initial and
+crucial sundering in the old doctrine of the unity of the sciences
+already occurs at this point. But it is passed over quietly or may
+even go unnoticed. For most positivists, although accepting the
+division between deductive and inductive logic, nonetheless continued to maintain the unity of the sciences: maintaining, that is,
+that the sciences consist of all and only those activities that
+include both deductive and inductive logic.
+At this point, however, a new, and distinctively Wittgensteinian
+development threatens the old doctrine of the unity of the sciences
+in a more explicit way.
+
+The Division of Knowledge
+
+A simple question is raised. Why not extend the process a step
+further? For there exist other disciplines and "forms of life" whose
+principles are neither logical nor scientific-neither deductive nor
+inductive. There are, for instance, history and jurisprudence and
+religion and politics. In the past, practitioners of such disciplines
+have often been criticized by reference to logical and scientific
+standards, Yet illogic cannot be permitted to judge science, why
+should science or logic be permitted to judge such other forms of
+life? Why eliminate only the imperialism of deductive logic? Why
+not eliminate the imperialism of inductive logic as well?
+Under the approach adopted by the later Wittgenstein. and
+taken up with variations by Hirst, each "language game" or "form
+of llfe"-or, in the case of Hirst, "form of knowledge-is said to
+possess its own ungrounded ultimate standards or principles or
+"logic" that need not conform to any other standards.
+This means that there is no arguing or judging among different
+forms of life-or knowledge-any more. Not only is there no longer
+a universal theory of criticism, there is no longer even a cross
+disciplinary theory of criticism. Logic cannot judge science, or
+science, history: or, history, religion. And so on. There is no unity
+to knowledge-or science. Scientific imperialism makes way for
+disciplinary independence-and for the division of knowledge.
+Some of the consequences of this move are considerable: preservation of a minimum of"Two Cultures" is underwritten by professional philosophy: the fragmentation of the university and of the
+community is given a theoretical justification. Another consequence is a new conception of the task of philosophy, and the
+creation of the research programme that dominates Wittgensteinian philosophy.
+And in this theoretical justification resides all that remains of
+unity. Whereas the positivists provided a universal theory of criticism, the new explanation of error arising here does away with
+such criticism: philosophical error is now said to arise from the
+imposition of standards in usage in one area into different areas,
+Philosophical critique becomes critique not of content but of criteria application: the activity of showing how language may stray
+from its proper place and then bringing It back to its correct
+context. On this view, positivist philosophy as a whole may be
+regarded as a grand "category mistake," that of supposing that
+different forms of knowledge must satisfy the criteria of one su-
+
+77
+
+W. W Bartley. Ill
+
+premely authoritative form of knowledge: science. Yet there is
+nothing wrong. so it is contended, with a positivistic empiricism
+within proper limits: positivism is all right for science in so far as
+it expresses the "inductIve" principles behind the shared practice
+of the scientific community.
+An explanation of error often leads to a program of reform whose
+aim is to create conditions under which such errors will no longer
+arise. So it is here. Wittgenstein himself never claimed that all
+identifiable disciplines and activities In which people engage are
+separate language games each with Its own sets of rules. And
+Hirst is careful to say that existing disciplines only tend to conform to the forms of knowledge. But other Wlttgensteinians went
+further, to suggest that each individual activity-law, history, science, logic, ethics, politics, religion-has Its own special grammar
+or logic; that mixing the grammar of one of these with that of
+another leads to error; and that it is the new Job of the philosopher-his new research program under the Wittgensteinian dispensation-to describe in detail these separate logics or
+grammars. In this spirit two generations of British and American
+professional philosophers came to write books with titles such as
+The Vocabulary of Politics, The Language of Morals. The Logic of
+Moral Discours, The Logic of Historical Explanation, The Language of (Literary) Criticism, The Language of Fiction, The Uses
+of Argument. The Logic of the Social Sciences, The Logic of the
+Sciences, The Province of Logic. The Language of Education, The
+Logic of Education. The Logic of Religious Language, Faith and
+Logic. Christian Discourse. The Language of Christian Belief The
+Logic of Colour Words, and so on.2' l-flrst's work in education is
+one striking example of the execution of this research program.
+This Is a research program according to formula-a very simple
+"research formula" whereby a book or learned paper can be generated: "Thke one of the phrases 'The Logic of x,' 'The Language of x,'
+or 'The Grammar of x'; substitute for x some activity or discipline
+such as those Just named; write a treatise on the topic so created."
+The ease with which such programmes could be carried out further explains the success of such philosophizing-as witness to
+which each of the titles cited has decorated a book or monograph
+actually published.
+Latent in all this is a new imperialism, generally unconscious.
+according to which disciplines or forms of life must conform as
+follows: true forms of life, or forms of knowledge. (a) must not
+
+The Division of Knowledge
+
+judge one another: and (b) must not try to describe some common
+world in collaboration with another discipline since each form of
+life creates its own world.
+
+A Different, Fopperlan Look at the Background Context
+Popperians see the matter differently.
+The chain of argumentation just rehearsed depends on the first
+steps: the claims that sense experience is the foundation and
+justification of all knowledge; that induction exists: and that the
+problem of induction cannot be solved nor the scientific method
+charted in a purely deductive way. But Popper argues that these
+claims are all invalid. If he is right, the whole argument unravels,
+and a generation of philosophizing is intellectually undone.
+Watch how the argument looks to Popperlans. Popper gave a
+solution to the problem of induction, showing that there is a
+falsifying deductive relationship between evidence and theory.
+Thus there is no need to chart a separate inductive logic for
+science. Quite the contrary, there is no such thing as induction, If
+logic holds sway even in the natural (or "inductive") sciences, if it
+Is not necessary to chart a special canon for the natural sciences,
+then the rest of the argument, an argument for developing a
+special canon or set of criteria for each form of knowledge, does
+not even arise: and there is no longer any reason to assume
+underlying and irreducible disunity.
+What then lies at the heart of the dispute? It is the question
+whether Popper has indeed succeeded in giving a sound deductive
+solution to the problem of induction. If he has, there is no difficulty in formulating an account of the unity of the sciences. If he
+has not, the argument that we have rehearsed-what I call the
+"Wittgensteinlan problemmatic"-will continue to exert some
+force.
+This Is the background context of our dispute. If we neglect it.
+and neglect to consider what weight rides on the rival claims that
+the problem of induction has or has not been solved, we are not
+likely to reach understanding or agreement on any other point.
+
+Justification and Rationality: Comprehensive
+Rationality
+Thus, two separate yet closely related features of the Wittgensteinian position force the conclusion that knowledge is essentially
+79
+
+W. W. Bartley, III
+
+divided. We have just discussed the first, contextual, feature, what
+I call "the Wittgensteinian problemmatic." The second, to which I
+now turn, is structural, and comes from "justificatlonism," a feature that Wlttgensteinian philosophy shares with most other
+philosophies.
+Justification arises in the very heart of philosophy-in its theory of rationality. The theories of rationality held by Wittgenstein
+and by Hirst are a form of justificationism that I call "limited
+rationality." I shall explain this, and then return to Hlrst and
+Wittgensteln, In a later section. First I need to spell out what
+different types of theory of rationality exist, explain what they are
+attempting to do, and why and to what extent they succeed or fail.
+Rationality is action and opinion In accordance with reason.
+But what that amounts to is disputed by rationalists and other
+philosophers, and theory of rationality grows from this disagreement. While there are numerous ways in which one might group
+theories of rationality, I have found that all important variants faJl
+Into one of three main categories, which I call: comprehensive
+rationality, limited rationality, and pancr(tical rationality. Let us
+take them In turn.
+The first two share the assumption that rational action and
+opinion must be justified or given a foundation. On such an
+assumption, theory of rationality would have to be concerned with
+how to justify, I.e., verify, confirm, make firmer, strengthen, validate, make certain, show to be certain, make acceptable, probabilify, cause to survive, defend, whatever action or opinion is
+under consideration.
+Comprehensive rationality dominates traditional philosophical
+approaches, and remains today the most common account of
+rationality. It is explicitly stated as early as Epictetus (Discourses.
+Chap. 2), and combines two requirements: 1) a rationalist accepts
+all positions that can be justified by appeal to the rational authority: and 2) a rationalist accepts only such positions. On these two
+requirements, defenders of comprehensive rationality agree. They
+begin to differ strikingly among themselves, however, when they
+consider the nature of this rational authority? Their answers fall
+into two main categories:
+1. Intellectualism (or Rationalism), according to which rational authority lies In the Intellect or Reason. A Rationalist justifies his action and opinion by appealing to
+Intellectual Intuition or the faculty of reason. This posi80
+
+The Division of Knowledge
+
+tion is associated with the philosophies of Descartes,
+Spinoza, Leibniz.
+2. EmpirIcism (or Sensationalism), according to which the
+rational authority lies in sense experience. An empiricist
+justifies his action and opinion by appealing to sense
+observation. Associated with this view are the philosophies of Locke, Hume, Mach, and the Carnap of Der
+logische AUJbaLL der Welt.
+Such comprehensive accounts of rationality-also known as
+'comprehensive justificationism" or "foundatIonalism"-are widely
+thought today to have failed. There are a number of reasons for
+this, of which I shall cite only four:
+First, the two main candidate authorities, pure reason and
+sense observation, are hardly authoritative. Sense observations
+arc psychologically and physiologically impure: they are theoryimpregnated, subject to error and illusion. (This consideration
+plays a prominent role, of course, in the theories of Popper and of
+I-Iayek.)
+Second, even disregarding this difficulty, both authorities are
+intrinsically Inadequate to do what is required, for they are both
+too narrow and too wide. Clear and distinct ideas of reason let in
+too much, are too wide, In the sense that they can justify contradictory conclusions, as Kant showed with the antinomies of pure
+reason. Sense observation, on the other hand, is logically inadequate to justify scientific laws, causality, memory. and the existence of other people and the external world (as noted above): and
+in this sense it excludes too much and Is too narrow for the
+purpose in hand.
+Third, the two requirements for comprehensive rationalitythat all and only those positions be accepted that can be justified
+by appeal to the rational authority-are mutually incompatible:
+they cannot be held simultaneously. Thus if we accept the second
+we must justify the first. But the first requirement is not justifiable by sense observation. intellectual Intuition, or any other
+rational authority ever proposed. Moreover, any such justification
+of the practice of accepting the results of argument, even if it could
+per impossible be carried out, would be pointless unless it were
+already accepted that a justification should be accepted at least
+here, which may be at issue. So if the first requirement cannot be
+justified. either theoretically or practically, the second require81
+
+W W Bartley. Ill
+
+ment forbids that one hold it. Worse, the second requirement also
+cannot be justified by appeal to rational criteria or authorities.
+Therefore it asserts its own untenability and must, if correct, be
+rejected. 2:
+
+Fourth, and most serious, no version of comprehensive rationality can defeat the ancient argument about the limits of
+rationality that is found already in Sextus Empiricus and the
+ancient sceptics. to the effect that there are essential limitations
+to justification. Any view may be challenged by questions such as
+"How do you know?", "Give me a reason", or "Prove it!" When such
+challenges are accepted by citing further reasons that justify those
+views under challenge, these may be questioned in turn. And so
+on forever. Yet If the burden ofJustification is perpelually shifted to
+a higher-order reason or authority, the contention originally questioned is never effectively defended. One may as well never have
+begun the defence: an infinite regress Is created. To justify the
+original conclusion, one must eventually stop at something not
+open to questionfor which one does not and need not provide
+justijicatory reasons. Such a thing, e.g., a standard, criterion,
+authority, basic presupposition, framework, way of life, would
+mark the halting point for rational discussion, the limit of
+rationality.
+To sum up these four difficulties in comprehensive rationality:
+the first two argue that all proposed authorities are, for various
+reasons, inadequate to their task; the third argues that the position is inconsistent; the fourth, that it demands unlimited justification whereas justification is essentially limited.
+
+Limited Rationality
+There have been two chief reactions to these difficulties, reactions which, when casually examined, may look very different one
+from the other. But the difference concerns nothing essential, and
+is mainly a difference In emphasis. Both reactions fall under what
+I call theories of limited rationality.
+The first reaction is frankly irrationalist, or fldeist. It joyfully
+takes the difficulties to mark the breakdown of an overreaching
+reason. The fideist makes a claim. I will not call It quite an
+argument: for the radical fideist is concerned with argument only
+to the extent that it is an effective weapon against someone, such
+as a rationalist, who is moved by argument. This claim is simple.
+
+The Division of Knowledge
+
+SInce an eventual halt to rational justification is inevitable and
+cannot be made with objective and universal reason, it must be
+made with unreason, subjectively and particularly. Thus the flde1st deliberately makes a final, unquestionable subjective commitment to some particular principles or authority or tradition or way
+of life, or some framework or set of presuppositions. Such a way of
+life creates and defines itself by reference to the limits ofjustificatlon accepted within it: by reference to that to which commitment
+Is made or imposed, in regard to which argument is brought to a
+close.24
+Although this limit to justification is a limitation to rationality.
+and although reason is now relativized to It, it remains a logical
+limitation. This point is emphasized, in order to press home the
+attack on rationality. For if no one can escape subjective commitment, then no one may be criticized rationally for having made
+such a commitment, no matter how idiosyncratic. If one must,
+then one may: any irrationalist thus has a rational excuse for
+subjective irrationalism. He has a tu quoque or boomerang argument. To any critic, the irrationalist can reply: "tu quoque,"
+reminding him that those whose rationality Is similarly limited
+should not berate others for admitting the limitation. The alleged
+limitation is the more telling in being accompanied by the conclusion that in those things which matter most-one's ultimate
+standards and principles-reason is incompetent: and that those
+matters which reason can decide are of comparatively little
+importance. Kierkegaard. in his Fear and Trembling, in his
+Johannes Climacus, or Dc Omnibus Dubitandum Est, is one of
+many writers who have used such an argument to reach such a
+conclusion,
+The second main reaction to the difficulties of comprehensive
+rationality does not differ structurally from the one I have just
+described: and it reaches most of the same conclusions. Yet there
+is a marked difference of emphasis and mood. It is often called
+"fideism", and yet lilt is so, it is a fideism "without glee." It Is
+taken up by some, such as Wittgenstein and Hirst, who, far from
+having any particular animus against rationality, rather indicate
+their respect for rational argument by taking the arguments
+against comprehensive rationality seriously, and by attempting to
+chart a more adequate. limited, i.e., non-comprehensive, approach to questions of rationality.
+
+W. W. Bartley, III
+
+The Division of Knowledge
+
+us immediately as true, i.e., It is not a kind of seeing on our part: it
+is our acting. which lies at the bottom of the language-game.(204)
+
+Such a limited view of rationality is common within British
+philosophy of the so-called analytical sort, and also within American "neo-pragmatlsm." Thking such a general approach, but differing greatly in individual emphasis and attitudes to rationality, are
+Sir Alfred Ayer. Robert Nozick, Hilary Putnam, W. V. Quine, Richard Rorty. Morton White, and many others. It is now difficult to
+find a philosopher who does not take some such approach, however reluctantly.
+Despite differences, virtually all who take this limited approach
+to rationality share at least two assumptions: one about commitment and the limits ofjustification; the other about description as
+the only alternative to justification.
+First, they accept that grounds or reasons or justifications must
+be given If something is to be rational, but insist that the standards-principles, criteria, authorities, presuppositions, frameworks, or ways of life-to which appeal is made in such
+justification cannot and need not be themselves justified, and
+that a commitment must hence be made to them.
+Hirst's account of rationality conforms to this first assumption.
+Recall that, for him, any rational activity, "as such," is characterized by commitment to fundamental principles concerning the
+possiblity ofjustification which mark the limits of rationality. And
+these principles are ultimate. They themselves cannot be justified,
+and hence cannot be assessed or questioned: justification, and
+hence assessment, can be made only by means of them. On the
+other hand, he also claims that they do not need to be justified,
+since their justification "Is written Into them."
+In On Certainty, Wittgenstein states such a position as follows:
+
+Wittgensteln's statements here are clear, and to make clearer,
+his student Norman Malcolm has explained. in his essay on 'The
+Groundlessness of Belief," that Wittgenstein means that justifIcation occurs within a system and that there can be no rational
+justification of the framework itself. Rather, as Malcolm puts it:
+"The framework propositions of the system are not put to the test."
+It is, he maintains, a conceptual requirement that Inquiries stay
+Lvttlltn boundaries. The implications of this claim for the "unity"
+of the sciences are obvious, and echo the remark by Hlrst which I
+used as an epigraph for this paper.
+Moreover, scientific and religious frameworks are on a par here,
+according to Malcolm. Quite In line with Wittgenstein's own remarks about the justification of induction, Malcolm states: "the
+attItude toward induction Is belief in the sense of 'religious' belief-that is to say, an acceptance which is not conjecture or
+surmise and for which there is no reason-it is a groundless
+acceptance . . . Religion is a form of life . . . Science is another.
+Neither stands in need ofjustificatlon, the one no more than the
+other."
+
+Must I not begin to trust somewhere?. . . somewhere I must begin
+with not-doubting: and that is not, so to speak, hasty but excusable: It Is part ofjudging.(150) . . . regarding (something) as absolutely solid is part of our method of doubt and enquiry.( 151)
+Doubt Itself rests only on what Is beyond doubt.(519) . . . The
+questions that we raise and our doubts depend on the fact that
+some propositions are exempt from doubt, are as it were like
+hinges on which those turn.(341) . . . if! want the door to turn.
+the hinges must stay put.(343). . . Whenever we test anything, we
+are already presupposing something that Is not tested.! 163). . . At
+the foundation of well-founded belief lies belief that is not
+founded.(253) . . . Giving grounds . . justifying the evidence,
+comes to an end:-but the end is not certain propositions' striking
+
+There is however a difference between Wittgenstein and the
+gleeful fideist who glories in the limitations of reason and calls for
+deliberate commitment to the absurdity of one's choice. Malcolm
+reports that, on the Wittgensteinlan view, one does not decide to
+accept framework propositions. Rather, "we are taught. or we
+absorb, the systems within which we raise doubts . . . We grow
+into a framework. We don't question it. We accept it trustingly But
+this acceptance is not a consequence of reflection."
+So much for the first assumption made by proponents of "limited rationality" Their second assumption is that the task of the
+philosopher, once he has seen that any attempt to justify standards or frameworks or ways of life must be made In vain, is to
+describe them. That is, the task of the philosopher is the subject-
+
+The language-game is , . . not based on grounds. It is not
+reasonable (or unreasonable).(559) . . . if the pupil cast doubt on
+the justification of inductive arguments ... the teacher would feel
+that this was only holding them up. that this way the pupil would
+only get stuck and make no progress-And he would be right
+this pupil has not learned to ask questions. 1-Ic has not learned the
+game that we are trying to teach him,(31 5)
+
+W; W Bartley, Ill
+
+neutral description of standards and frameworks-a description
+in terms of which no one set of standards is given authority over
+any other. This is Hirst's specific task in education, and we have
+already seen a glimpse of the research programme that flows from
+this second assumption.
+We have now reviewed In a very general way several sorts of
+comprehensive rationality and several sorts of limited rationality.
+Almost all contemporary philosophers, including Wittgenstein
+and Hirst, assume implicitly that there are no other options, and
+do not even consider other possibilities. But Popperians have
+another option. Here they differ utterly from the mainstream of
+philosophy, and I should like to indicate our own solution, pancritical rationality, in the next section. The solution to the prob1cm of induction, combined with the nonjustificatlonal account of
+criticism that I am about to present, enable us to avoid the related
+Wittgensteinian doctrines of the division of knowledge and the
+limits of rationality and make it at least theoretically possible for
+there to be a unity of the sciences.
+
+Pancritical Rationality
+The Popperian position differs utterly from the theories of rationality Just described in that it provides a nonjustiJlcational
+account of rationality. In this account, rationality is unlimited
+with regard to criticism (although there are various other limitations to rationality which Popper, like Hayek. stresses, in opposition to various forms of "scientism"); and there are no intrinsic
+logical reasons requiring the division of knowledge.
+There is also a scientific significance to It that I shall mention
+briefly here and return to later. Justificationist philosophy-and
+consequently most contemporary epistemology-is non-Darwinian. indeed Lamarckian. Whereas nonjustificat ionist philosophy
+Is Darwinian. That Darwin's theory had important philosophical
+consequences has been seen before-when, for example. John
+Dewey wrote, In "On the Influence of Darwin on Philosophy." that
+The Origin of Species introduced a mode of thinking that would
+transform the logic of knowledge. But only with the development
+of nonjustificationist philosophy has Darwin's way of thinking
+been implemented in philosophy, and the transformation begun
+to occur.
+86
+
+The Division of Knowledge
+
+So much for claims about the position. Before stating the position itself, I would like to note and concede, lest we be sidetracked
+in textual exegesis. that there are, in Popper's early works (e.g., in
+his first book, Die beiden Grundprobleme der Erkenntntstheorte,
+In Logik cier Porschung, and also in the first three editions of The
+Open Society and Its Enemies) a few fideistic remarks. In The
+Open Society and Its Enemies (Chap. 24), this fldeism appears in
+Popper's "irrational faith in reason," as he calls it when he urges
+us to "bind" ourselves to reason. In Logik der Forschung (Chap.
+5), a similar fideistlc "decisionism" emerges briefly in his discussion of the acceptance of basic statements: and in Die beiden
+Grunciprobieme. such a fideism appears in passing in his remarks
+about the selection of aims and goals, and about "Kant's idea of
+the primacy of practical reason."27
+In my view, these early fideistic remarks are relatively unimportant: they play no significant role in Popper's thought but are
+superfluous remnants of Justificationism, out of line with the
+main thrust and intent of his methodology, empty baggage carried
+over from the dominant tradition. They may be dropped without
+loss, as Popper himself has done, with considerable improvement
+in consistency, clarity, and generality in the position as a whole.2
+When, in 1960, 1 proposed a contrast between Justificationist and
+nonjustificationist theories of criticism as generalization of his
+distinction between verification and falsification, he dropped this
+remaining fideism from his approach, and adopted instead the
+approach that I am about to describe. Our contrast between justiflcationlst and nonjustificationist accounts was introduced at
+that time.
+The alternative approach, which Poppef continues to call "critical rationalism," and which I prefer to call "comprehensively critical" or "pancrltical" rationality, is then an attempt to overcome the
+problem of the limits of rationality by generalizing and correcting
+Popper's original approach.
+Popperlans begin by denying both assumptions of limited ratlonality mentioned above: that Is, they deny that justifications
+must be given in order for something to be rational. And they do
+not turn to description when justification proves impossible.
+Rather, they abandon all Justification whatever. And they see
+criticism, not description, as the alternative to Justification.
+While agreeing with Wlttgensteln (and I-Iirst) that principles
+and standards of rationality, or frameworks and ways of life, can87
+
+The Division of Knowledge
+
+W. W Bartley, Ill
+
+not be justified rationally, we regard this as a triviality rather than
+as an indication of the limits of rationality. For we don't think that
+anything at all can be justified rationally. Not only do we not
+attempt to Justify the standards; we do not attempt to just(fy
+anything else in terms of the standard-s. We do not think that there
+is any such thing as "well-founded belief" anywhere in the "system."
+Rather, we locate rationality in criticism. (And thus the resulting name "pancritical rationality" [or comprehensively critical rationalismi.) A rationalist is, for us, one who holds all his
+positions, including standards. goals, criteria, authorities, decisions, and especially his framework or way of life, open to criticsim. He withholds nothing from examination and review. He does
+wish, by contrast to Malcolm, to put the framework propositions
+of the system to the test. We believe that the framework is held
+reasonably or rati
+and sur1ves criticism Thus we wish to enhance the role oi reiiec
+tive acceptance" of frameworks, not deny it. In connection with
+our examination of frameworks, we have gone so far as to challenge the very existence of inductive reasoning. and obviously
+neither "believe" In induction or regard it as immune from criticism. Anyone who will return to reread the selections from Wittgenstein quoted above will see that we are, then, from
+Wittgenstein's point of view, "bad pupils."
+Not only would we reject induction; we would reject Hirst's
+principles, i.e., those that he claimed one must commit oneself to
+in order to be rational, those that he alleges are presupposed in
+the rational pursuit of knowledge. We would claim that both principles are, to be sure, unjustifiable, but that they are also criticizable and false.
+Some may object that our position is simply Impossible-not
+only practically impossible, as it may well be, but also logically
+impossible. They will insist that all criticism is in terms of something which must be taken for granted as justified. and which is
+hence beyond criticism. They may add that it Is a mark of our
+being bad pupils that we do not understand this.
+But we do understand it: we understand what the claim means
+and know that Wittgensteinians (and many others) make it all the
+time. We also understand something of the historical background
+of the claim, This claim is itself a"framework" or structural feature.
+But we deny it. We deny that it is correct: we deny that it is
+necessary to trust something-a "hinge" as it were-that is beyond
+
+88
+
+J'.
+
+\
+
+doubt. "Regarding something as absolutely solid" is not part of our
+method of doubt and enquiry. Nor do we suppose that something
+that is not tested must be presupposed whenever a test is made.
+For the distinctive character of our position lies in its quite
+novel separation of the question ofjustification from the question
+of criticism. Of course all criticism is "in terms of" something. But
+this 'something" in terms of which the criticizing is done need
+not be taken for granted as justified or beyond criticism, indeed, it
+need not be taken for granted at all. One example of such nonjustificational criticism is Popper's account of corroboration. To
+test a particular theory, one determines what sorts of events would
+be incompatible with it, and then sets up experimental arrangements to attempt to produce such events. Suppose that the test
+goes against the theory. What has happened? The theory definitely has been criticized in terms of the test: the theory is now
+problematic in that it is false relative to the test reports: whereas
+the test reports may at the moment be unproblematic. In that
+case, the theory may be provisionally and conjecturally rejected
+because it conflicts with something that is unproblematic or less
+problematic. Does this prove or establish or justify the rejection of
+the theory? Not at all. Thst reports are hypothetical. criticizable,
+and revisable, forever, just like everything else. They may become
+problematic: they are themselves open to criticism by the testing
+of their own consequences.
+This process of testing and attempted falsification is of course
+potentially infinite: one can criticize criticisms indefinitely. Rationality is in this sense unlimited. But no infinite regress arises
+since there is no question of proof or justification of anything at
+all, This approach may produce in one who is unaccustomed to it
+an uncomfortable feeling of floating, of having no firm foundation.
+That would be an appropriate response: for it is floating: It is
+doing without a foundation. But this approach does not produce
+paradox: nor is floating logically impossible. however difficult it
+may be physically. Thus the (U quoque argument is defeated: no
+commitment is necessary: all commitments may be criticized.
+In sum, Popperians separate justification and criticism:
+whereas in Wittgenstein and the Wittgensteinians, justificatIon
+and criticism remain fused. The unconscious fusion ofjustlficalion and criticism that permeates Wittgensteinian thought cxplains why Vittgcnsteinians turn to description of frameworks
+and standards when justification of them turns out to be impossi89
+
+W W. Bartley. III
+
+The Division of Knowledge
+
+ble. For criticism only appears as an alternative to justification
+after the two notions are separated.
+The new problem of rationality-of criticism and the growth of
+knowledge-now becomes the problem of the ecology of rationality. Instead of positing authorities in terms of which to
+guarantee and to criticize action and opinion, we aim to construct
+a philosophical programme for fostering creativity and counteracting intellectual error. Within such a programme, the traditional
+"How do you know?" question does not legitimately arise. For we
+do not know. A different question becomes paramount: "I-low can
+our lives and institutions be arranged so as to expose our positions, actions, opinions, beliefs, aims, conjectures, decisions.
+standards, frameworks, ways of life, policies, traditional practices.
+etc. -whether justifiable or not-to optimum examination, in
+order to counteract and eliminate asmuch error as possible?"2
+This account of rationality happens to be parallel to the neoDarwinian account of evolution and adaptation in terms of blind
+(unjustified) variation and selective retention: evolutionary adaptation is also a knowledge process. The question of the justification of opinion is as irrelevant as any question about whether a
+particular mutation is justified. The issue, rather, is of the
+viability of the mutation, or the proposed opinion. The question is
+resolved through exposing that opinion to the pressures of natural selection, or attempted criticism and refutation. Mere survival
+in this process does not guarantee the survivor; a species that
+survives for thousands of years may nonetheless become extinct.
+A theory that survived for many generations may eventually be
+refuted, as was Newton's. And a framework for thought-such as
+the Inductivist framework, or the justificationist framework - may
+eventually be refuted too.8"
+I have, then, remarked that Wittgenstein and Popper take different approaches to these Issues, and I have tried to state the most
+Important of these. From the Popperian perspective, Wittgenstein
+Is thoroughly justificationist, abandoning justification only vis d
+vis frameworks rather than systematically; and both abandoning
+and retaining justification, where he does so, for thoroughly justificationist reasons.
+
+ing its structure-is more effective than detailed examination. I have
+not aimed to carp at it, but to pull the rug from under It. But in this
+section I should like to turn to a few more detailed criticisms.
+I have already remarked that the position is a priori. This point
+ought to be driven home, to illustrate the bogus character of the
+claim that \VIttgensteinian philosophy is "analytical" and depends
+on careful study of individual concrete cases. Thke an example. Hirst
+tells us that there are "seven or eight" forms of knowledge with
+irreducible principles and concepts, one of these forms being mathematics. The most casual look at mathematics, however, shows that
+one could, on Hirst's own terms, push this number very much
+higher. Few real mathematicians would be prepared to specify the
+principles of mathematics. Just restricting ourselves to geometry.
+consider the following table of the various geometries:
+(4) Metrical (Euclidean) Geometry
+(3) Afflne Geometry
+(2) Projective Geometry
+(3) Topology
+The relation between the higher and lower geometries here is very
+complicated, but it is not one of reducibility, as it would have to be if
+there were a set of principles of mathematics. Metrical geometry for
+instance, is only partially reducible to projective geometry: rather,
+metrical geometry is an enrichment of projective geometry. The
+enrichment is partly of concepts, but mainly of theorems; there are
+concepts essentially present on higher levels which are lacking, and
+unobtainable, on lower levels. But Hirst stipulates that each form of
+knowledge possesses concepts peculiar to it. Then why not say that
+there are four "forms of knowledge" within geometry alone-not to
+mention the rest of mathematics? The same tactic could be taken in
+other areas of rñathematics and also in the natural sciences, wherein
+chemistry is not reducible to physics but is an enrichment of it-and
+biology in turn an enrichment of chemistry.81
+There are many other ways to break down any initial plausibility
+that Hirst's division may have. Even factual and moral statements,
+for instance, can be shown to be interrelated (without committing
+the "naturalistic fallacy," as I have argued elsewhere,)'2 Thus his
+"forms" have little real basis, but result from an a priori imposition of Wittgensteinian ideas on existing, crude, disciplinary
+cii St mct Ions.
+Its a priori character is not the only remarkable characteristic of
+this position that argues the division of knowledge. Another char-
+
+Some Specific Criticisms, and Some Minute Philosophy
+It seems to me that the sort of criticism that I have glvencoritextualizing the doctrine of the disunity of knowledge and revealnfl
+
+I
+
+91
+
+The Division of Knowledge
+
+W W. Bartley, 'III
+
+It is impossible to give a proof "that what we regard as rational
+procedure really is so: that our conception of what constitutes
+good evidence is right" (74). Yet simply to discard the demand that
+the standards of rationality be justified hardly suffices, Ayer must
+proceed to show how his approach, as a theory of rationality, can
+afford to dispense with the requirement that standards be justified. Yet he does nothing of the sort, Why on his account do our
+standards of rationality not need rational justification? Simply
+because any such standards "could be irrational only if there were
+a standard of rationality which it failed to meet: whereas in fact it
+goes to set the standard: arguments are judged to be rational or
+Irrational by reference to it" (75). "When it is understood," he
+explains, "that there logically could be no court of superior jurisdiction, it hardly seems troubling that inductive reasoning should
+be left, as it were, to act as judge in its own cause" (75). "Since
+there can be no proof that what we take to be good evidence really
+is so," then "it is not sensible to demand one" (81).
+When It is "understood"... Wittgenstein's word again. But this
+is the issue and cannot be conceded or "understood" in advance.
+Such a position, even if assumed to be coherent, must fail as a
+theory of rationality. The nub of the fldeist attack on comprehensive rationality, as we saw in the sections above, was not simply
+that It is impossible, but that since it is impossible, the choice
+among competing ultimate positions is arbitrary, A theory of rationality that begins by admitting the unjustifiability of standards
+of rationality must go on to show that irrationalism can be escaped without comprehensive rationality. In failing to do so. Ayer's
+dIscussion begs the question and is itself a variety of fideismand hence no answer to it (contrary to his intention).
+But matters are even worse. Consider his argument more
+closely. He contends that our standards of rationality enjoy an
+immunity from the demand for justification since it would be
+impossible to judge them to be Irrational. For they set the standards on which any such Judgement of their own Irrationality
+would have to be based. Now an argument such as this could not
+be relevant, let alone valid, unless some particular standards and
+procedures of rationality, such as Ayers own, which, like Wittgenstein's, include "scientific induction", are assumed to be correct. If
+some particular standards of rationality are correct, then there
+can exist no other rational standards which are also correct but
+which can nevertheless invalidate the former as irrational. This
+
+acteristic, in many of its presentations, is its mystification and
+ritual affirmations and denials. This mystification takes a number
+of different, but typical, forms, that use rather similar . . . let us
+call them "argumentations." for they are not arguments.
+One such argumentation, mentioned briefly earlier, is that, if
+one is to pursue knowledge rationally, one must be committed to
+the ultimate standards of rationality and justification. These,
+Hirst says, cannot be justified and hence cannot be assessed or
+questioned: but they also do not need to be justified, or are, in
+some higher sense, justified after all. As Hirst puts it: the fact that
+they cannot be justified does not mean that they are "without
+justificationS'; for "they have their justification written into them."
+In effect, he implies that these standards act as judge in their own
+cause. "Nor," Hirst insists, "is any form of viciously circular justification involved by assuming In the procedure what is being
+looked for. The situation Is that we have here reached the ultimate
+point where the question of justification ceases to be significantly
+applicable."
+What Hirst says here is not an argument: it is simply a series of
+claims, simply words. It seems as if many analytic philosophers go
+Into a kind of trance, and repeat such words as a kind of magic
+formula, when they reach any question of the assessment of principles. Hirst does not show how his procedure avoids circularity:
+he just denies that it does. He also begs the question and denies
+that he does that. He says that his principles are "self authenticating": they "have their justification written into them." But he
+would deny a similar move made by anyone else. How does he
+know that we have indeed here "reached the ultimate point where
+the question ofjustification ceases to be significantly applicable"?
+He might reply by saying that the "apparent" circularity is due to
+"the interrelation between the concepts of rational justification
+and the pursuit of knowledge." But by arranging matters this way.
+by interdefining his concepts, he conceptually blinds himself, and
+prevents himself from considering the possibility that knowledge
+might be pursued nonjustificationally yet rationally. Not to mention that he has "solved" his problem by definition.
+Another example ofthe same strange incanting is to be found In
+Sir A. J. Ayer's The Problem of Knowledge. Ayer even states
+explicitly that his standards "act as judge in their own cause" (75).
+Aycr too concedes that it is impossible to provide a rational justification for basic philosophical standards, principles, procedures.
+92
+
+..
+
+I
+
+93
+
+W W Bartley. Ill
+
+"Ir tnarksaer iclal assurnpt ion: flits is precisely what is at issue.
+Criticisms oi putative standards of rationality have always quesI ioiwd whet her they were correct. All ernat lye concept Ions of scienhue met hod, such as Pol)l)er's. which deny the existence of
+inductive )l ccdt re. let alone its legitimacy. do clai iii that there
+are standards of rat tonality which posit Ions such as Ayers.
+Hlrst's, and Wittgens1eins fall to meet.
+Many other examples of such incantatton. as opposed to argument. about circularity could be given.0 but the point has been
+made.
+I have been able to fInd In I-first (and not In Ayer) one addItional.
+although partly overlapping, argumentation on behalf of the necessity of a sort of circularity or begging of the question. Hirst
+argues that "To ask for the justification of any form of activity Is
+significant only If one Is in fact committed already to seeking
+rational knowledge. To ask for a justification of the pursuit of
+rational knowledge itself therefore pre-supposes some form of
+commitment to what one is seeking to justify" (21O).
+This is a misapplied version of a very old argument that has an
+element of truth to It but is for the most part specious. The old
+argument is that one cannot persuade a man to be moral unless
+he is already moral, or persuade a man to be logical with logical
+arguments unless he already accepts rogic. and so on.
+Such arguments are clumsy and In themselves invalid applications of the more general point that one cannot argue a man Into a
+position, including the position of listening to argument. unless
+he has accepted that argument counts. That is, if both morality
+and immorality are arguable positions, then one can argue a man
+Into either if he accepts that argument counts, i.e., if he is wIlling
+to accept the results of arguments.
+I mentioned a version of this argument myself above in my
+discussion of the third objection to comprehensive rationality.
+The argument is, I suppose, valid. Nonetheless, it seems to me to
+be a rather weak valid argument, one to be avoided if possible. For
+the argument remains a bit verbal: and is more concerned with
+the source of the decision to adopt a particular position or way of
+life than with the more important question whether that decision
+and position are open to examination. Thus when one is concerned with the question of whether a decision is crIticizable. It
+hardly matters whether that decision was orIginally made as a
+result of argument, or whether the individual in questIon just
+stumbled into it, or wlether he or she decided by tossing yarrow
+94
+
+The Division of Knowledge
+
+stalks, or by some other arbitrary method. Even if the rationalist
+position had originally been adopted as a result of an irratIonal
+arbitrary decision. it is possible that the person who made the
+choice would, by living in accordance with rational traditions and
+prcccpis gradually become very rational, very open to criticism, as
+an unintended consequence of his priglnal choice.37
+Mv own view is that important choices, such as those of phIlosophical positidns and ways of life-even of the rationalist way of
+life itself-are very often not the result of argument. any more than
+scientific theories are the result of sense observation. Theories are
+put forward: choices are made. The question of the sources of the
+theories and choices is not important. The question, rather, is
+whether such theories and choices are open to criticism. If they
+are, then they are held rationally, even if they were not originally
+made rationally as, for instance, the result or conclusion of an
+argu ment.
+To bring this argument back to Hirst: Hirst sees none of these
+nuances, and he misses the point entirely. Remember, Hirst maintains that to ask for a justification of any activity is significant
+only if one is in fact committed already to seeking rational knowledge. He also claims that to question the pursuit of rational
+knowledge is self-defeating since it depends on the very principles
+whose use is being called into question. But all this is false:
+fideists who had nothing but contempt for reason, who have had
+no commitment to it whatever, have repeatedly demanded from
+rattonalists justifications of the principles of rationality precisely
+and only to taunt these rationalists with the observation that they
+cannot do this, and thus cannot live up to their own standards.
+Far from defeating themselves, they were very effectively undermining their opponents with this line of argumentation. For the
+argument can be used by an irrationalist in order to defeat a
+rationalist on his own terms. This ploy, which I call the tu qtoque
+argument. has always been the most effecive argument in the
+armory of irrattonalism. That is, fideists have used rational argument, including this one, in order to frustrate rational argument;
+they have used it not because they were committed to it, but
+because their opponents were committed to it. They have turned
+the paradoxes of justification against would-be rationalists, and
+thus to evoke in them a crise pyrrhonlenne.
+in sum, the weak and rather verbal but probably valid argument
+is that one cannot argue a man into a position, including the
+position of listening to argument, unless he has accepted that
+95
+
+The Division of Knowledge
+
+W W., Bartley, III
+
+argument counts. Whereas Hirst's Invalid argument, directly contradicted by historical theory and practice and the whole problem
+situation, is that one cannot ask for the justification of rational
+activity unless one is already committed to It.
+The purpose of the minute philosophy of this section has been
+only to show that It Is not only the background context, and the
+justificationism, of Wlttgensteinian philosophy that Is at fault.
+There are other very serious faults too, faults In the detailed working out of the programme. Not to mention that neither program
+nor practice is very "analytical."
+
+On the Speciation of Knowledge
+Our contributions to this Committee were intended to have,
+where possible, some continuity with the previous year's session
+on Evolutionary Epistemology. My evaluation of the Wlttgensteinian programme for the division of knowledge is clearly influenced by my own evolutionary perspective. There is no counterpart
+In biology to the "justification" that plays so important a role in
+Wittgensteinlan thought. Whereas there is a clear counterpart to
+the nonjustificational criticism of the Popperlan position.
+I should, however, mention that there has been, within evolutionary and biological thinking, a line of speculation that is somewhat reminiscent of Hirst's forms of knowledge. I am thinking of
+the ideas of "biological archetypes" and "internal selection" that
+are associated with the names of L. L. Whyte, W. H. Thorpe,
+Ludwig von Bertalanffy, Arthur Koestler, Helen Spurway, and A,
+Lima de Faria. Some of this Is related to D'Arcy Thompson's great
+work On the Growth of Form.
+The idea of internal selection refers to the "coordinative conditions" (Whyte's term) of biological organization, conditions under
+which life may evolve at all. These conditions restrict the range of
+possible mutations on the basis neither of the facts of the external
+ecological niche nor of the internal dispositional state but rather
+on pre-competitive internal genetic grounds. This kind of selection is explicitly intended to be non-Darwinian, and supplements
+Darwinian theory by adding a separate source of selection. On
+this account, mutations reaching the external test have previously
+been sifted internally. These organizational restrictions in effect
+define unitary laws underlying evolutionary variety. Although permitting unlimited variations, they restrict the variations to a lim-
+
+lied number of themes, thus confining evolution to particular
+avenues not defined or determined by external factors. Thus there
+Is not only selection at the phenotyplc level but pre-selection at the
+molecular and chromosomal levels. (It Is essential to the argument
+that this prc-sclcction Is not random or even blind in Campbell's
+sense.)
+While some discussions developed along these lines are interesting. most biologists seem to believe that the limited evidence for
+this kind of evolution can as easily be interpreted in a thoroughly
+Darwinian way In any case, there is no evidence to suggest that
+Hirst or other \Vittgensteinians even know about his line of thinkint, let alone that they would want to tie their own programme to
+In closing. I would like to state briefly some of my own tentative
+conclusions not about the forms of knowledge, but about speciation in knowledge. When one takes an evolutionary and nonjustificational approach, something somewhat resembling forms
+of knowledge may remain, but would no longer have most of the
+fundamental properties that Hirst attributes to them, What would
+remain would be akin to varieties, not forms, Within such an
+approach, the fundamental speciation or demarcation that occurs
+within the structure of objective knowledge is with regard to the
+sorts of selectors or criticizers appropriate to different kinds of
+claims; moreover, all these presuppose a common organon of criticism. in disagreement with W V. Quine, I believe that such an
+organon is presupposed in any self-correcting, self-revising system. Any further speciation that might approximate more closely
+to Hirst's forms of knowledge must be subordinate to this complex
+underlying-and unifying-structure.tm
+
+NOTES
+I. M. Foucault. The Order of Things: An Archeology of the Human Sci
+enCeS (New York: Random House, 1970), 246. See also his The Arc heoloqmj of Knowledge iLondon: Tavistock Publications. 1972). esp. chap.
+6.
+2. P. Hirst, Knowledqe and the Curriculum (London: Routledge and
+Kegan Paul, 1974). 137.
+
+3. Sec F von llavek, The Sensory Order (Chicago: Unlvcrsity of Chicago
+Press. 1052). and 0. Bateson. Mind and Nature: A Necessary Unity
+New York: Dulton, 1979).
+
+q7
+
+w.
+
+W
+
+Bartley. III
+
+The Division of Knowledge
+
+9. See M. White: Toward Reunion in Philosophy (Cambridge: Harvard
+University Press, 19561: R. Rorly. Philosophy and the Mirror of Naiurc
+(Princeton: Princeton University Press, 19791.
+10. P. Hirst, Knowledge and the Curriculum. P. Hirst and P.. Peters, The
+Logic of Education (New York: the Humanities Press. 1971): P. Hirst:
+"Liberal education and the naiure of knowledge." in EducaHon and
+Reason, Dearden, Hirsi. and Peters (London: Rouiiedgc and Kcgau
+Paul, 1972).
+
+. See K. Popper. Scientific Reduction and the Essential Incompleteness
+of All Sciences." in Studies In the Philosophy of Biology. ed. Ayala and
+Dobzhansky (Berkeley: University of California Press. 1974). 259284. and Addendum 2 and 3 of The Open Universe: An Argument for
+Indeterminism. ed. W Bartley(London: Hutchinson. 1982). 131- 162
+See also K. Popper The Self and Its Brain. (New York: Springer Verlag.
+1977). 20- 21: and Sir P. Medawar. "A Geometric Model of Reduction
+and Emergence." in Siudies in Biology. ed. Ayala and Dobzhansky. 5763: and D. Campbell. "Downward Causation in hierarchically
+Organised Biological Systems." in Studies in Biology. ed. Ayaia and
+
+11. See M. Skilbeck, Inaugural Led ure at the Inst I lute of Educai ion: A
+Core Curriculum for the Corn mon School (London: University of
+London institule of Education, 1982). esp. 19. See also Her Majesty's
+Inspectorate: A View of the Curriculum (London: Her Majesty's Service
+Office, 19801.
+
+Dobzhansky 179- 186.
+5. See my "Logical Strength and Demarcation." in the Fcstschrlft for
+Radnitzky. Rationality in Science and Politics. ed, G. Andcrsson: (Dordrecht: D. Reidel. 1984). and my The Retreat to Commitment. App. 2
+iLa Salle: Open Court. 1984). See also my "The Philosophy of Karl
+Popper. Part I: Biology and Evolutionary Epistemology." Philosophin. 6.
+no. 3-4 ISeptember- December 1976): 463- 494: my "Philosophy of
+Biology versus Philosophy of Physics." Funclameutn Sctentiae. 3. no. I
+(1982): 55- 78: and my "The Challenge of Evolutionary Episiemology"
+Proceedings of the Eleventh International Conference on the Unity of
+the Sciences (New York. 1983).
+6. J. Gray. "Hayek and the Rebirth of Classical Liberalism." In Literature
+
+12. P.. Peters. "General Editor's Note" to Hlrst, Knowledge and the Curric'
+mill. '.1 ii.
+
+13. See S. Toulmin, The Uses ofArgumenc lCambrictge: Cambridge Univer.
+sii' Press, I 958( and Human Understanding, (Princeton: Princeton
+University Press, 19721.
+14. 1 iere I tirst bet rays his subjectivist pre-Darwi nian epistemology in I he
+sense critIcized by Popper in ObJecllve Knowledge.
+15. For quotations see Hirst. Knowledge and the Curriculum, 5, 49, 135.
+16. See the critique of this line of argument in my The Retreat to Commit'
+ment, 2nd enl. ed., 1984.
+
+of Liberty (Oxford: Basil Blackweil, 19841.
+7. D. Campbell: "Evolutionary Epistemology." in Evolulionary Epistemol'
+ogy. Rationality, and the Sociology of Knowledge. ed. G. Radnttzky
+and \V. Bartley (La Salle: Open Court. 1987): and "Descriptive Epis.
+temology." Campbell's William James Lectures at Harvard,
+mimeographed.
+8. I believe that Hayek is also a hypothetical realist, and on this point I
+find myself disagreeing with Gray's excellent article "Hayek and Classical Liberalism." In Literature of Liberty. Gray's account of the epis'
+temolog,y of The Sensory Order seems to me to be In error. For he states
+that Hayck's theory of knowledge affirms "that the order we find in the
+world is given to it by the organizing structure of our own mind ,
+24. Or again. "both Havek and Popper share the skeptical Kantian view
+thai the order we find in the world is given to it b the creative activity
+of our own minds," 27. Or "It follows from this skeptical Kantian
+standpoint that the task of philosophy cannot be that of uncovering
+lhe unnecessary characters of things" 22. Now this is not Popper's
+view, nor is it Hayek's: and it has the disadvantage of making Havek
+sound like an idealist or phenomenalist. Havek's views are, however.
+clearly stated in The Sensory Order 173ff. where it is evIdent that he
+agrees with the hypothetical realisis that the order created by our
+minds is an approximation to an order present in ihe external world
+which Is independent of our minds (he refers to it as "an objective
+order" 173): and that the structures of our sensory organs have been
+shaped. in the course of evolution. by their contact with these external
+realities.
+
+1 7. Hirst gives different accounts of the alleged principles of raiionality in
+different places. A "third" principle that turns up is that to be rational
+one must start with clear and specific objectives. No one would deny
+the genera) desirability of clear and specific objectives: and if one does
+specify one's objectives as best one can, one gets a somewhat clearer
+idea of what is happening in one's life as one meets or fails to meet
+them. But it Is "Sclcntlsm" to identify rationality with any such state.
+ment. Any such approach Is thoroughly undermlnded by Hayek's argu.
+ment concerning complex orders (in which, for instance, order
+emerges(. and Popper's discovery that In objectIve knowledge it is
+impossIble for one ever to know what one is talking about. See Popper.
+llnended Quest sec. 7 (LaSatie: Open Court. 19831: my "Wittgenstcin
+and Homosexuality." Salniagundi, vols. 58- 59. (Fall 1982- \Vinicr
+19831: 166- 196: and, especially, my"Knowledge Is a Product Not Fully
+Known to Ils Producer:' in The Political Economy of Freedom. ed.
+Leubc and Ziabinger (Munich: Philosophia Verlag. 19841.
+18. I would like simply to list, without comment or explanation, some oi'
+the more detailed points on which I disagree with Hirst: a) He wrongly
+restricts knowledge to true statements, thus revealing again that lie
+holds to the epistemology of "jusitfied true belief:' and has failed in
+absorb (Or even to notice( the biological and epistemological arguments for "objective knowledge" that Includes false as well as true
+statements: hI Whereas he wants to distinguIsh forms of knowledge
+accorch ng to truth criteria, there are no truth criteria of any I nteresi: cI
+
+"I
+
+98
+
+I
+
+00
+
+W Bartley. III
+
+Whereas his division of the forms of knowledge proceeds according to
+criteria of meaning, meaning analysis is irrelevant to most problems of
+philosophy-and the idea that such analysis is relevant is based on a
+false analogy between the propositions of philosophy and the logical
+paradoxes: and d) His 'principles of rationality, which he regards as
+beyond assessment, I believe to be incoherently stated and, so far as
+they can be understood, false.
+19. For further discussions of the Wittgensteinian problemmatic. see my
+"A Popperian Harvest." in in Pursuit o[Ti'uth. ed.. Levinson (New York:
+Humanities Press. 1982) and my "On the Differences between Popperian and %Vittgensteinian Approaches," in Proceedings of the Tenth
+international Con,ference on the Unity of the Sciences. November 1981.
+For discussions ofJustificationlsm, see my The Retreat to Commitment
+(New York: Alfred A. Knopf, Inc.. 1962: London: Chatto and Windus.
+1964). new, rev, and greatly augmented English-language ed. (LaSalte:
+Open Court, 1984): my Non-Justificationism: "Popper versus \Vitt.
+genstein." in Epistemology and Philosophy of Science, Akten des 7.
+internalionaten Wtttgenstein Symposiums (Vienna: Hoelder-PichlerTempsky. 1983): and my "Rationality. Criticism and Logic." Philosophta, 11. no. 1-2 (February 1982): 121-221. See also my "The
+Alleged Refutation of Pancritical Rationalism" In Proceedings of the
+Eleventh InternatIonal Conference on the Unity of the Sciences (New
+York: International Cultural Foundation Press, 1983). See also Popper.
+Realism and the Aim of Science, volume 1. Postscript to the Logic of
+Scientific Discovery. Pt 1, sec. 2 (London: Hutchinson. 1983).
+10. See my discussion in "Logical Strength and Demarcation."
+11. See the discussion in my Wittgenstein, 2nd ed. rev, and eni. (La Salle:
+Open Court. 1985).
+12. Carnap. The Logical Structure of the World. Preface to 1st ed .,xv ii
+(Berkeley and Los Angeles: Universiiy of California Press. 1967). "This
+requirement for justification and conclusive foundation of each thesis
+will eliminate all speculative and poetic work from philosophy. . . . It
+must be possible to give a rational foundation for each scientific thesis
+• . . the physicist does not cite Irrational factors, but gives a purely
+empirical-rational justification. We demand the same from ourselves in
+our philosophical work."
+13. See my detailed argument in The Retreat to Commitment. 2d. ed. 1984.
+14. Note that Gray appears to think that Hayek chooses this approach.
+whereas Weimer Identifies Hayek's approach with my own, to be presented below. See Gray. "Hayek and Classical Liberalism", and \Veimer:
+"Hayck's Approach to the Problems of Complex Phenomena: An Introduction to the Theoretical Psychology of The Sensory Order." vol.2,
+Cognition and the Symbolic Processes. ed. Weimer and Palermo (Hillsdale: Lawrence Erlbaum. 1982) 241-285, esp. 283-284. In Gray's
+splendid article on Hayek in Liberature qf Liberty. he states that liayck
+believes that in social theory "we come to a stop with the basic constitutivc traditions of social life," which, like Wittgenstcin's forms of
+life, cannot he the objects of further criticism, since they are at the
+
+The Division of Knowledge
+
+terminus of criticism and justification: they are simply given to us and
+must be accepted by us", 32. Weimer gives a more accurate report in
+his "l-lavek's Approach to Complex Phenomena." esp. 284, where he
+quotes Itavek's New Studies, (1978): 298 as follows: "the liberal must
+claim ihe right critically to examine every single value or moral rule of
+his society."
+25. Sec for example Rorty's Philosophy and (he Mirror of Nature, and
+Munz's critique of it in his "Philosophy and the Mirror of Rorty'
+Philosopiuj of the Social Sciences 14 (1984): 195- 238. reprinted in
+Erolutionnry Epistemology, Rationality, and the Sociology of Know)'
+edge. ed. Radnitzky and Bartley (LaSatle: Open Court. 1986).
+26. N. Malcolm, "The Groundlessness of Belief." in Reason and Religion.
+cd. S. Brown (Ithaca: Cornell University Press, 1977). 143- 157.
+27. K. Popper, Die heiden Crundprobleme der Erkenntnisiheorle.
+Tiihingen: 3. C. B. Mohr (Georg Siebeck) (Verlag. 1979): The Logic of
+Scientific Discorery (London: Hulchinson, 1959): The Open Society
+and Its Enemies (London: Routledge and Kegan Paul. 1945).
+28. See my discussion in The Retreat to Corn miiment, chaps. 4 and 5: and
+my "Rationality. Criticism and Logic," Philosophla, (1982): 121-221.
+29. These questions are not merely rhetorical: and detailed partial answers
+to lhcm arc now provided in the work of the "public choice" school of
+economics, such as Buchanan and Tullock. Buchanan and Tuliock arc
+primarily concerned with the reform of political institutions: and an
+approach parallel to their own needs to be developed for the reform of
+educational institutions.
+30. The claim that there is a formal parallel between, on the one hand,
+natural selection in organic evolution, and, on the other hand, trial
+and error learning, involves no naturalistic fallacy. The claim is not
+that the growth of knowledge ought to follow an evolutionary pattern.
+but that all processes that lead to increased fit-or correspondencerio happen to be parallel. Whether anyone should aim for such "fit" is
+another question.
+31. I suppose that Hlrst might try to evade part of this objection by claiming that the concepts of natural science, however they may differ in
+character, are all empirical. But this would be positivist nonsense, as
+can be seen from Popper's reductio demonstration of how, on such
+terms," God" can be rendered an "empirical concept." See Popper:
+Conjectures and RetLtations. chap. 1 1 (London: Rouiledge and Kcgan
+Paul, 1963). 274- 277. See also Popper's discussion in The Open Unii'erse, Addenda 2 and 3. on reduction, (Totowa: Rowrnan and Litilefield, 1982). esp. 166- 167.
+32. See my Morality and Religion, chap. 1 (London: Macmillan, 1971).
+and my "Logical Strength and Demarcation."
+33. See my discussion of Aver in The Retreat to Cornnritnreni.
+34. Sec. e.g.. my discussion of llilar\' Pul narn in The Retreai to Corn murnd'ml!, 2cl cci. 102- 105.
+35. Ilirsi. Kmmomvicclqe and the Curriculum, itO.
+
+101
+
+

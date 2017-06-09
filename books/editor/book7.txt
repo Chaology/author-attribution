@@ -1,0 +1,939 @@
+R.
+Fundamenta Scienliae, Vol. 3, No. 1, pp. 55-78, 1982
+Imprime en France
+
+c(/
+© 1982 Pergamon Press
+
+Philosophy of Biology
+versus Philosophy of Physics'
+WILLIAM W. BARTLEY, 111*
+
+Not long ago I witnessed a remarkable interchange between two great thinkers: the cosmologist and physicist John Archibald Wheeler, and the philosopher of science Sir Karl Popper.
+Popper and Wheeler were meeting with a dozen other philosophers and scientists at Schloss
+Kronberg, the Victorian castle built by Kaiser Wilhelm's mother outside of Frankfurt during
+the closing years of the nineteenth century. The group was gathered in the late afternoon
+around an enormous round table in the Grand Salon, and Wheeler had just delivered a brilliant exposition of his own interpretation of quantum mechanics. Popper turned to him and
+quietly said: "What you say is contradicted by biology ". It was a dramatic moment A hush
+fell around the table. The physicists present appeared to be taken aback. And then the biologists, including Sir Peter Medawar, the Nobel prizewinner who was chairing the meeting,
+broke into a delighted applause. It was as if someone had finally said what they had all been
+thinking2.
+No one present meant to suggest that the reported facts of physics and biology were in
+conflict - nor even that physical and biological theoiy were in conflict. Rather, it was meant
+that fhe interpretation (or philosophy) of physics was incompatible with fact and interpretation in the life sciences. Behind Popper's remark, unstated on this occasion yetlending it
+bite, was yet another contention: that the interpretation of physics that had been presented
+did not apply to physics either.
+
+Philosophy of science in the twentieth century has been dominated both by physics and by a
+particular interpretation of physics. This interpretation - having to do with the subject matter and purpose, the scope and limitations, the justification and degree of certainty, of the
+sciences - is rooted in eighteenth-century British empiricism, in the thought of Bishop Ber-
+
+* Department of Philosophy, California State University
+This essay has been published, in : New Trends in Philosophy, Asa Kasher & Shalom Lappin eds, Tel Aviv, Yachdav,
+1982.
+2The papers and conversations of this conference have now been published, in somewhat edited form. See Peter Medawar & Julian Shelley eds, Structure in Science and Art, Amsterdam-Oxford-Princeton, Excerpta Medica, 1980.
+
+55
+
+56
+
+W W. Bartley, III
+
+keley arid of David 1-lume, but reached its classic and most influential statement in the work
+of the great Austrian physicist and philosopher Ernst Mach (1838-1916).
+In order to understand Machian philosophy of physics - and thereby to understand the
+dominant philosophy of science today - one must set aside one's commonsense notions.
+Indeed, Machian philosophy can be seen as a sophisticated crib'que of commonsense. Thus
+Gregory Bateson begins his lecture on "Pathologies of Epistemology" as follows:
+eLet me ask you for a show of hands. How many of you will agree that you see me? I
+see a number of hands - so I guess insanity loves company. Of course, you don't
+"really" see me. What you "see" is a bunch of pieces of information.., which you synthesize into a picture image... It's that simple. .>>
+Machian philosophy, like most of the schools of thought that it has influenced, such as logical
+positivism, enjoys talk and examples like this. It is presentationalist, as opposed to representationalist4.
+Representationalism, the commonsense position which Bateson appears to criticize in our
+example, and which is rejected outright by Machian philosophy, is also the position of many
+of the founders of the western scientific tradition - including Galileo, Boyle, and Newton.
+As Newton wrote: "In philosophical disquisitions we ought to abstract from our senses and
+consider things themselves, distinct from what are only sensible measures of them "s. Such
+representationalism maintains that the members of Bateson's audience - at least those that
+had vision - did see Bateson (at least if he was there). Representationalism maintains that
+the subject matter of science (and of seeing) is the external world as it is, independently of
+human (or animal) perceptions and descriptions of it. The aim of science, for a representationalist, is to attain an accurate account of this world in language. In doing this, one uses
+sense perceptions as aids; and these sense perceptions or sensations are assumed themselves to be more or less accurate symbolic representations of external reality formed
+through the interaction between that external reality and organs of sense. One sees external
+reality, more or less accurately, with the aid of imperfect sense impressions. If one needs eye3Gregory Bateson, Steps to an Ecology of Mind, New York, Ballantine Books, 1972, P. 478. Elsewhere in his work
+Bateson often seems to be a representafionalist. Presentationalism has so clouded these issues, end has so deeply influenced all discussion of them, that it is often hard to tell what a particular writer's position really is. See John T. Blackmore's enlightening essay, On the Inverted Use of the Terms "Realism" and "Idealism" Among Scientists and Historians of Science, British Journal for the Philosophy of Science 30 (1979), 12534. See also Blackmore's discussion of the
+inverted use of these terms by Helrnholtz and Schlick in: Annals of Science 35, 1978, pp. 427-31. Compare Popper,
+Objective Knowledge, pp. 64-65.
+1 take these terms from John T. Blackmore's brilliant work: Ernst Mach: His Work, Life, and Influence, Berkeley, University of California Press, 1972. On Mach see also K. R. Popper: "A note on Berkeley as precursor of Mach and Einstein", in: Conjectures and Refutations, London, Routledge and Kegan Paul, 1962, pp 166-74; John Myhill, Berkeley's "De Motu": an anticipation of Mach ", University of California Publications in Philosophy 29 (1957), 141-57; see
+also Gerard Hinrich: The Logical Positivism of De Motu, Review of Metaphysics 3 (1950). See also Joseph Agassi,
+"Sensationalism", in: Science in Flux, Boston, D. Reidel, 1975, pp. 92-126, and his "The future of Berkeley's instrumentalism", in: International Studies in Philosophy 8, 1975, pp. 167-78.
+5
+Newton: "Absolute and relative space, time, and motion ", in: Philosophy of Science, Arthur Danto and Sidney
+Morgenbesser eds, Cleveland, 1964, p. 325.
+
+Philosophy of Biology venus Philosophy of Physics
+
+57
+
+glasses, they are to see Bateson more accurately by correcting one's picture image of Bateson. This is not to deny that there may be sensations without benefit of external reality: but
+when this happens one is not seeing; one is hallucinating, or experiencing an optical illusion,
+or some such. Nor is this to deny that there may be many aspects of reality which are quite
+beyond the capacities of our perceptual apparatus to represent.
+Presentationalism rejects all this. Presentationalist critiques of representationalism existed long before Mach, and even before Berkeley and Hume. One famous early statement
+of presentationalism came from Galileo's adversary, Robert Cardinal Bellarmino, who contested Galileo's representationalist interpretation of Copernican astronomy. The role of
+science - and of Copernican astronomy - Bellarmino maintained, was "to give a better account of the appearances '. It was the role of the church, not of science, to pronounce on
+the real nature of the world. The role of science should be only to provide instruments to
+link together, in a simpler or more efficient way - to make more calculable - the appearances, the presentations of our senses. Science should not attempt to go beyond those presentations to penetrate the nature of reality.
+So limited a view of science was widely rejected in Galileo's time and later as a self-serving proposal on the part of the Roman Catholic Church - as a way for it to insulate its own
+doctrine about reality against challenge from science. Similar objections were raised against
+the presentationalist stands of Bishop Berkeley (in the eighteenth century) and of the Roman Catholic physicist Pierre Duhem (in the twentieth century). Yet no such ulterior motive
+can be ascribed to Ernst Mach: he was strongly anti-clerical, and he thought of himself as a
+kind of Buddhist, not as a Christian. Nor did he suppose that there was another discipline such as religion or metaphysics - which gave access to a real world beyond sense perception. The restrictions that he placed on science, and on knowing, were made not for religious
+but for epistemological reasons. "Colors, space, tones, etc. These are the only realities",
+Mach had written in his daybook. (H. Dingler, Die Grundgedanken der Machschen Phiosophie, p. 98.). For Ernst Mach sense perception was all there was for anyone: "Nature",
+Mach said, "is composed of sensations". To be was to be perceived.
+In presentationalism, the subject matter of science is then not an external reality independent of sensation. The subject of science is our sensory perceptions. The collectivity of
+these sensations is renamed "nature", thus rendering the account idealist. The aim of
+science is seen not as the description and explanation of that independent external reality
+but as the efficient computation of perceptions.
+
+What explains the appeal of presentationalism to contemporary physicists and philosophers
+of physics? Part of its appeal no doubt consists just in the fact that, being contrary to common sense, it enjoys the possibility of being sophisticated. Thus one acquires philosophical
+depth by noticing that everything in the world is surface. There is an apparent spareness and
+
+6See Le Opere di Galileo Galilei , XII, Barbera, Firenze, 1902, Item 1110", pp. 171-72.
+
+58
+
+W. W. Bartley, III
+
+austerity in the ostentatious superficiality of this philosophy. Yet the physiologist and psychologist R. L. Gregory refers to its fifty-year reign in the twentieth century as a "Dark Age "v.
+More seriously, presentationalist philosophers find themselves caught in a trap woven of
+well-intentioned assumptions. Preoccupied with the avoidance of error, they suppose that,
+in order to avoid error, they must make no utterances that cannot be justified by - i.e., derived from - the evidence available. Yet sense perception seems to be the only evidence
+available; and sense perception is insufficienfly strong, logically, to justify the claim about the
+existence of the external world, or about the various laws and entities of science, such as
+atoms and forces. The claim that there is an external world in addition to the evidence is a
+claim that goes beyond the evidence. Hence claims about such realms are unjustifiable.
+Worse, many presentationalists argue that they are intrinsically faulty: they are not genuine
+butpseudo-c1aims; they are indeed meaningless. For a word to have a meaning, they say, it
+must stand for an idea: that is, for a perception or for a memory of a perception. Since there
+can be no perception of any reality beyond perception, there can be no idea of it, and hence
+no meaningful language "about" it. The quotation marks just used mark the scope and limitations of science as understood by presentationalists. Thus Mach, throughout his life, denied the existence of any external world, and the existence of atoms, forces and mass. Later
+he denied Einstein's special theory of relativity, in which Einstein had contended that the yelocity of light in a vacuum is independent of other phenomena, contrary to Mach's dictum
+that all sensations are dependent on all other sensations8.
+Crucial to the presentationalist argument are, then, two things: the desire to give a firm
+foundation or justification to the tenets of science, and the construal of sense experience as
+the incorrigible source of all knowledge. (An incorrigible or certain source - i.e., a source
+that does not need to be justified -.-- appears to be needed, since otherwise there could be no
+justification in terms of it: to the extent that the source can be challenged, the foundation is
+unfirm.)
+One way to escape the presentationalist trap is to give up the aim of justifying one's
+knowledge9; another way is to give up the claim that sense observation is the source of all
+knowledge. Presentationalists considered and rejected the second route; they did not even
+consider the first. Instead, they gave up the external world and its furniture, as well as the descriptive import of the laws of science. Thus they restrict the attention of science to sense
+presentations, and must construe scientific laws, so-called, as non-descriptive instruments for
+connecting such phenomena: for generating sense observations from sense observations.
+
+71n "The confounded eye", in: Illusion in Nature and Art, R.L. Gregory and E.H. Gombrich eds, London, Duckworth,
+1973, p. 52.
+8The issues between Mach and Einstein are now often reinterpreted in Mach's favor by presentationalist relativity theorists of the present day. See C. W. Misner, K. S. Thorne, and J.A. Wheeler, Gravitation, San Francisco, W.H. Freeman,
+1973, esp. pp. 543-9; and R. H. Dicke: "Mach's principle", in: Magic Without Magic: John Archibald Wheeler, John
+R. Klauder ed., San Francisco, W. H. Freeman and Co., 1972, pp. 297-308; R. H. Dicke, The Theoretical Significance
+of Experimental Relativity, London, Gordon and Breach, 1964, esp. pp. vii-viii.
+9Just such a route is suggested in my The Retreat to Commitment, New York, Alfred A. Knopf, Inc., 1962; in my "Rationality versus the theory of rationality ", in: The Critical Approach to Science and Philosophy, Mario Bunge ed., New
+York, Free Press, 1964: and in my "Rationality, criticism, and logic", in: Philosophia, 1982, pp. 121-221.
+
+Philosophy of Biology versus Philosophy of Physics
+
+59
+
+Iv
+It was chiefly this network of epistemological, logical, and methodologicalargument that led
+Mach to presentationalism. But some important scientific discussion also contributed. From
+1860 until the 1910's, coinciding with the main part of Mach's scientific career, atomic theory was gaining support within the sciences. Part of this was due to the virtual rediscovery, in
+1860, of the old (1811) law of Avogadro (1776-1856) to the effect that equal volumes of
+gases contain equal numbers of molecules under the same conditions of pressure and
+temperature. During the next several decades, physicists attempted to base thermodynamicson atomic theory. One of the greatest workers in this area was Ludwig Boltzmann (18441906), Professor of Physics in the University of Vienna.
+Mach and his students unrelentingly opposed atomic theory and mechanistic explanation, directing their attack particularly to Boltzmann's views. Every physical difficulty that appeared in the new atomic theory was immediately exploited by Mach and his students
+against atomic theory. The best known of these problems relates to entropy. The second law
+of thermodynamics asserts the existence of irreversible processes. Thus differences of density, temperature and average velocity disappear, but do not arise, by themselves: entropy always increases. Yet it was difficult for atomic theory to explain processes of this sort: for in
+classical mechanics all motion is reversible. Hence it could be argued, as the physicist Loschmidt did, that heat and entropy simply could not involve mechanical motion of atoms and
+molecules. Boltzmann' s work, by contrast (like Maxwell's in Britain), was directed to explaining entropy statistically in terms of atomic theory.
+Mach and his students dismissed such matters as pseudo-problems arising from metaphysical contentions trespassing beyond the phenomena. They argued instead for a phenomenalist (phenomenological) non-probabilistic account of thermodynamics in which atoms
+and molecules do not appear. For a time, particularly during the 1890's, many scientists accepted their phenomenalist thermodynamics. It seemed to have the merit of explaining the
+difficulties of atomism and providing an alternative in which such "metaphysical" entities as
+matter, substance, atom, and molecule do not figure.
+The battle between these two schools of thought was fierce and rude. Mach's student Robert Mayer claimed that Boltzmann's efforts were "of a piece with the efforts of the alchemists." And the American philosopher C.S. Peirce, more sympathetic to Boltzmann, literally
+ridiculed Mach's scientific work'°. Warning the reader of "Mach's very inaccurate reasoning", Peirce accused Mach of "making fact bend to theory", and charged that "Mach's sensationalism appears upon most important points quite at odds with the conclusions of
+science
+This particular issue was not decided scientifically until 1905, when it went firmly against
+Mach's views. At that time, with Einstein's work on Brownian movement, the physical im1O S. Peirce, Collected Papers, Cambridge, Harvard University Press, 1960, vol. II, p. 48, referring to Mach's Mechan1k, chapter II, vi, 6 end 9.
+'1See also Peirce's unsigned review of Die Mechanik, in: The Nation 57 (1893), 251-2.
+
+60
+
+W W. Bartley, III
+
+port of atomic theory was corroborated'2. Brownian movement, discovered by the English
+botanist Robert Brown in 1827, is the incessant irregular or "zigzag" motion of small particles in liquid suspension. As interpreted by Einstein, this became a visible demonstration of
+bombardment of the particles by the molecules of the liquid; the visible motion was exactly
+as would be predicted in the kinetic theory of gases. Einstein himself remarked that Brownian. movement, in providing evidence of molecular action, falsified the phenomenalist (phenomenological) version of the second law of thermodynamics propagated by Mach and his
+students'3. But Boltzmann also lost this battle. His own brilliant probabilistic derivation of the
+second law of thermodynamics from the kinetic theory, his "H-theorem", was refuted by
+Zermelo, using a proof by Poincaré'4. The whole matter is further clouded philosophically, in
+that Boltzmann, in his later years, under pressure from Mach, compromised his representationalism and introduced subjective elements, particularly regarding time, into his scientific
+work.
+Some Machians were sufficiently impressed by Einstein's interpretation of Brownian
+movement to accept atomism. Mach himself brushed aside this issue, and also emphatically
+rejected Einstein's relativity theory. He also virtually disregarded two other important blows
+to his position. The first of these came from the physicist Max Planck who, beginning in
+1908, launched a frontal attack on Mach's views, blaming Mach and presentationalism for
+the backwardness of physics. The second, substantively more important, reversal came from
+the work of the psychologist and representationalist philosopher at Wurzburg, Oswald Külpe
+(1862-1915), the great teacher of Koffka, Köhler, and BUhler, the founders of Gestalt psychology. Mach and his followers had contended that sensations were certain, incorrigible,
+and that all thought could be reduced to sensory, imaginal elements. But Kulpe showed that
+all claims about sensations are fallible, and demonstrated the existence of "imageless
+thought", thoughts that occur without any sensory or imaginal content. So powerful were
+Külpe's arguments that John T. Blackmore, the biographer of Mach, has written:
+had they been sufficiently publicized, Kulpe's criticisms might well have mortally
+wounded if not Mach's philosophy at least his influence and much of his reputation... If
+there were "imageless thoughts,"... then Mach's ontological phenominalism, monism,
+and psychophysical parallelism were undermined along with his theory of elements and
+his purpose of sciences15.
+12See Einstein in: Anna/en der Physik 17 (1905), pp. 549-60; and 19, pp. 371-81. Published in translation in Investigations on the Theory of the Brownian Movement. R. Fhrth ed., London, Methuen, 1926.
+13Many issues connected with this controversy remain unsettled. See Karl Popper's series of papers relating to this matter: Irreversibility, or entropy since 1905, British Journal for the Philosophy of Science 8 (1957), 151-55; "The arrow
+of time ", Nature, March 17, 1956, p. 538; "Irreversibility and mechanics", Nature, August 18, 1956, pp. 381-2; "Irreversible processes in physical theory ", Nature, June 22, 1957, pp. 1296-7; "Irreversible processes in physical theory
+Nature, February 8, 1958, pp. 402-3; "Time's arrow and entropy", Nature, July 17, 1965, pp. 3-4; "Time's arrow
+and feeding on negentropy", Nature, January 21, 1967, p. 320; "Structural information and the arrow of time", Nature, April 15, 1967, p. 322.
+14See Popper's discussion in Unended Quest, London, Fontana, 1976, pp. 156-62.
+'5Blackmore, op. cit., pp. 229-30. On Gestalt psychology, imageless thought, and its impact on philosophy, see my
+"Theory of language and philosophy of science as instruments of educational reform: Wittgenstein and Popper as Austrian schoolteachers", in: Methodological and Historical Essays in the Natural and Social Sciences, R. S. Cohen and
+Marx Wartofsky ads. Boston, Reidel, 1974: and my Wittgenstein, New York, J. B. Lippincott & Co., 1973. See also
+Gregory's discussion in "The confounded eye", op. cit.. p. 52. (suite p. 61)
+
+Philosophy of Biology versus Philosophy of Physics
+
+61
+
+V
+One might have expected presentationalism to collapse, shorn as it was Of scientific support
+both in physics and in psychology. It was, after 1905, a metaphysical theory precisely in the
+sense that Mach himself had decried. Yet it now became more influential than ever. A discredited paradigm continued to sponsor its research program. Obsolete as physics, and
+abandoned as such by physicists such as Einstein and Planck, it nonetheless became the
+dominant twentieth-century philosophy of physics. Later a new generation of physicists,
+schooled in this philosophy, would attempt once again to reinterpret physics itself on its
+terms. Many important thinkers of the twentieth century - Bertrand Russell in his middle
+period of "logical atomism", Ludwig Wittgenstein, Erwin Schrodinger, A.J. Ayer, CI. Lewis,
+and Rudolf Carnap, to name only a few - adopted presentationalist philosophies. The logical positivists who formed their famous group around Moritz Schlick in Vienna - the famous
+"Vienna Circle" - named themselves the "Ernst Mach Society". And with the mass exodus
+of philosophers of science from Austria and 1-litler's Germany immediately before the Second World War, phenomenalist or presentationalist philosophy of science, now usually
+called "logical positivism", spread around the world, firmly establishing itself in the universities of the English-speaking countries, where it remains dominant today.
+This philosophy sometimes considerably, if not consistently, modifies the Machian position. In Machian presentationalism both the world and knowledge of it are built out of pres.entations. Some twentieth-century philosophers of science, having abandoned the notion
+that the world is constructed out of presentations, nonetheless insist that knowledge of the
+world must be constructed out of reports of presentations. But the second notion is supported by, and rebutted by, most of the arguments that support, and rebut, the first notion. Once
+one abandons the first notion, there is little reason to retain the second. The main separate
+argument for the second notion is the argument relating to justification.
+Once again, as in Mach's controversy with Boltzmann, latter-day presentationalist philosophy turns every physical problem in physics to its own advantage, at the expense of understanding and explanation - and of physics. Thus the Copenhagen Interpretation of quantum
+mechanics takes a presentationalist approach to the problems of observation of the very
+small: it is impossible simultaneously to measure both the position and the momentum of a
+particle; hence it is concluded that it is meaningless to talk of the particle's simultaneously
+having both position and momentum. That is, it is meaningless to talk of existence independent of observation: and for all the same presentationalist reasons advanced by Mach. Thus
+idealism remains at the heart of physics16.
+
+As Walter B. Weimer has pointd out to me, it is of course possible for presentattonalism to form a reply to Külpe's argument - contending for example that thoughts are unreliable components of the mind, and that a "pure core" must be
+sought in experience, possibly even by phenomenological methods. The idea that there exists a pure core in experience, out of which the world can be built, is of course like many other "purely existential statements" - e.g.," There
+exists a fountain of youth", or "There exists a philosopher's stone". These are unfalsiftable metaphysical statements.
+See ,J. W. N. Watkins: "Confirmable and influential metaphysics", in: Mind, 1958, pp. 345-7. See Walter B. Weimer
+and David S. Palermo: "Paradigms and normal science in psychology", in: Science Studies 3, 1973, p. 241.
+16See my discussion in "The philosophy of Karl Popper, Part II: consciousness and physics: quantum mechanics, prob-
+
+W. W. Bartley, III
+
+62
+VI
+
+Despite the hold presentationalism exerts on the universities of England and America, it is
+under strong challenge once again. History has a way of circling back to the unresolved
+quarrels of yesteryear; thus it is ironic but hardly surprising to find that among the strongest
+opponents of presentationalism today are the philosopher of science, Sir Karl Popper, and
+the Nobel prizewinning ethologist, Konrad Lorenz. Both Popper and Lorenz, who were boyhood friends in Vienna, were students of the philosopher-psychologist Karl Buhler - who
+was, in turn, a disciple of Oswald Kulpe, Mach's powerful and neglected antagonist. Not only
+is the issue between Mach and Kulpe finally joined in their work; Popper also acclaims Boltzmatin's work (although not his H-theorem), saying that he agrees with Boltzmann "more
+closely perhaps than with any other philosopher"7.
+The attack against presentationalism is stronger this time. This is, first, because - despite
+the claims of the positivists and their successors - the performance of presentationalism has
+been less than distinguished. Even if one discounts the claim that presentationalism has hindered the advance of science18, there has been no addition or development in presentationalism of any importance since the time of Mach. Presentationalism has no achievements to
+its credit. Whereas representationalism has been radically developed, particularly with application to psychology and physiology, to physics and philosophy, and to biology. The psychological work can be traced back to Kulpe and Bühler and is continued in contemporary
+scientists such as F.A. von Hayek and Donald T. Campbell'9. The physical and logical arguments are chiefly due to Popper20. And the biological support and interpretation come from
+Lorenz and Popper, and also from such biologists as Sir John Eccles, Sir Peter Medawar,
+Ernst Mayr, and Jacques Monod21.
+In the following I want to sketch the bare outlines of the alternative view of human learning and of science that Popper, Lorenz, and their assOciates develop with special attention to
+ability, indeterminism, the body-mind problem", in: Philosophia, Israel, 7, 3-4, July 1978, pp. 675-716. See also my
+"Max Jammer on the interaction between science and philosophy", in: Proceedings of the Seventh International Conference on the Unity of the Sciences, Boston, Massachusetts, New York, International Cultural Foundation Press, 1979.
+17 Unended Quest, op. cit., p. 156.
+'5Max Planck, "The unity of the physical universe", in: A Survey of Physical Theory, New York, 1960, pp. 25-26;
+"Zur Machschen Theorie der physikalischen Erkenntnis: eine Erwiderung", in: Physikali33he Zeitschrift 11, 1910, pp.
+1186-90. See also Konrad Lorenz, Behind the Mirror, New York, Harcourt, Brace, Jovanovich, 1973, p. 16.
+19R.L. Gregory, Concepts and Mechanisms of Perception, London, Duckworth, 1974; Eye and Brain, New York,
+McGraw-Hill, 1973; F. A. von Hayek, The Sensosy Order, Chicago, University of Chicago Press, 1952; Donald T.
+Campbell, Perception as substitute thai and error, Psychological Review 63, 5, (1956), pp. 330-42; Methodological
+suggestions from a comparative psychology of knowledge processes, Inquiry 2, 3, (Autumn 1959), pp. 152-82; Blind
+variation and selective retention in creative thought as in other knowledge processes, Psychological Review (1960), 67,
+6, pp. 380-400; "Evolutionary epistemology", in: The Philosophy of Karl Popper, P. A. Schilpp ed., LaSalle, Open
+Court, 1974, pp. 413-63; and "Descriptive epistemology: psychological, sociological, and evolutionary", William
+James Lectures, Harvard, 1977, Preliminary Draft, Mimeographed, October 1978 Draft.
+20See Popper, Logic of Scientific Discovery, London, Hutchinson, 1959 and Conjectures and Refutations, London,
+Routledge and Kegan Paul, 1962.
+21
+Eccles, Facing Reality, New York, Springer Verlag, 1970; The Self and Its Brain (with Popper), New York, Springer Verlag, 1977; see Monod, Chance and Necessity, New York, Alfred A. Knopf Inc., 1971. Ernst Mayr: Evolution
+and the Diversity of Life, Cambridge, Harvard University Press, 1976.
+
+Philosophy of Biology versus Philosophy of Physics
+
+63
+
+biology and the life sciences. Their view has been named "evolutionary epistemology" by
+the distinguished American psychologist Donald T. Campbell. It is an approach, based on biological and physiological research, which is utterly at variance with presentationalism. It is
+this to which Popper was referring in his debate with John Archibald Wheeler.
+Our discussion may be the more useful in that it will be relatively unfamiliar. Darwinian
+philosophy of biology is not usually presented as an alternative to presentationalism; and the
+representationalist implications of Darwin's work were ignored in the original contest between Mach and Boltzmann. To be sure, both Mach and Boltzmann acclaimed Darwin, and
+Mach claimed that the "external aim" of science was to serve human biological survival. But
+Mach elaborated this little; and as late as 1916 he was strongly endorsing Lamarck's quite
+non-Darwinian theory of the inheritance of acquired characteristics. And Boltzmann, who
+seems to have understood Darwin, and who applied his results correctly in the critique of
+Kantian categories, nonetheless never turned Darwinian principles to the critique of Mach22.
+VII
+People still find it difficult to appreciate how utterly naturalistic Darwin's approach to life is,
+and how relatively unimportant, and how very late, is the role played by man in the evolutionary drama. Until recently, there has been even less appreciation that Darwinian evolutionary mechanisms and western epistemologies could be compared - let alone that they
+conflict radically.
+Yet both Darwinian evolutionary theory and western epistemology are accounts of the
+growth of knowledge; and evolution is itself a knowledge process. Evolution is a process in
+which information regarding the environment is literally incorporated, incarnated, in surviving organisms through the process of adaptation. Adaptation is, for Darwinians, an increment of knowledge. This point can be illustrated not only with examples of animals, whose
+"knowledge" is more like our more conventional images of knowing, but also by plants. For
+instance, the New England fruit tree has evolved a kind of "temporal map," genetically
+transmitted, in terms of which imperfect clues concerning seasonal change govern its budding, leafing, and fruiting. In short, this species of tree has developed the capacity to make
+transient adaptations to transient changes in its environment, this capacity expressing itself in
+what amounts to primitive rules for behaviour23. Another, more dramatic example comes
+from the migrational capacities of birds. Night warblers reared in captivity are able to orient
+to the star patterns in the night sky. Such warbiers have been flown in closed boxes from
+Germany to South-West Africa and immediately are able to orient when they encounter
+their new night-sky environment. Such birds have then evolved some sort of" spatial map ',' a
+
+22
+
+Boltzmann, Populàre Schriften, Leipzig, Ambrosius Barth Verlag, 1905, chapter XXII, "Ueber eine These
+Schopenhauers", esp. pp. 394-402. See Mach: "Einige vergleichende tier-und menschenpsychologische Skizzen ", in:
+Naturwissenschaftjiche Wochenschrift 15, 1916, pp. 241-7. Mach's preference for Lamarck is only to be expected. Darwinjsm stands in the same relation to Lamarckism as does deductivism to inductivism and criticism to justification.
+Machian theory of inductive learning and verification is Lamarckian, in that it stresses instruction (the passive receipt of
+sense impressions) from the environment, rather than selection by the environment. See Popper, Unended Quest, op.
+cit., pp. 45, 86 and 167-68.
+23See Campbell, "Descriptive Epistemology", op. cit., Lecture 2.
+
+64
+
+W.W. Bartley, III
+
+genetically determined ability to read star patterns and steer by them - and also to have
+some sort of time sense, since the star patterns shift continually with the earth's rotation. The
+bird appears to have a "built-in" analogue of planetarium, sextant, chronometer and altimeter, by the aid of which it is able to read and compensate for the movements of the stars
+around the north star, or the southern cross, rather in the way in which a trained navigator
+does this24.
+Popper, Lorenz, and other evolutionary epistemologists contend, simply, that (exosomatic) scientific knowledge as encoded in theories grows and develops according to the same
+method as (and is indeed adaptationally continuous with) the embedded (endosomatic) incarnate knowledge to be found in trees, birds, and other organisms. In the second case there
+is an increasing fit or adaptation between the organism and its environment; in the first case
+there is an increasing fit or adaptation between theory and facts. Yet if this is so, the implications for conventional western epistemologies of science, such as presentationalism, are profound. For it is impossible to reconstruct the evolutionary process on a presentationalist basis; whereas it is easy to reconstruct the history of the growth of knowledge on an evolutionary basis.
+Presentationalists attempt to construct the world and knowledge out of sensations (as
+building blocks or elements, as it were), presuming that these are constfucted or constructible out of such elements by a process of combination. Thus in presentationalist accounts of
+science, knowledge grows by a process of combination and is justified or "verified" by reference to the elements of that combination. As Flume put it in his Enquiries (p. 19), the mind
+cannot supplement the raw materials provided by the senses. It has the ability only of "compounding, transposing, augmenting, or diminishing the materials afforded us by the senses
+and experience". Indeed the epistemological program of the presentationalist, the main task
+of the theory of knowledge as he conceives it, is to show the evidenciary relationship of justification and support between sense observations and knowledge claims.
+But this presumption and program are at odds with biological knowledge, which asserts
+that ours is a creative world in which new things are generated in an essentially non-combinatorial way in a process of emergence (the word "emergent" meaning, in part, non-combinatorial; in part, non-predictable). Transcendence of the old is not obtained from a recombination of the old, and cannot be predicted from the old. (Incidentally, this argument goes
+just as powerfully against materialistic combinatorialism, usually called "reductionism", as it
+does against presentationalist or mentalist combinatorialism25). Life simply does not evolve
+in this way.
+Nor does human knowledge. Rather, human knowledge develops as does life. The highest creative thought, just like animal adaptation, is the product of blind variation and selective retention. Knowledge is not achieved and does not grow through combination, but
+through random variation and selective retention - or, to use Popper's image, through conjecture and refutation. Science is, on this account, utterly unjustified and unjustifiable. It is a
+24See Donald R. Griffin, Bird Migration, New York. Anchor Books, 1964 and R. M. Lockley, Animal Migrauon, London, Pan Books, 1967.
+25See Popper, The Self and Its Brain, op. cit., chapter P1 and P3. On emergence see Ernst Mayr, op. cit., p. 369.
+
+Philosophy of Biology versus Philosophy of Physics
+
+65
+
+shot in the dark, a bold guess going far beyond all evidence. The question of its justification is
+hence irrelevant: it is as irrelevant as any question about whether a particular mutation is justified. The issue, rather, is of the viability of the mutation -.-- or the new theory. This question
+is resolved through exposing it to the pressures of natural selection - or attempted criticism
+and refutation. Mere survival in this process does not justify or guarantee the survivor: a species that survived for thousands of years may eventually nonetheless become extinct. And a
+theory that survived for generations may eventually be refuted - as was Newton's. There is
+no justification - ever. Sense, observations, the building-blocks of the presentationalists,
+play a different role here: they are no longer the elements and justifiers of theories. Rather,
+they trim the sails of thought. They are only among the winnowers of theories: scientific theory is winnowed through confrontation with observation. Sense observation, no longer
+construed as the source of knowledge, yet plays an important role in criticizing and shaping
+it. Moreover, the related presentationalist fear of "occult" theories and concepts that describe invisible structural properties is inappropriate here: on this account scientific theories
+do describe invisible properties; yet they are testable by observation; hence they are scientific and not occult.
+It is important to notice that the two assumptions mentioned earlier (in section III) as imprisoning presentationalists in their position, are here abandoned: the assumption that
+claims must be justified; and that sense observations are the source of all knowledge.
+
+VIII
+Evolution is, then, not a process of combining elements. But suppose it were. Even if evolution did occur through combination of elements, it would be absurd - from an evolutionary,
+biological, perspective - to hope to build (or induce) the world or science out of human
+sensations as elements.
+To do so is arbitrarily to grant a special authority to sensation at its present stage of evolutionary development. In fact, human sensations are a latecomer in the history of the world:
+there was a time when there were no sensations at all, and then a later time when the only
+sensations were of a quality inferior to the best available today. There is no reason to suppose that this process has stopped, or that it has, at any stage, produced in any organism
+(human or otherwise) sensations or sentation-generating cognitive structures which are in
+any way finished, complete, perfect, authoritative.
+This can be shown readily even on the level of individual human experience, even without going into the logic of the matter or investigating human cognitive structures or attempting a comparative study of cognitive structures in different species. Human sensation is well
+known to be unreliable: that sensations are in any way authoritative is contradicted not only
+by scientific investigation, physiological studies of the brain and sense organs, optical illusion,
+and such like, but also by ordinary experience, from which we know that our sensations are
+often crude and educable. A good example is winetasting: the connoisseur knows what to
+look for and how to describe both what he searches for and what he experiences. His sensations are, as a result of cultivation, made more authoritative. Or, to take a related personal
+example: I remember some twenty years ago having a severe pain in my back, reporting it
+
+W W Bartley, HI
+
+66
+
+to my doctor, being X-rayed. I had described it as being a diffuse pain in the middle of my
+back concentrated in the area of my kidneys. The doctor diagnosed it as being due to poor
+posture and gave me a lecture on the nerves, musculature and fascia of the back, using a vivid chart of the human body to illustrate his argument. As he talked, as I absorbed information, the pain sensation changed permanently: I no longer had a 'diffuse pain in the middle
+of the back concentrated in the area of the kidneys.' I now had a very definite pain following
+certain muscle and nerve lines - incidentally nowhere near my kidneys. In short, an increase
+in information helped me to sense more accurately. Similar experiences are known to anyone who has practiced autogenic or 'relaxation' exercises on various parts of his body, or
+who has practiced yoga. Sensations are, then, anything but authoritative: they are themselves interpretations. They can be educated and refined. In this process they become more
+authoritative in the sense that they are better tested and educated but not in the sense that
+they are ever beyond error or improvement: any wine connoisseur or yoga practitioner
+knows better than that.
+In sum, there is a clear conflict with Mach's insistence that' all sensations are immediately
+given and are certain - "as if their character were independent of the way in which they were
+identified, or misidentified "26W Such a theory, such an "epistemology which takes our sense
+perceptions as "given", as the "data" from which our theories have to be constructed",
+Popper denounces as "pre-Darwinian ", as failing <<to take account of the fact that the alleged
+data are in fact adaptive reactions, and therefore interpretations which incorporate theories
+and prejudices... there can be rio pure perception, no pure datum... Sense organs incorporate the equivalent of primitive and uncritically accepted theories, which are less widely tested than scientific theories>>27.
+XI
+All of this becomes even clearer when one turns from the individual experience of sensation
+to consider how the whole process of sensation has developed during evolutionary history.
+To approach this question it is helpful to consider an important and often neglected aspect of the econiche inhabited by human and other organisms: the electromagnetic spectrum:
+10.16
+
+10.18
+I
+
+I
+
+I
+
+'
+
+10-14
+I
+
+J4
+ic rays
+
+I
+
+T
+I
+
+10-12 10-10 10-8 10-6
+I
+I
+
+1 0-
+
+10-2
+
+102
+
+1.
+
+10
+
+106
+
+III I ITI p I' I I I I 11111
+I
+I
+I I
+
+-
+
+ays
+
+J
+
+Radio waves
+,
+
+1I Il
+
+26Blackmore, Ernst Mach, op. cit., p. 66 and Ernst Mach, The Analysis of Sensations, Chicago, 1914, P. 10.
+2705jectjve Knowledge, Oxford, Oxford University Press, 1972, pp. 145-6. See also Roger James, "Conditioning is a
+myth, in: World Medicine, May 18, 1977.
+
+Philosophy of Biology versus Philosophy of Physics
+
+67
+
+The entire spectrum is wide: ranging in wavelength from less than one billionth of a meter
+to more than a thousand meters. But the visible spectrum is but a tiny slice of the entire
+energy band: we can see in only that small section between 400 and 700 billionths of a meter. Man has no direct access to information carried within the larger part of this spectrum.
+Our senses do not immediately respond in this realm. Cosmic rays, gamnia rays, X-rays, radio waves: we live in an electromagnetic sea, as it were, and nonetheless these waves do not
+register unassisted on our eyes, or any other sense organs. Our sensory apparatus in effect
+filters out all except a narrow band of light waves. Prior to the discovery of this spectrum, and
+prior to the invention of apparatus to tap, channel, and register X-rays, radio waves, and
+such like, the realms of existence and knowledge now opened by them were beyond human
+ken.
+Why do our sense organs not tap these other realms directly? There is a simple explanation28. Light waves happen to be able to be exploited by simple organisms in a way that other wave bands cannot. Vision is the opportunistic exploitation of a coincidence: the coincidence of impenetrability with opaqueness. Generally speaking, things which cannot be seen
+through within a certain narrow band of light waves also cannot be moved through. Thus air
+and water are both transparent and penetrable by moving organisms. An ability to exploit
+this coincidence - as with a mutant light-sensitive cell - gives the organism an obvious survival advantage.
+Elsewhere this coincidence, arid thus the cue value, disappears. Take clear glass and fog.
+In this context, both are paradoxical: the first is clear but not penetrable; the second is penetrable but not clear. On other wave lengths there are different coincidences, and thus different cues. Such other coincidences of the electromagnetic spectrum can sometimes now
+be exploited, as in radar and sonar, in order to cope with night and fog.
+This simple coincidence and its exploitation have immense ramifications. For what the exploitation of this coincidence does is to permit indirectness and vicariousness in exploration.
+And what exploratory indirectness and vicariousness permit and create is the possibility of
+subjective experience and, ultimately, cognition. All this needs to be explained.
+Direct exploratory movement comes first. It has epistemological priority. Take an example of an organism which enjoys exploratory movement and virtually nothing else: the slipper animalcule (paramecium). Its problem is to put itself in a nourishing and nonnoxious
+econiche. It solves that problem not through representation of its world, but through random
+variation of movement into various parts of its environment. This begins when starvation approaches and ends when the organism is sated or has been killed in its search. Its exploration
+is direct, and its existence is relatively dangerous. Its main presupposition about the nature of
+the world, the presupposition lying behind its activity, and reridering that activity adaptive, is
+that the discontinuity to be experienced in nature is greater spatially than temporally: that
+change relevant to nourishment appears more rapidly if one moves around than if one
+stands still.
+28
+T. Campbell, Evolutionary epistemology", in: The Philosophy of Karl Popper, PA. Schilpp ed., La Salle,
+Open Court, 1974, p. 414.
+
+68
+
+W.W Bartley, III
+
+In the course of human and animal evolution, numerous exploration-relevant organs,
+structures, and activities have been added to movement. These include vision, habit, instinct, visually and memory-supported thought, social organization, language, science, and
+others. Developed vision is just a continuation of earlier processes whose purpose was also
+representation. And later structures and other developments, including science, are continuations and extensions of vision; they provide not only sharper pictures, but theories about
+the world that .- in interaction with sense organs - causes those pictures and which is itself
+not always picturable or perceivable. Compared to movement, all these activities, organs,
+structures are indirect and vicarious. And they work together to represent the environment.
+Indeed, representation and indirect and vicarious cognitive functioning go together. The
+whole point of indirect and vicarious functioning is to achieve representation, and vice versa:
+once indirect and vicarious functioning becomes possible, cognitive functioning, and thereby
+representative functioning, becomes possible. There is no cognition without vicarious and indirect representation. The survival-serving function of representation is to diminish the need
+for direct contact with a dangerous environment.
+Considered in continuity with evolutionary sequence, cognitive organs, structures, and
+activities all turn out to involve mechanisms at various levels of vicarious functioning, hierarchically related.
+But what does it mean to say that these function vicariously? Take radar as an example.
+Radar is used - on a ship for instance - as a substitute for movement, as a substitute for
+going and looking. Instead of exploring its environment directly, with all the attending risks,
+the ship sends out radar (and perhaps also sonar). The radar beam is emitted blindly29 and is
+selectively reflected from objects, their opaqueness to the wave band vicariously representing their impenetrability. Trial and error is thus removed from full movement on the part of
+the organism and is vicariously invested in the radar beam. Similarly with vision, wherein art
+environment far beyond the range of probing touch can be represented vicariously in the image in the visual cortex. This image may be utilised in a vicarious trial and error search or
+consideration of potential movements, and itself works as an error-eliminating control over
+movement. Successful movements in thought may be put into overt movement.
+Vision may be supported by memory. The environment may be searched vicariously
+through examining representations held in memory, the memory substituting not only for
+the external state of affairs but also for a new direct look at the external state of affairs. Such
+memories will also work to diminish the importance of any circumstances which may at present make it difficult to examine the external state of affairs directly. Thus a good memory of
+the harbor diminishes the importance of fog in the harbor this morning.
+Similarly for social exploration. Social forms of animal life are found subsequent to solitary forms. Within a social organization, an individual member may - as a scout, say - have
+his own trial and error exploration substituted for exploration on the part of the group. The
+scout here is the vicar, or substitute, for the group. The "ontological" assumption here is fairly definite: it is assumed that the scout is exploring the same world as that in which his group
+29
+the contention that this and related activity isblind rather than random, and a discussion of the differences between the two, see Campbell, "Blind variation and selective retention op. cit.
+
+Philosophy of Biology versus Philosophy of Physics
+
+69
+
+is living, and that common world is moderately stable - sufficiently so for the experience of
+the scout to hold, vicariously, for the group.
+Language also functions vicariously, and immensely increases the usefulness of the scout,
+enabling the results of his search to be relayed to the group without either inovement or visual representation. Underlying, but not constituting, language is the discovery that things and
+actions may be represented by words and other symbols. Science, art, tradition, and culture
+extend and objectify this process. To explain how they work, Popper has presented an account of "Objective Mind". He refers to the physical universe as World 1, and to the world
+of subjective conscious experience as World 2. He uses the term World 3 to refer to the
+realm of "Objective Mind ", to such things as the logical contents of books, libraries, computer memories, the logical structure of arguments, the objective problem situation at any time
+in a particular science. World 3 is, he contends, a "natural product of the human animal,
+comparable to a spider's web "30 This world is objective and autonomous, and exists independently of being realized in the subjective conscious (World 2) experience of any human
+individual. The objective contents of World 3 phenomena are, then, potentialities31.
+Those aspects of the contents of World 3 which are intended to represent the physical
+world (World 1) may be consulted vicariously in lieu of consulting World 1 directly. Indeed a
+double vicariousness and indirectness comes into play here. World 2 experience can serve
+both as a vicarious representative of World 1 and as a vicarious representative of World 3,
+which may in turn be a vicarious representation of World 1. World 2 experience can conduct
+an exploration of World 3 in lieu of conducting an exploration of World 1. And World 2 experience can explore World 1 in order to test World 3. In the latter case, available experimental evidence, sense observation, is a crucial part of those econiches to which theories
+adapt. As Campbell puts it: <<At this level there is a substitute exploration of a substitute representation of the environment, the "solution" being selected from the... exploratory
+thought trials according to a criterion which is in itself substituting for an external state of affairs>>32. In an econiche infused with culture - in significant contact with World 3 - one can
+lead a most abstract existence: "abstract" with reference to vicariousness and indirectness of
+one's contact with World 1. One can use World 3 to cut oneself off from World 1, just as one
+can use World 3 to sharpen one's questions about and one's participation in World 1.
+Presentationalists had contended that presentations or sensations are the very stuff of the
+world rather than being representative of the world. Such a view evidently conflicts with two
+parts of the account just presented here. First, it conflicts with the highly complicated charac30Popper, Objective Knowledge, op. cit., p. 117.
+31 On such potentialities, see also Konrad Lorenz, Behind the Mirror, op. cit., p. 147, where Lorenz explains that exploratory behavior is absolutely objective, even with animals: <<The raven that investigates an object has no wish to eat it'<,
+Lorenz writes. <<The rat that examines all the nooks and crannies of its territory has no wish to hide; they both want to
+know whether the object in question can be eaten or used as a hiding place... All objects that have been explored and
+then "filed away" in this manner have been objectivated in a higher sense, since the knowledge of how to employ them
+has been both acquired and remembered independently of the pressure of the ever changing motivational situations
+within the organism as well as of the environmental situations around it<<. On the role of potentialities in evolutionary
+theory, see also Michael T. Ghiselin, The Triumph of the Daiwinian Method, Berkeley and Los Angeles, University of
+California Press, 1969, p. 64.
+32Campbell, "Blind variation and selective retention ", op. cit., p. 384.
+
+W. W. Bartley, III
+
+70
+
+ter of human experience itself as revealed by a consideration of cognitive structures. (And
+only a hint at this complexity has been given in this brief account.) Second, the layered, hierarchical way in which these structures work together makes no sense except by reference to
+a common external world to which they are differentially adjusted in a common task of representation. They are, as it were, "independent" and complementary witnesses to the reality
+of this world. Seen from an evolutionary perspective, much sensation has vicarious and indirect representation as its main point.
+
+x
+So far we have restricted ourselves chiefly to human sensation, first considering the individual experience of it, then examining its structure and evolutionary development briefly. Both
+steps serve to undermine any remaining plausibility that presentationalism might have. Yet
+both steps move within the province chosen by presentationalism: human sensation. The
+next step - a comparative look at cognitive structures in non-human organisms - is generally
+neglected by presentationalists. Most presentationalism, that is to say, is anthropomorphic in
+practice.
+First, since we are going to be considering a variety of cognitive structures and their limitations, notice that any cognitive structure or vehicle or carrier of knowledge will have its own
+physical characteristics - that is to say, characteristics peculiar to it as a vehicle rather than
+being characteristics of the object to be represented. Some of these characteristics will aid it
+in the task of making a representation of something else; others - often the same ones, in
+other respects - may limit it. And there will always be a danger of mistaking the characteristics of the structure or vehicle for the characteristics of the object to be represented. For instance, many cognitive structures use grids. A mosaic is one example. Cross-stich embroidery is another. Yet another is the ordinary photoprint screen. A photoprint screen cannot
+produce any points of the object represented finer than those corresponding to the finite elements of the screen. The grain of the photographic negative permits no unlimited enlargement. Only that can be represented which can be "spelled out" on the "keyboard" provided by the grain of the print. Or take the domain resolved with the lens of a microscope33.
+The fineness of the smallest structure of the object still visible with the aid of the lens depends
+upon the relationship between the angle of aperture and focal length. For a structural grating
+to be seen, the first diffraction spectrum which is thrown by the grating must still fall into the
+front lens. When this is no longer so, no structure is visible and one sees a smooth brown
+surface - no matter what is really there.
+A presentationalist would hardly deny this; quite the contrary, if he knows his Kant, he
+understands these matters. But he wants to make something out of these limitations, and is
+preoccupied with the fear that we may mistakenly - and unjustifiably - impute the characteristics of the cognitive structure to the external world that this structure putatively represents. Lest we conclude that an external world is, say, composed of squares from the observation that the grain of the photograph is composed of small squares, we must - so the
+idealist or presentationalist may suggest - avoid saying anything at all about an objective
+world independent of "squareful"representaLion, and speak only of different manners of ar33See Konrad Lorenz, "Kant's doctrine of the a priori in the light of contemporary biology", in: General Systems, Yearbook of the Society for General Systems Research, L. von Bertalanffy & A. Rapoport eds, 1962, pp. 112-4.
+
+Philosophy of Biology versus Philosophy of Physics
+
+71
+
+rangement in square. Substitute "sensations" or "experience" for "squares ", and you have
+a characteristic presentationalist stance.
+Now this fastidious prohibition is only plausible so long as one ignores the existence of
+more than one cognitive device. If there were indeed but a single microscope, ne might
+conclude that structures are only "conceivable" up to the fineness resolved by that microscope, and that to speak of finer structures is meaningless. Once one knows of microscopes
+of different power, one reaches a different conclusion. Suppose, for example, that there is a
+less strongly resolving lens which registers brown for structures which are still visible as structures by the original instrument. One will hardly be inclined to treat its power of resolution as
+delimiting reality or our knowledge of it. Any microscope will be limited in its achievement;
+even the most powerful lenses have limits as to the fineness of the structure which they resolve. There is, however, no reason to conclude that any particular limitation says anything
+about the character - let alone the conceivability - of the external world.
+No particular mode of representation, no particular cognitive structure, is alleged to be
+perfect or complete. The fact that something is left out of a particular mode of representation
+gives no lic?nse to conclude that it is not there. As Lorenz puts it:
+one examines methodically what the cross-stitch representation permits to be stated
+about the form of the thing-in-itself, the conclusion is that the accuracy of the statement
+is dependent upon the relationship between the size of the picture and the grain of the
+screen. If one square is out of line with a straight-line contour in the embroidery, one
+knows that behind it lies an actual projection of the represented thing, but one is not
+sure whether it exactly fills the whole square of the screen or only the smallest part of it.
+This question can be decided only with the help of the next finest screen a34.
+XI
+What is true of any cognitive structure, any vehicle of representation or information, is true of
+the cognitive structures of man and other organisms. And indeed the neural apparatus with retinas using rods and cones - employed by humans and many animals to organize an
+image of the world is indeed rather like a photoprint screen, and cannot reproduce any finer
+points of the external world than are permitted by the net or grid which is being used. As Lorenz remarks: dust as the grain of the photographic negative permits no unlimited enlargement, so also there are limitations in the image of the universe traced out by our sense organs and cognitive apparatus35>> It is trivially true that the validity of no such image, however
+fine, can be justified or guaranteed: the structure, and with it the possibility of error stemming from that structure, is always there.
+Yet by surveying the cognitive structures of animals other than humans - in effect, by
+consulting less fine screens - one undercuts the idea that the limits of the most recent (evolutionarily speaking) human cognitive structures define the limits of the external world. One of
+
+34Lorenz, "Kant's Doctrine of the a priori", op. cit., p. 30.
+35
+
+W W. Bartley, III
+
+72
+
+the first to distinguish between the subjective visual and tactile spaces of man (and to distinguish both of these from objective space) was the presentationalist philosopher Bishop Berkeley (in An Essay Towards a New Theory of Vision). The insight that the subjective spaces
+of animals may differ from one another and from that of man, and the connection of this to
+the problem of objective space, came only much later. It is now well known, and argued by
+Simmel, Uexkull, and others, that the phenomenal worlds of animals differ from one another
+and from man's. Thus color perception is relatively unimportant and undeveloped in the familiar cat, who hunts at night, whereas color constancy is crucial for the honey-bee, which
+searches out particular flower blossoms by means of their color. The boundaries separating
+what is experienced from what is beyond experience differ for each sort of organism. The
+frog provides a good example.
+The vision of the frog, like radar, ignores many dimensions of the external world which
+are visually present to humans. An M.I.T. research group devised an experiment in which
+visual stimulation could be offered to one eye alone of an immobilized frog36. The frog was
+situated so that its eye was at the center of a hemisphere seven inches in radius. On the inner
+surface of the hemisphere thus created, small objects could - with the use of magnets - be
+placed in different positions and moved from one position to another. Microelectrodes were
+implanted in the frog's optic nerve to measure electrical impulses sent to the brain by the
+eye. In the course of presenting various objects, colors, and movements to the frog, the investigators discovered that only four different kinds of messages were sent from the retina to
+the brain. Regardless of complexity and differences present in the environment, the frog's
+eye is equipped to transmit only a few different kinds of messages and filters out - or simply
+cannot register - any additional information presented.
+McCulloch and his associates termed the four different kinds of visual activity registered
+by the frog: 1) sustained contrast; 2) net convexity; 3) moving edge; 4) net dimming.
+The first provides the general outline of the environment. The third enhances response to
+sudden moving shadows - such as a bird of prey. The fourth responds to a sudden decrease
+in light, as when a large enemy is attacking. The second responds neither to general changes
+of light nor to contrast, but only when small dark objects come into the field of vision and
+move close to the eye.
+McCulloch and his group conclude:
+<<The frog does not seem to see or, at any rate, is not concerned with the detail of stationary parts of the world around him. He will starve to death surrounded by food if it is
+not moving. His choice of food is determined only by size and movement. He will leap
+to capture any object the size of an insect or worm providing it moves like one. He can
+be fooled easily not only by a bit of dangled meat but by any moving small object... His
+36This example is presented in J. Y. Lettvin, H. R. Maturana, W. S. McCulloch and W. H. Pitts, "What the frog's eye
+tells the frog's brain ", in: Proceedings of the Institute of Radio Engineers 47, 1959, pp. 140-51. Reprinted in Warren S.
+McCulloch, Embodiments of Mind, Cambridge, The M.I.T. Press, 1965, pp. 230-55. See also H. R. Maturana, "Biology
+of cognition," B.C.L. Report 9.0, Biological Computer Laboratory, Department of Electrical Engineering, University of
+Illinois.
+
+Philosophy of Biology versus Philosophy of Physics
+
+73
+
+choice of paths in escaping enemies does not seem to be governed by anything more
+devious than leaping to where it is darkers37.
+Thus the vision of the frog differs from that of men with respect to qua'htity and quality of
+information conveyed. The frog does not inhabit a different objective world; he sees fewer
+details, and these are reproduced through a coarser screen. From the vantage point of our
+own cognitive achievements we would not take seriously the claim of an idealistically disposed frog that the limits of his experience define the limits of the world, or that it is meaningless to speak of the sorts of things which he cannot perceive.
+As the visual world of the frog differs from our own, so does the spatial world of the water
+shrew. The water shrew masters its living space almost exclusively by path learning acquired
+through trial and error movement. Whereas a man can master a spatial problem by a simultaneous clear survey over the data, most reptiles, birds and lower mammals lack this capacity. The water shrew, commands its space through kinesthetically ingrained movements
+known and applied by rote so exactly that hardly any optical or tactile steering or control is
+needed. The human being can approximately understand what is going on for the water
+shrew for he is able to behave this way himself, as for example in a strange city for which he
+has no map. But the water shrew, presumably, would not be able to understand the human's way of mastering space through simultaneous clear survey. As Lorenz puts it: <<basically, we can comprehend only the lower precursors of our own forms of perception and
+though.>>
+The spatial world of an animal may be far stranger than this example would suggest. A
+primitive animal might have a hunger space which it uses when hungry, a separate thirst
+space, a separate escape space for escape from each predator, a mate-finding space, and so
+on for each important activity. Only with a higher stage of evolution does the hypothesis
+emerge that these spaces are the same or overlap. This hypothesis amounts to a'hypothetical
+realism or representationalism.
+The white rat, the cat, the dog, the chimpanzee, all have access to this stage where spatial
+learning achieved in the service of one activity is immediately available for another. Accompanying this there emerges curiosity about all possible spaces, a trait with obvious survival
+value. "The different Umwelten of different animals ", Campbell writes, <<do represent in part
+the different utilities of their specific ecological niches, as well as differential limitations. But
+each of the separate contours diagnosed in these Umwelten are also diagnosable by a complete physics, which in addition provides many differentia unused and unperceived by any
+organism >>.
+
+XII
+These few examples will convey some impression of the kind of argument for representationalism that emerges from evolutionary epistemology. They will also suggest why the phil-
+
+Ibid., p. 231.
+35Campbell, "Evolutionary epistemology', op. cit., p. 448.
+
+74.
+
+W W. Bartley, III
+
+osopher informed about biology and evolutionary epistemology finds it incredible that many
+contemporary philosophers of science should seek to erect on the foundation of human
+sense experience and entire edifice of justified human knowledge - let alone an entire world.
+Briefly to summarize the argument presented: when we consider the indirectness and vicariousness of cognition within any particular animal, and also the differences in cognitive
+structures from one animal to another, we see that the various vicars and structures make no
+sense individually or collectively in their mutual integration, hierarchical arrangement and
+controls, except by reference to a common external world, in which they function, which
+they attempt in their various ways to represent, and in connection with which they have
+evolved. Each of the vicars - kinesthetic sense, vision, language, scientific representation,
+and the various others - has evolved separately and can be explained in terms of natural selection survival value only by reference to the others and to an external world. The way in
+which they complement one another, check and partly compensate for the inadequacies of
+one another, makes no sense apart from a common reality. From the height of our own
+complex cognitive structures we can understand the way in which the spatial and other cognitive equipement of various animals approximate, in however imperfect a way, to devices
+more elaborately and complexly developed in ourselves; and we can suppose that we and
+these animals have evolved in our diverse ways while coping with a common environment.
+We can guess at the features of this external environment as it transcends our evidence by
+analysing the ontological presuppositions of the various devices, including theories, used by
+ourselves and by animals in cognition. A hypothetical external world plays a crucial role
+here. If one, however fastidiously and justifiably, omits the external world, one is left with an
+inexplicable miracle, a piece of "pre-established harmony". It can hardly be said here, as the
+philosopher Herbert Dingle wrote in defending presentationalism in physics: <<the external
+world plays no part at all in the business, and could be left out without the loss of anything...
+It is thus a useless encumbrance... a will o' the wisp, leading us astray and finally landing us
+in a bog of nescience
+It is not only the "less fine structures", the coarser lenses, of animals to which we can appeal here. Modern science, physics, physiology, and psychology give one finer structures
+from whose standpoint one can even criticize and evaluate one's own cognitive structures,
+and identify and correct for distortions in them. To attain this, it is not necessary to make the
+cognitive structures work differently, or to alter one's actual phenomenal experience. That
+may indeed be impossible. R. L. Gregory, for example, has shown that, with some optical
+illusions and paradoxes, one cannot correct one's visual perception of them even when one
+knows intellectually what is really so arcd how the illusion is constructed. Yet one can still correct conceptually or intellectually. One is by no means trapped by such an illusion, even
+though one cannot escape its effects on the perceptual level40. In effect, one corrects one's
+World 2 by reference to one's World 3. To one who knows about the construction of the illusion, the experience of it will then have both perceptual and theoretical or conceptual components - in conflict. And we may be able to provide, physiologically, a well tested explanation both of the illusion and of the conflict. Such an illusion Gregory describes as arising from
+a discrepancy between a perceptual hypothesis and a conceptual hypothesis.
+39Herbert Dingle, The Sources of Eddington's Philosophy, Cambridge, Cambridge University Press, 1954, p. 25.
+'P See Gregory's contributions to Structure in: Science and Art, Third Boehringer Symposium, Amsterdam, Excerpta
+Medica, 1980. See also my remarks there, and also my, "The philosophy of Karl Popper: Part I: biology and evolution-
+
+Philosophy of Biology versus Philosophy of Physics
+
+75
+
+XIII
+eppur si muove. I feel that I must be flogging dead horses: in the precding pages I have
+used a biological theory that is more than a century old to whip a presentationalist philosophy of science that was thoroughly discredited some seventy years ago. Surely these facts
+about evolution, perception, and cognitive structures are well known? In a sense they are:
+even Mach knew some of these things. So much so, indeed, that one can readily understand
+F. A. von Hayek's remark: <d suddenly realized how a consistent development of Mach's
+analysis of perceptual organization made his own concept of sensory elements superfluous
+and otiose, an idle construction in conflict with most of his acute psychological analysis41.
+Yet Mach, and other presentationalists like him, "know" these things only by fits and starts;
+they do not put them to the consistent and "systematic development" for which Hayek later
+calls. Thus, even if the horse is dead, eppur si muove.
+To utiderstand these matters better, let us stand back from the discussion in which we
+have engaged. I have used the unfamiliar terms "presentationalism" and "representationalism" to characterize a debate that would conventionally be posed as being between ' idealism" and "realism". These conventional terms are spoilt by years of misuse and inverted usage42. I hope that the unfamiliar terms have enabled me to be clear about the issues without
+being detoured into terminological issues. I have also written as if presentationalism were
+characteristic of philosophy of physics, and representationalism were characteristic of philosophy of biology. Whereas actual alignments are, of course, much more complicated.
+The roots of presentationalism go very deep, and affect not only philosophy of physics.
+Indeed, for such a preposterous philosophy to exert the pull that it does, these roots may be
+not only deep but psychological: representationalism, which assigns so much more minor a
+role to one's subjective experiences, involves a level of acceptance of death that is foreign to
+presentationalism.
+Yet the deep roots that I wish to mention here again in closing are not psychological but
+methodological. For' it seems to me that philosophers of science do not ordinarily choose
+presentationalism; rather, they are driven to it by certain deep structual assumptions that
+permeate most of western philosophy.
+These are, first and foremost, justificationism and combinatorialism. I discussed these in
+passing earlier (section VII) and 'have written about the former at length elsewhere43. Most
+western philosophy is structured within these two doctrines; indeed they are so much a part
+ary epistemology ", in: Philosophia 6, 3-4, September-December 1976, PP. 463-94. See also Gregory Bateson: Mind
+and Nature, New York, E. P. Dutton, 1979, P. 37 and Chapter 7. See also Gregory, "The confounded eye", op. cit.,
+pp. 86 and 49.
+"i The Sensory Order, op. cit., pp. vi and 175-6.
+425ee Blackmore, "On the Inverted Use ..... , op. cit.
+3
+my The Retreat to Commitment, op. cit., "Rationality versus the theory of rationality ", op. cit., and "Rationality,
+criticism, and logic", op. cit. On justification in a biological setting, see Donald T. Campbell, "Unjustified variation and
+selective retention in scientific discovery", in: Studies in the Philosophy of Biology, F. J. Ayala and T. Dobzhansky, Berkeley, University of California Press, 1974, PP. 139-61.
+
+76
+
+W.W Bartley, III
+
+of the fabric of western philosophy that many philosophers do not even know that they are
+there, let alone that they cause difficulties and might be replaced. Most western philosophies,
+being structured within justificationism and combinatorialism, focus their main attention on
+subordinate questions which do not even arise unless justificationism and combinatorialism
+are assumed to be correct.
+Thus it seems to me that philosophers of physics would never have permitted themselves
+to be forced into presentationalism had it not been for these deeper assumptions. Moreover,
+the problems which remain with presentationalism, and which dominate most texts in the
+philosophy of physics, are problems which arise out of the difficulties of justificationism and
+combinatorialism. Thus issues of induction, confirmation, probability theory, and of the
+"empirical basis" dominate these texts. But what are the problems of induction, confirmation, probability, and empirical basis but problems in justification and in the formulation of
+rules of justified combination? Hence when one abandons justificafionism and combinatorialism, one finds that most of these textbooks in philosophy of physics are utterly useless:
+elaborate, even brilliant, accounts of how to justify and combine in terms of elements are of
+little interest once one has abandoned justification, combination, and elements.
+Moreover, once one abandons justificationism and combinatorialism, one also finds that
+a number of other positions commonly associated with, and reinforcing, philosophy of physics, and amounting to an ideology, also diminish in plausibility. These include: determinism,
+materialism, monisrnç reductionism.
+All these issues are argued at length in the publications of Popper and his associates45.
+Obviously I cannot summarize them successfully in this brief account, which is intended to
+inform, not to convince. Yet this is also why the example of biology is so useful. For natural
+history and the life sciences provide fairly readily comprehensible examples of existence and
+knowledge processes in which justificationism and combinatorialism are not only irrelevant
+but are in flagrant contradiction to Darwinian theory of natural selection.
+In general, combinatorial theories are either presentationalist (immaterialist or idealist) or
+materialist. These differ as to the nature of the elements which are to be combined in constructing knowledge and the world. For presentationalists, these elements usually are sensations; for materialists, small bits of matter.
+What is the non-combinatorial alternative to combinatorialism? Usually it is called emer.gentism, or the theory of emergent evolution; and Popper and his associates have indicated
+their acceptance of this term. Something of its nature and chief problems can be indicated
+with the aid of this table46:
+
+'There is no conflict, however, with the more restricted sense of reductionism espoused in Campbell, "Downward causation in hierarchically organised biological systems", in: Studies in the Philosophy of Biology, F. J. Ayala and Dobzhansky eds, op. cit., pp. 179-86.
+45See in particular Popper's The Logic of Scientific Discovery, op. cit., and (with Eccies) The Self and Its Brain, op. cit.
+46Adapted from Popper, The Self and Its Brain, op. cit., p. 16.
+
+Philosophy of Biology versus Philosophy of Physics
+
+(6)
+(5)
+(4)
+(3)
+(2)
+(1)
+(0)
+
+77
+
+Some Cosmic Evolutionaiy Stages
+Works of Art andScience (including technology)
+Human Language. Theories of Self and Death
+Consciousness of Self and Death
+Sentience (Animal Consciousness)
+Living Organisms
+The Heavier Elements: Liquids and Crystals
+Hydrogen and Helium
+
+This obviously oversimplified table suggests two things: 1) the character of the sequence
+of great periods and events in the course of evolutionary history; 2) a problem in connection
+with that. The problem is that, according to our present theories, our universe once consisted
+of no elements but hydrogen and helium; and yet there is no way to attain, by any form of
+combination or prediction from these elements, even the next step, let alone the other properties and things listed higher on the table. The same is true of each later stage in relation to
+its successive predecessors.
+How then did an unpredictable temporal succession of phenomena marked by an increase in complexity, diversity, and variety, originate?
+In the past, many unscientific and even irrationalist accounts of these "jumps" from level
+to level have been given, of which the best known is no doubt "vitalism", which inserts a
+mysterious "vital force" or "élan vital" into nature. Such unscientific accounts - associated
+with the names of such thinkers as Bergson, Driesch, and Lecomte du Nouy - have in the
+past been encouraged in that no scientific alternative to combinatorialism was widely known.
+Vitalists had good arguments against combinatorial reductionism, but ordinarily did not realize that DarwinIan natural selection was open to a non-combinatorial, non-reductionist interpretation: that it is an account of creative change. Nor was the nature of evolution as a
+knowledge process understood - or the parallels between this knowledge process and the
+growth of knowledge in science. It is only recently that these relationships begin to become
+clearer, and that a neo-Darwinian and thoroughly scientific theory of emergence can begin
+to develop47.
+BIBLIOGRAPHY
+AYALA F. J. and T. DOBZHA.NSKY, Studies in the Philosophy of Biology: Reduction and Related Pro blems, Berkeley,
+University of California Press, 1974.
+BATESON G., Steps to an Ecology of Mind, New York, Ballantine Books, 1975.
+BATESON G., Mind and Nature: A Necessary Unity, New York, E. P. Dutton, 1979.
+BLACKMORE J.T., Ernst Mach: His Work, Life, and Influence, Berkeley, University of California Press, 1972.
+CAMPBELL D.T., "Evolutionary epistemology," in : The Philosophy of Karl Popper, P. A. Shilpp ed, LaSalle, Open
+Court, 1974, pp. 413-63.
+CAMPBELL D.T., "Descriptive epistemology: psychological, sociological, and evolutionary", William James Lectures,
+Harvard University, 1977, Preliminary Draft, Mimeographed.
+47 1 am obliged to the following persons for conversation and correspondence which assisted me in the correction and
+improvement of this essay: Professor John T. Blackmore, James G. Blight, Donald T. Campbell, Sir Ernst Gombrich,
+Richard Gregory, Janet M. Lang, Sir Karl Popper, Theodore Roszak, and Walter B. Weimer. I am also indebted to conversations with Professors Gregory Bateson and F. A. von Hayek.
+
+78
+
+W. W. Bartley, III
+
+ECCLES J,C., Facing Reality, New York, Springer Verlag, 1970.
+GREGORY R. L., Concepts and Mechanisms of Perception, London, Duckworth, 1974.
+GREGORY R. L., Eye and Brain, New York, World-University Library, 1966.
+GREGORY R. L. end E. H. GOMBRICH eds, Illusion in Nature and Art, London, Duckworth, 1973.
+GHISELIN MT., The Triumph of the Darwinian Method, Berkeley, University of California Press, 1969.
+von HAYEK F.A., The Sensory Order, Chicago, University of Chicago Press, 1952.
+LORENZ K., Behind the Mirror, New York, Harcourt, Brace, Jovanovich, 1973.
+LORENZ K., "Kant's doctrine of the a priori in the light of contemporary biology", in: General Systems, Yearbook of
+the Society for General Systems Research, L. von Bertalanffy and A. Rapoport eds, 1962, pp. 112-4.
+LORENZ K., Evolution and the Modification of Behavior, Chicago, University of Chicago Press, 1965.
+LORENZ K., Studies in Animal and Human Behaviour, Cambridge, Harvard University Press, 1971, two volumes.
+MACH E., The Analysis of Sensations and the Relation of the Physical to the Psychical, New York, 1959.
+MACH E., The Science of Mechanics: A Critical and Historical Account of Its Development, LaSalle, 1960.
+MAYR E., Evolution and the Diversity of Life, Cambridge, Harvard University Press, 1976.
+MONOD J., Chance and Necessity, New York, Alfred A. Knopf, Inc., 1971.
+POPPER KR., Conjectures and Refutations, London, Routledge and Kegan Paul, 1963.
+POPPER KR., The Logic of Scientific Discovery, London, Hutchinson, 1959.
+POPPER KR., Objective Knowledge: An Evolutionary Approach, Oxford, Oxford University Press, 1972.
+POPPER K.R., The Self and Its Brain' (with J. C. Eccles), New York, Springer Verlag, 1977.
+POPPER KR., Unended Quest, London, Fontana, 1976.
+SCHLICK M., General Theory of Knowledge, New York, Springer Verlag, 1974.
+
+

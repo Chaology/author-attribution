@@ -1,0 +1,1842 @@
+GAIL C. STINE
+___
+
+NOTES
+1
+
+6
+
+8
+
+10
+
+'
+12
+13
+
+14
+
+Developed in Perceiving, Cornell Univ. Press (1957) and Theory of
+Knowledge, Prentice-Hall, Inc. (1966).
+This is to some extent the subject of Richard Arnauld's paper "Brentanist
+Relations" in the volume under review in the "Metaphysics" section, but
+as I indicated at the outset, the scope of the review is limited to Epistemology, the first (and longest) of the three sections. This paper, however, indicates the holistic character of Chishoim's thought and one
+wishes that he would integrate sometime in one work his work on the
+varied topics of epistemology, metaphysics, ad even ethics.
+"Intentionality," The Encyclopedia of Philosophy ed. Paul Edwards, the
+Macmillan Co., New York (1967), Vol. I, p. 203. Similar remarks may
+also be found in "Brentano," ibid., Vol. IV and in the Editor's Preface
+and Introduction, Realism and the Background of PHenomenology, The
+Free Press, Glencoe, Ill.
+In Semantics of Natural Language, ed. Davidson and Harman, Reidel
+(1972).
+Analysis and Metaphysics, ed. Lehrer, Reidel (1957), p. 52.
+Analysis and Metaphysics, ibid., p. 34.
+From A.N. Prior in A Budget of Paradoxes, Clarendon Press, Oxford
+(1971), pp. 84-89. The paradox is also discussed (briefly on her way to
+other objectives) in the volume under review by Marsha Hanen in her
+paper (pp. 96-9 7) which I shall consider shortly.
+Knopf, New York (1967).
+Kyburg, "Conjunctivities," in Induction, Acceptance, and Rational
+Belief, ed. Swain, Reidel, Dordrecht (1971).
+This issue is discussed in, among other places, the admirable Swain
+anthology (ibid.) in Kyburg, op. cit. (entire); implicity in Swain, "The
+Consistency of Rational Belief," pp. 3 3-34; Harman "Induction," pp.
+98-99; Lehrer, "Justification, Explanation, and Induction," (p. 118). Cf.
+also Marsha Hanen's article in the volume under review (and my remarks
+in this review which follow). Also involved is the distinction between
+strong and weak consistency principles (believing a pair of contradictory
+statements and believing a contradiction) discussed by Kyburg in the
+aforementioned paper.
+Swain, op. cit., p. 85.
+Analysis and Metaphysics, p. 93.
+Ibid.
+
+Analysis and Metaphysics, p. 94.
+
+674 /
+
+CRITICAL STUDY
+THE PHILOSOpHY OF KARL POPPER
+PART II. CONSCIOUSNESS AND PHYSICS
+Quantum Mechanics, Probability, Indeterminism,
+The Body-Mind Problem
+W.W. BARTLEY, III
+THE PHIL OSQPH OF KARL POPPER, edited by Paul Arthur
+Schilpp, Two Volumes, La Salle: Open Court, Library of Living
+Philosophers, 1974, 1323 pp., $30.00
+
+The first instalment of this five-part critical study of the work of
+Sir Karl Popper, based on a review of the Schilpp volume in his
+honour, dealt with biology, evolution theory, evolutionary epistemology, and Popper's doctrine of the "Three Worlds."* In this
+second part, I turn to Popper's account of quantum mechanics, probability theory, entropy, time, indeterminjsm, consciousness, and
+the body-mind problem.**
+My aim throughout this study is to contribute to the creation of a
+"body of informed and serious criticism" of Popper's thought, as
+called for by Anthony Quinton and other writers.1 In particular, I
+want to chart the general problem situation within which Popper's
+thought has to be evaluated, and to indicate the present state of
+discussion of his theories.
+II
+The basic theme of Karl Popper's philosophy is that something
+can come from nothing.2
+It is not surprising that such an idea should meet incomprehension and stark resistance, for it opposes the dominant watchwords of our philosophical tradition:
+675
+
+W.W. BARTLEY, III
+
+There is nothing new under the sun.3
+Nothing can be created or destroyed.
+Ex nihilo nihil fit.4
+The chief ideas of Popper's philosophy all relate to the basic
+theme that something can come from nothing. Scientific theories
+introduce new forms into the universe and cannot be reduced to
+observations: there is no such thing as scientific induction. The future is not contained in the present or the past. There is indeterminism in physics; and there is indeterminism in history, ipso facto,
+and also because new scientific ideas affect history and thus the
+course of the physical universe. There is genuine emergence in
+biology. Value cannot be reduced to fact. Mind cannot be reduced
+to matter. Descriptive and argumentative levels of language cannot
+be reduced to expressive and signal levels. Consciousness is the
+spearhead of evolution, and the products of consciousness are not
+determiped.
+It is remarkable that a philosopher for whom consciousness and
+its products are so important should have at the core of his philosophical work a denunciation of those attempts - made by the
+majority of the best physicists during the past fifty years - to introduce consciousness into the heart of physics.
+No connoisseur of the ironies of intellectual history and learned
+debate can fail to appreciate the rare treat that is in store for him
+here. At a time when most serious physicists are inductivist, subjectivist, positivist, instrumentalist, it turns out that the leading philosopher of science is deductivist, realist, anti-positivist, antiinstrumentalist. One can hardly imagine a more severe way to test
+the ideas of such a philosopher than to set his life in the middle of
+such a generation of physicists. His need over the past half century
+to forge his ideas, to test and shape them, to meet the actual and
+possible objections of the most abstract theoreticians of the most
+esoteric of modem subjects, has helped give to the ideas of Karl
+Popper their lapidary clarity. In such dramatic circumstances, one
+might have hoped for a classically heroic battle wherein the physicists gave the challenger no quarter - and the challenger required
+none.
+In fact, the physicists have for the most part simply ignored
+Popper.
+Among the many highly distinguished contributors to the Schilpp
+volume there is, for example, only one physicist of even moderate
+distinction, Henry Margenau, of Yale University. Margenau is, how676
+
+CRITICAL STUDY (POPPER)
+
+ever, among those contemporary physicists who are in general agreement with Popper's views; and his paper is a brief affair, more appropriate to a Festschrzft than a Schilpp volume.
+There could be no more serious editorial defect in a Schilpp
+volume. It is as if the Einstein volume if the series were published
+without critical reference to relativity theory; or the Russell volume,
+without reference to mathematical logic. Where is Paul Feyerabend,
+who published a highly critical study of Popper's contributions to
+physics in 1968? Where is J:s. Bell, John F. Clauser, or John A.
+Wheeler? They certainly know of Popper's work, and Clauser at any
+rate has been in correspondence with him. Were Werner Heisenberg,
+Kurt Gödel, Louis de Brogue, or Eugene P. Wigner asked to contribute? For that matter, where are Jean-Pierre Vigier, Alfred
+Landé, and David Bohm, who tend to agree with Popper's critique of
+quantum mechanics but have developed independent interpretations
+of their own?
+III
+The lack of a sustained critical interaction between Popper and
+the majority of physicists is a loss not only to theory but also to
+culture. For it is no longer possible to consider the issues of quantum mechanics as esoteric matters with which members of the public
+need not concern themselves. These ideas and issues have now entered the culture, and are helping to create there a rather curious
+situation.
+Although my reason for attaching importance to this matter may
+have something to do with my residence in California, the centre of
+the "consciousness revolution," it is appropriate in a review of
+Popper's work to mark the interconnexjon between theory, culture,
+and personal life. As Popper himself put it, "The impact of our
+philosophies upon our actions and our lives is often devastating."5
+During the past decade there has been a resurgence of the sort of
+"mind-cure" movement which William James discussed at length in
+his brilliant Gifford Lectures, The Varieties of Religious Experience,
+in 19026 (the term, "mind-cure," is due to James). James wrote of
+these groups sympathetically, having been the beneficiary himself of
+a sort of mind-cure through the study of Renouvier.7 I too wish to
+do them no injustice, for it has been my experience, in studying
+them during the past five years, that they cannot be dismissed as
+anti-intellectual cults. They number among their members and
+boards of directors distinguished and responsible professional and
+677
+
+W.W. BARTLEY, LII
+CRITICAL STUDY (POPPER)
+
+academic people; far from being anti-intellectual, some of them explicitly cultivate reason and science. During the past five years, at
+least a million middle-class Americans, and probably several times
+that number, have been associated with one or another of the
+training programs in expanded consciousness offered by these
+groups.
+Many things which these groups do are admirable. They contribute to the heightened physical and mental well being of their adherents; and at a time when the academic teaching of philosophical
+issues is declining in numbers and influence, they are educating large
+numbers of the populace in basic philosophical notions and in the
+relevance of these for their lives and practice.
+But what are they teaching? Basically, it is the power of mind
+over matter. What are the sources for their teaching? So far, there is
+within these movements no primary work of any theoretical importance. For theoretical grounding they rely therefore on two main
+sources: (1) oriental idealistic philosophy, largely Buddhist in origin;
+and (2) the Copenhagen interpretation of quantum mechanics. These
+groups do not manifest themselves as oriental philosophies; they are
+as American as apple pie: the process of translation from eastern
+into western concepts has already taken place: a significant percentage of the educated American populace has now assimilated and
+internalised the basic concepts of oriental philosophy. These are
+defended when challenged as in accordance with the findings, the
+results, of modern physics.8
+That is a defence that one cannot easily fault either in the physics
+departments of American universities - where the Copenhagen interpretation is taught as fact - or in contemporary physics textbooks,
+where no other interpretation is seriously presented. One of the few
+though not of
+serious systematic challenges to this point of view
+course to these groups - is to be found in the writings of Karl
+Popper - who is, before anything else, an opponent of subjectivism
+and idealism. It is because of the direct cultural relevance of
+Popper's contributions to physics that I mention these matters here.
+
+ness revolution" that invoke the authority of physics for their claims
+appeal to one or another - or to a jumble of - these three. They
+are:
+1. The so-called Copenhagen interpretation of quantum mechanics, including the doctrines of wavepartjc1e duality; the intrusion
+of the observer into physical results - "the intrusion of the mind
+into the world of the atom" - and the dissolution of the subjectobject distinction; quantum jumps and the reduction of the wave
+packet at superluminal velocities. The main proponents of this interpretation are, in Popper's view, Niels Bohr, Werner Heisenberg, and
+Wolfgang Pauli.
+2. The theory of Leo Szilard - called by Popper "the subjectivist theory of entropy" - according to which the entropy of a
+system increases with decrease in our information about it, and vice
+versa.
+3. The subjective theory of time, according to which the arrow
+of time is a subjective illusion.
+Although Popper has focused on each of these issues in turn in
+the body of his work, beginning in Logik derForschung in 1934, the
+mass of his work on these matters is either in his unpublished Postscript (1955) or in relatively inacessible journal articles. An anthology on Philosophy and Physics to bring together some of these
+papers was announced by Oxford University Press a number of years
+ago, but so far remains unpublished. Thus Popper's account of these
+matters in the Schilpp volume is the first publication of his views on
+these matters in a connected way under a single cover.
+I shall take up each of these matters in the present review, Since
+it is in quantum mechanics that Popper himself is obviously most
+interested - he sees Heisenberg's subjectivist interpretation of the
+quantum mechanical formalism as a "stimulus" to test his realist
+epistemology (p. 77) - I shall open my discussion with that.
+
+V
+Iv
+Subjectivism and idealism enter the heart of physics in three principal places; and indeed virtually all documents of the "conscious-
+
+The famous two-slit experiment has come to be the set piece
+around which any discussion of quantum mechanics tends to revolve. And so it was at Popper's famous meeting in Princeton in
+1950 (while he was William James Lecturer at Harvard) with
+Einstein and Bohr. "Bohr spoke at length," Popper recalls, "(in fact
+
+678
+679
+
+W.W. BARTLEY, III
+
+CRITICAL STUDY (POPPER)
+
+until we were the oonly two left), arguing with the help of the
+famous two-slit experiment that the situation in quantum physics
+was completely new, and altogether incomparable with that in classical physics." (p. 102)
+So what is the two-slit experiment? It is an idealized thought
+experiment and has never been performed.
+For background, suppose that there is a gun spraying bullets. In
+front of the gun a wall or screen containing two holes has been set
+up. Each of the holes is large enough for a bullet to pass through it.
+Beyond the wall is a further wall or backstop to absorb the bullets
+that pass through the first screen. With this- apparatus we can
+ascertain the probability of a bullet passing through the holes arriving at the backstop at any given distance from the center. The
+
+Alter the experiment. Suppose a trough of water and an apparatus to create circular waves. Again there is a wall with two holes,
+and behind it an absorbing wall or beach, together with a device that
+measures the intensity of the waves that reach it. When one measures
+the wave intensity for various distances from the center, one gets the
+curve marked I 2 in part (c) of the diagram below. The original wave
+has been diffracted at the two holes, and new circular waves now
+spread out from each hole. On the other hand, if one covers one hole
+at a time, one creates the intensity curves I and '2 respectively,
+shown in part (b) of the diagram. Here the important thing is that
+2 is not the sum of I and '2. There is interference of the two
+waves.
+
+VA
+DETECTOR
+
+D
+
+L
+
+il_I
+
+N N
+____
+
+-
+
+WALL
+
+(a)
+
+_____
+
+1-
+
+(b)
+
+R
+
+______
+
+BACKSTOP
+
+(
+
+result of such a measurement is shown in part (c) of the above
+diagram. The bullets used to measure this curve entered either
+through hole 1 or hole 2. If we repeat the experiment, first covering
+up hole 1, and then covering up hole 2, we get two different curves,
+shown in part (b) of the diagram. When hole 2 is closed, we get curve
+P1; when hole 1 is covered, we get curve P2. The important thing to
+notice is that p1 + p2 = P12. The effect produced with both holes
+open is just the sum of the effects with each hole open alone. There
+is no interference.
+680
+
+II
+
+WAVE
+SCE
+
+Ii'
+
+GUN
+
+DEC
+
+WALL
+
+ABSORBER
+
+(a)
+
+I2= I h i- h212
+
+=
+'2
+
+I 21
+
+(b)
+
+(C)
+
+So much for background. Now imagine a similar experiment with
+electrons. We have an electron gun accelerating electrons towards a
+wall with two slits; beyond that wall, again, is another backstop wall
+equipped with a movable detector - a geiger counter or electron
+multiplier for example.
+681
+
+W.W. BARTLEY, III
+
+CRITICAL STUDY (POPPER)
+
+2
+
+X
+
+TECTOR
+
+___
+ELECTRON
+
+'-
+
+2
+
+WALL
+
+LIGHT
+
+sou,__
+L
+ELECTRON
+GUN
+
+p2
+
+BOI(S1DP
+F
+
+(a)
+
+I=F'4P
+(b)
+
+(c)
+
+It can be shown that whatever arrives at the backstop arrives in
+discrete "lumps" of identical size. However, when one asks about
+the relative probability of an electron lump arriving at the backstop
+at various distances from the center when both slits are open, one
+attains the curve marked P1 2 in part (c) of the diagram above.
+Yet when one blocks holes 2 and 1 successively, one gets the two
+curves, P1 and P2, shown in part (b) of the diagram above. The sum
+of P1 and P2 is not P1 2• Thus the situation here is not additive;
+there is interference, and the curve attained when both slits are open
+is identical to the one achieved by the water waves.
+One additional feature needs to be mentioned. Suppose that a
+light source is placed behind the screen between the two slits. Now,
+when an electron passes on its way to the detector, it will scatter
+some light to our eyes, so that we can see where it goes. If, for
+instance, it takesa path by way of hole 2, as indicated in the diagram below, we would see a flash of light coming from the vicinity
+of A in the diagram.
+What happens is that every time there is a click from the electron
+detector there is also a flash of light near either one hole or the other
+- but never both at once. Thus it appears that the electrons do go
+through one hole or the other. This is in fact confirmed if we keep
+track of them, recording which come through slit 1 and which
+through slit 2. Our results are shown in part (b) of the diagram. We
+get the probability P'1 that an electron will arrive at the detector via
+hole 1; and probability P'2 that it will arrive at the detector via hole
+2. Now however the curve P'1 2, the probability curve for electrons
+coming by either route - or any route - is simply the sum of P'1
+and P'2. There is no interference.
+682
+
+(a)
+
+(b)
+
+(c)
+
+But if we turn off the light the old interference curve is restored.
+These results, taken together, raise some interesting questions.
+Since the electrons arrive in lumps, like particles, presumably they
+pass through either one hole or the other. Yet evidently they do not
+do so: when both slits are open the probability of the arrival of these
+lumps is distributed like the distribution of intensity of a wave.
+Moreover, from the second experiment it appears that they arrive
+like particles if they are watched (with the light), but that they
+arrive like waves if they are not watched!
+From this and comparable experiments, the conclusion is drawn
+that nature manifests itself in two contradictory ways: sometimes as
+waves, sometimes as particles, and that the transitions from one
+manifestation to another may occur at super-luminal velocity. Moreover, the role of the observer is crucial: when the electrons are
+looked at, their distribution on the screen is different from the way
+it is when we do not look.1 0 Eugene P. Wigner concludes: "It was
+not possible to formulate the laws of quantum mechanics in a fully
+consistent way without reference to the consciousness. All that
+quantum mechanics purports to provide are probability connexions
+between subsequent impressions."1'
+
+'/1
+Against the Copenhagen interpretation, Popper contends that
+quantum mechanics is as objective as is cfassical statistical me683
+
+W.W. BARTLEY, III
+
+chanics, and that consciousness and "the observer" play no special
+role in it - that indeed the observer plays in quantum theory exactly
+the same role that he does in classical physics.
+The gist of Popper's critique of the Copenhagen interpretation
+can be stated in terms of the two-slit experiment.
+Popper has dealt with the two-slit experiment and its ramifications and implications on numerous occasions, beginning in The
+Logic of Scientific Discovely (1935), section 77 and Appendix v.
+The most comprehensive recent exposition of his views, apart from
+the account in the Schilpp volume, appeared in 1967 in his paper on
+"Quantum Mechanics without the 'Observer,"1
+Popper's essential arugment in this article and in the Schilpp
+volume, moves on two fronts: first, he gives an alternative objective
+explanation of the wave pattern; second, he traces the vagaries of the
+Copenhagen interpretation to a misinterpretation of the probability
+calculus.
+For his alternative explanation of the wave pattern, Popper relies
+essentia1y on the work of the eminent physicist, the late Alfred
+Landé,' who advocates a particular mechanical particle interpretation of the two-slit experiment. The wave-like curve is, according to Landé, caused by a momentum packet from the screen, as
+explained by what Landé calls the "third quantum law," due to
+Duane (1923) and Epstein and Ehrenfest (1924 and 1927),' supplementing Planck's quantum rule for energy and the SommerfeldWilson quantum rule for angular momentum. "The third quantum
+rule," as Landé puts it, "yields indeed a complete explanation of all
+the wavelike phenomena of matter, including diffraction and coherence, without using the fantastic hypothesis of particles occasionally transforming themselves into waves." (New Foundations,
+pp. ix-x.) Electron diffraction and related wave-like phenomena,
+Landé contends, can all be explained by purely mechanical particle
+action without wave interference.
+In the specific case of the two-slit experiment, an incident particle reacts not to an individual slit but to the entire experimental
+situation. A screen with one slit has periodic space components of
+various lengths composing its geometrical shape; and a screen with
+two slits has a different set of lengths. Since the several components
+of length L give rise to impulse transfers tp = h/L respectively, the
+two cases of one and two slits yield different deflected angles with
+different intensities. The diaphragm with its slit structure acts like a
+crystal. The electron changes its momentum in reaction to the harmonic components of the matter distribution of the two-slitted
+84
+
+CRITICAL STUDY (POPPER)
+
+screen as a whole; the deflected electron may not even be identical
+with the incident one. All that matters is the conservation of charge
+and total momentum during the reaction between electron and diffractor. The difference between the curve produced by the bullets
+and the curve produced by the electrons is that with electrons the
+space periodicity of the screen becomes relevant. Landé gives no
+detailed mathematical account of how this all takes place.
+Yet his approach, even though schematic, is simple, and its implications for quantum theory sweeping. What has been the response?
+Here again, there has been comparative neglect. Popper is the only
+thinker of great standing to have taken up his results. Brief favourable accounts of Landé's books have appeared in Physics Today.'
+Abner Shimony has given the only extended critique of Landd's
+views; and Shimony's review is restricted to an examination of
+L.ande's broader attempt to derive quantum mechanics from a few
+general nonquantal laws.'6 Shimony does not consider the Duane
+"third quantum rule," on which Landé's account of the two-slit
+experiment essentially depends. Nor does Wolfgang Yourgrau in his
+long and favourable review,' or Henryk Mehlberg is his.' 8 Only
+two direct assaults on the Duane connection have appeared, both of
+them very brief. The first was made by H.V. Stopes-Roe, in Nature.
+While accepting the formal equivalence of the Duane account with
+the account according to which the particle itself disperses or
+spreads in a wave pattern, Stopes-Roe submitted that no account
+had been given by Landé of the collective action of the apparatus in
+the two-slit experiment, yet such action was problematic. To this
+Landé replied that the assumption of collective action of the reacting body was fully justified and is "always taken for granted in the
+non-relativistic theory where communication is instantaneous from
+one to the other end of a body."9 Stopes-Roe was not satisfied by
+this reply,2° and the exchange remained inconclusive.
+The second attack on Landé's application of Duane's rule to the
+two-slit experiment came from Jon Dorling, in a review of Lande's
+most recent book.2 1 Dorling notes that Epstein and Ehrenfest's
+second paper (1927) argues that their approach falls to work for the
+ordinary two-slit interference pattern, but only for the limiting case
+where the fInal detection screen is infinitely distant from the screen
+with the slits. Landé neither mentions this difficulty nor indicates
+how he might be able to remove it.
+Interesting as these brief objections are, Landé's contribution remains effectively unexamined.22 There has as yet been no sustained
+attempt to refute Landé's position. Nor has any eminent physicist
+685
+
+CRITICAL STUDY (POPPER)
+W.W. BARTLEY, III
+
+endorsed and put to work this particular aspect of Landé's work,
+although several important physicists - including V.F. Lenzen, O.R.
+Frisch, and Hermann Bondi - have endorsed his work in broad
+outline.23
+In sum, Popper's account of quantum mechanics relies essentially
+on Landé's application of Duane's third quantum rule to the explanation of the twc•-slit experiment and related phenomena. Yet
+Landé's account has not yet been widely accepted by physicists and
+has so far gone without serious examination. If Landé's work should
+prove to withstand serious examination, Popper's account would
+gain important corroboration. Meanwhile, Popper's account of quantum mechanics is hostage to Landé's.
+The information just given, which is an essential part of what
+Popper would call "the problem situation," is unfortunately not
+mentioned in the Schlipp volume.
+VII
+Popper's application of the Landé-Duane approach, while essential to his account, is by no means the most significant aspect of his
+work in quantum mechanics. Although Popper agrees with Landé
+that quantum theoiy is a theory of particles, in which the "waves"
+merely constitute a fonnal quality of the formula by which is computed the probability of finding the particles in various places,
+Popper also attacks the Copenhagen interpretation on a broad
+second front of his own devising: his propensity interpretation of
+the calculus of probability. This work in probability theory, on
+which he has been at work for many years, is something to which
+Popper attributes essential importance. In the Schilpp volume he
+reports (pp. 78-9) that "The fundamental problem tackled in Logik
+der Forschung was the testability of probability statements in
+physics."24
+The problem of the interpretation of quantum mechanics
+amounts, on his view, to the problem of the status of probability
+statements in physics. Historically, there have been only two possibilities: either probability had subjective status, or it had objective
+status.
+Informally, one can say the following about the difference between these two interpretations. Suppose it is said that the probability of a photon passing through a half-silvered mirror is one half.
+On the subjective interpretation, this means that our ignorance is
+such that we have no more reason to expect the photon to pass
+
+through than to be reflected. On the objective interpretation, this
+means that nature is indifferent between letting it through and reflecting it back.2
+Although the subjective interpretation, usually associated with
+"Bayesian probability," is most widely accepted among philosophers
+and physicists, Popper sees it as the root of virtually all the difficulties of quantum mechanics, and contends that it has been refuted by the work of John Maynard Keynes, Richard von Mises, and
+himself. The subjective account depends for its acceptance on the
+incorrect assumption that one may derive, through the "law of great
+numbers," conclusions about the frequency of events from premisses
+about degrees of belief.2 6 In any case, it is patently absurd, Popper
+observes, to suppose that pennies fall or molecules collide in a
+random fashion because we are unaware of the initial conditions,
+and that they would do otherwise if these conditions were to be
+made known to us.
+As quantum mechanics was being developed in the first several
+decades of the present century, two chief obstacles stood in the way
+of attempts to construe the probabilities of quantum mechanics
+objectively.
+First, most scientists at this time were still what Popper calls
+"metaphysical determinists." Metaphysical determinism is a doctrine
+about the way that the world is. It asserts that past and future are
+symmetrical, that both are fixed in the same sense. Popper uses the
+analogy or metaphor of the motion picture film to convey the idea
+intuitively. The stills of the film that have already been run off are
+the past; the one showing at the moment is the present; the ones
+remaining to be run off on the reel constitute the future. The part of
+the reel which is not yet run off is just as fixed - and in the same
+way - as that part which has already been run off. Every event is
+precisely determined in the tiniest detail.
+Such metaphysical determinism is simply incompatible with
+objective physical probability. For the metaphysical determinist
+there is no such thing. On his view, nothing is really, objectively,
+only probable: everything is fixed- exactly. Relative to a complete
+knowledge of all the laws of nature and all the initial conditions, the
+probability of any possible event will be either one or zero.27 Hence
+probability with intermediate values - where we have to use it, as in
+quantum mechanics - can refer only to the state of our information.
+It is of course commonly said that physicists have now abandoned determinism in the light of quantum mechanics and Heisenberg's uncertainty principle. What most of them have abandoned,
+687
+
+686
+
+W.W. BARTLEY, HI
+
+Popper believes, is not metaphysical determinism, but only what he
+calls "scientific determinism." Scientific determinism includes metaphysical determinism, but is a much stronger doctrine. It adds to
+metaphysical determinism a claim about knowledge, contending that
+the future is not only fixed but also may be foreknown, without
+limit, by scientific calculation or prediction. This doctrine was
+brought to its strongest formulation by the great French physicist
+and probability theoretician Laplace, who imagined a powerful calculator - often described as a "demon" - who could predict the
+future course of the world with any required degree of precision
+provided he possessed unlimited powers of calculation and complete
+information: all the laws of nature plus a sufficiently precise description of all initial conditions.
+The second obstacle in the way of the adoption of an objective
+interpretation of probability at the time when quantum theory was
+being formulated was that the only available objective interpretation
+in the 1920's was the frequency interpretation (as developed by
+Venn, von Mises, Reichenbach). But the frequency interpretation
+was inadequate for the purpose. Within it, probabilities for single
+events could not be handled objectively. Thus Max Born, in introducing the statistical interpretation of quantum mechanics, took singular probability statements subjectively as a measure of ignorance.
+The result of this twofold historical accident - the prevalence of
+metaphysical determinism among physicists, and the lack of an
+objective interpretation that could handle probabilities for single
+events - is that quantum mechanics is now commonly presented as a
+report of our knowledge about particles rather than as a report of
+objective reality.
+Popper thus had a twofold task on his hands: to argue for metaphysical indeterminism, and to develop an objective account of probability that overcomes all the inadequacies of the frequency interpretation and which is also adequate in every other way.
+VIII
+Popper's writings on determinism and indeterminism are, apart
+from The Open Society and Its Enemies and The Poverty of Historicism - wherein he combats the historical, social and political forms
+of determinism - his essay on "Indeterminism in Quantum Physics
+and in Classical Physics" (1950l),28 his Compton Lecture "Of
+Clouds and Clocks (1965),2 and his unpublished Postscript, in
+which the discussion of indeterminism is the centerpiece.
+688
+
+I
+
+CRITICAL STUDY (POPPER)
+
+Popper's strategy in arguing against metaphysical and scientific
+determinism is ingenious, and I shall try to reconstruct a part of it
+here.
+1. Flis first step is the methodological observation that metaphysical determinism is irrefutable: it is compatible with all observable
+states of affairs. Hence what he hopes to do is not to refute it but to
+undermine it by refuting all the arguments that support it. In effect,
+a distinction is introduced between defeating a doctrine and defeating the case for the doctrine.Popper aims to do only the latter.
+2. Yet most of the support for metaphysical determinism comes
+from scientific determinism; there is little independent argument on
+behalf of metaphysical determinism separate from the case for
+scientific determinism. So the thrust of Popper's attack will be
+against scientific determinism.
+3. What then is the appeal of scientific determinism? Scientific
+determinism has drawn much of its appeal, historically, from its
+rather sophisticated critique of commonsense. In the commonsense
+view there are, to use Popper's brilliant metaphor, two sorts of
+things in the physical universe: clocks and clouds - clock-like things
+and cloud-like things. Clouds are physical systems which are, like
+gases, irregular, disorderly, unpredictable. Clocks, on the other hand,
+represent systems which are regular and orderly - and highly predictable in their action. The various phenomena of ordinary life can,
+on the commonsense view, be ranged between these two extremes.
+Our earthly clocks are regulated by astronomical clocks; so perhaps
+the best examples of clocks come from the solar system. Animals
+will, depending in some cases on their ages, be closer to the cloud
+category. An old dog, grown rigid in its behaviour, will be more
+clock-like than a young and quite unpredictable puppy. And the
+weather, the very domain of clouds, will be extremely unpredictable.
+The scientific determinist account opposes this commonsense account. It says, in effect, that all clouds are really clocks, and that our
+comi-nonsense reflects not the real nature of things but only our
+ignorance. If we only knew more about clouds, we would, so it is
+promised, be able to predict them as we do clocks, Each time science
+has successfully extended its reach into some new area - as it has
+done repeatedly over the past several hundred years, most conspicuously with Newton - this promise has been tested. The argument
+for scientific determinism thus relies on the fact of scientific success
+and on the supposition that such evidence of increasing scientific
+predictability in some areas argues for the eventual extension of
+scientific predictability into all areas without limit.
+689
+
+W.W. BARTLEY, III
+Some such argument as this seems to have been behind Einstein's
+objection to quantum mechanics. He did not believe that statistical
+theories were fundamental, and argued that quantum mechanics
+must be incomplete. He thought that quantum mechanics would
+eventually be replaced with a more complete theory that would be
+deterministic.
+4. Yet - appearances to the contraty - not even classical Newtonian physics was deterministic. Popper has shown this, using an
+analysis of mechanical self-predicting predictors. "Most systems of
+physics," Popper writes, "including classical physics and quantum
+physics, are indeterministic in perhaps an even more fundamental
+sense than the one usually ascribed to the indeterminism of quantum
+physics."3° Thus Popper aims to scotch the hope (as in Einstein)
+that some future more general theory might return physics to a
+classical situation which would endorse determinism.
+5. Just as he showed that Newtonian physics provided no argument on behalf of determinisn, so Popper denies the claim that
+quantum physics provides any argument against determinism. He is
+well aware that quantum theory has been shown by Bohm to be
+compatible with determinism. Popper states bluntly that there is no
+specifically quantum mechanical argument against determinism.
+6. Instead, he develops a battery of arguments against determinism that are independent of quantum mechanics. Some of these
+appear in "Of Clouds and Clocks," but the most elaborate remain
+unpublished, in the Postscript. His chief strategy is to show that
+every argument on behalf of scientific determinism fails to meet
+what he calls "the accountability principle," which is a principle
+designed to prevent scientific detenninism from avoiding refutation
+and deflecting criticism. A secondary strategy is to show that any
+scientific determinist account of statistical phenomena must lead to
+absurd and highly uneconomical scientific assumptions.
+7. Scientific determinism having been defeated - not only from
+the testimony of quantum mechanics, but with general arguments
+that apply to all of physics - Popper concludes that there is no
+further reason to take metaphysical determinism seriously. Although
+he has not refuted the doctrine, he argues that when a theory possesses no strong arguments on its behalf and conificts with cornmonsense - in this case the commonsense idea that the future is
+alterable and the past not - the onus is on the proponent of the
+hypothesis, not on those who reject it.
+Having rejected both metaphysical and scientific determinism,
+Popper embraces metaphysical and scientific indeterminism. Scien690
+
+CRITICAL STUDY (POPPER)
+tific indeterminism is a comparatively weak doctrine, asserting only
+that there are some events that cannot in principle be predicted.
+Metaphysical indeterminism is considerably stronger, claiming that
+there are real gaps in the universe, genuinely open possibilities in the
+future as so far determined. In particular, among the basic elements
+of the world there are dispositions and propensities that behave with
+objective indeterminacy. In fact . . . a clock is really a complex of
+interacting - and objectively indeterminate - microclouds. All
+clocks are clouds.
+This brings us to Popper's propensity interpretation of probability.
+
+Ix
+One who is not a determinist is not prevented from taking proba-
+
+bilistic theories at their face values as descriptions of the world. As
+J.W.N. Watkins puts it in the Schilpp volume, a gappy theory may
+describe a gappy world, rather than avowing the gappiness of our
+knowledge of a gapless world.
+Thus, to say that the probability of a photon's passing through a
+half-silvered mirror is one-half, is to assert that the entire experimental arrangements here have a propensity to be indifferent to
+letting the photon through and reflecting it back. To say that, in the
+tossing of a die in a particular setting, it has a probability of onefourth of coming up six, is to say that that experimental situation, in
+its entirety, has a propensity to produce sixes one fourth of the
+time.
+Every experimental arrangement is liable to produce, in the
+course of frequent repetition, a sequence with frequencies dependent on that arrangement. These virtual frequencies - or propensities - are probabilities. They are dependent on, and properties of,
+the experimental arrangement as a whole. They characterise the disposition or propensity of the experimental arrangements to give rise
+to certain frequencies on repetition of the experiment.3 1 These propensities are, moreover, physically real. They are real relational properties of the experimental setup, analogous to potentials in the
+theory of fields of force. A propensity distribution attributes
+weights to all possible results of the experiment. Probability statements are thus distinguished from statistical statements - the latter
+being statements about frequencies in actual, finite sequences of well
+characterised experiments. Whereas probability statements are state691
+
+W.W. BARTLEY, III
+
+ments about frequencies in virtual and hence infinite sequences of
+such experiments. Conjectural virtual frequencies may at times be
+tested against actual statistical frequencies.
+I have been using the expression, "entire experimental arrangements," in the above. To show how this is intended, I need, following Popper, to note that every probabilistic theory assumes the following:
+a) events, elements, and experimental arrangements. For example, the event of 5 turning up on an element, such as a die, in an
+experimental arrangement such as being shaken in a beaker and
+thrown on a table.
+b) Physical properties of the events, elements, and experimental arrangements just mentioned. For example, the dice might
+have the property of being homogeneous.
+c) A set of possible events under the experimental arrangements, clled the points in the sample space.
+d) A number associated with each point of the sample space,
+as determined by some normalised function called the distribution
+function.
+It is important to see what sorts of properties these things may
+be, and of what they are properties. The distribution function, for
+instance, is not a property characteristic of the events or the elements in question; rather, it is a function of the sample space. Suppose that one wants to calculate the probability that a particular
+person, Mr. John Smith, known to be resident in England, will reside
+in London. This probability is a property neither 'of the event "residing in London," nor of the individual, Mr. Smith, but of the sample
+space. That is why Mr. Smith must belong to the sample for the
+question to make sense. One does not, say, ask what is his probability as such of residing in London! Since the probability is relative
+to the ensemble, there may be different probabilities of his residing
+in London, depending on the different ensembles in which he may
+be placed.
+To mix these separate aspects is simply to commit a category
+mistake - which is precisely what Popper sees most quantum physicists as having done. This is at the root of the most notorious
+difficulties in quantum theory. Typically, a distribution function is
+taken by contemporary quantum physicists and treated as a physical
+property of the elements of the population. The "wave," the psi-function, is for Popper a distribution function; whereas the element
+
+CRITICAL STUDY (POPPER)
+
+in question has the the properties of a particle. If one fails to distinguish these, Popper warns, "It is as if I were called a 'Gauss-man,' or
+a 'non-Gauss man' in order to indicate that the distribution function
+of my living in the South of England has a Gaussian or a nonGaussian shape."32 Thus, the waves in quantum mechanics describe
+the propensities - or dispositional properties - of the particles. The
+psi-function describes a real state of affairs, a real disposition. But
+there is no wave-particle duality.
+This brings us back to quantum mechanics, to which I turn in the
+next section. Meanwhile, to sum up this section, the propensity
+interpretation is physical and objective, referring to the real state of
+the world, and not to human ignorance. It yields probability hypotheses which are relative to the experimental arrangements, which
+can be statistically tested, and which (as is not the case within the
+frequency interpretation) handle probabilities for single events.
+
+x
+Armed with his argument against determinism and with the propensity interpretation of probability, Popper sets out to show that
+the notorious difficulties of quantum mechanics that have been
+thought to set it off from classical theory, such as the reduction of
+the wave-packet and the intrusion of the observer, are in fact in no
+way characteristic of quantum theory, but are features of probability theory in general which can readily be resolved within the pro.
+pensity interpretation. Quantum theory itself is on this account not
+a theory describing dynamic processes in time; rather, it is a probabilistic propensity theory that assigns weight to various possibilities.
+Popper produces a lovely argument that is conducted partly in
+terms of the example of a pin-board or pin-ball machine. If one
+allows a number of balls to roll down the board, they will form a
+normal distribution curve representing the probability distribution
+for each single experiment with each single ball of reaching a certain
+resting place. This particular arrangement has the propensity of producing that particular distribution curve.
+The propensity, and the probability distribution, can be altered
+by altering the experimental situation. If one, say, slightly lifts one
+side of the board, it will now become more probable that any single
+ball will reach a point towards the other end of the bottom of the
+board. Or one might remove one pin instead of lifting the board.
+
+692
+693
+
+W.W. BARTLEY III
+
+CRITICAL STUDY (POPPER)
+
+This will alter the probability for every single experiment with every
+single ball - whether or not the ball actually comes near the place
+from which the pin was removed.
+Or one might leave the pin board in its original state but focus
+one's attention on a particular pin. One may then contrast to the
+original probability distribution the new probability distribution of
+reaching the various final positions for those balls which actually hit
+a certain pin. We may list separately the final positions of those balls
+that hit the selected pin. This amounts to making a "position measurement." The probability distribution thus produced will
+obviously differ from the probability distribution for the original
+example in which the balls simply rolled down the pin-board
+without a position measurement's being made for those balls that hit
+the designated pin.
+Now comes the point. "The transition from the original distribution to one which assumes a 'position measurement' . . - is not merely analogous, but identical with the famous 'reduction of the wzve
+The situation is analogous to the two-slit experiment
+packet'.
+with the light (Figure 4, p. 00 above). We can say that when the ball
+hits the selected pin the objective probability distribution (the wave
+packet) is suddenly changed. Yet this is a misleading way of describing what happens. The original experiment - which had the propensity to produce the original distribution curve - has been replaced
+by a new experiment containing a position measurement. The new
+experiment arrangement will have a different propensity, producing
+a different distribution curve. In fact, there is no change of the wave
+packet after all. The original experiment had one wave packet; the
+second experiment had another. The observation that the conditions
+were realized for the second experiment does not change the distribution curve for the original experiment. The only change is that we
+are now at liberty to look upon the case as an instance of the second
+experiment instead of as an instance of the first. There are no quantum jumps.
+After giving other examples to make the same point, Popper concludes that "the reduction of the wave packet clearly has nothing to
+do with quantum theory: it is a trivial feature of probability
+
+parts in 1968 and 1969. Feyerabend's article is frequently cited in
+criticism of Popper's work.36
+
+theory."34
+I know of only one attempt to rebut Popper's analysis here: a
+polemical article by Paul K. Feyerabend, who was formerly a
+member of the Popper group. Entitled "On a Recent Critique of
+in two
+ComplementaritY," it was published in Philosophy of Science
+
+694
+
+Feyerabend objects to Popper's account, conducting his argument
+in terms of the pinboard example, that the pinboard probabilities are
+additive, whereas in quantum theory, where there is superposition of
+amplitudes, the situation is not additive (p. 325). As Feyerabend
+correctly states: "What surprises us (and what led to the Copenhagen
+Interpretation) is not the fact that there is some change; what surprises us is the kind of change encountered: trajectories which from
+a classical standpoint are perfectly feasible are suddenly forbidden
+and are not entered by any particle. It is in order to explain these
+curious occurrences that the Copenhagen intepretation was gradually
+built up." (p. 326).
+Yet Feyerabend claims that Popper never attempts to explain the
+interference patterns and does not consider any "dynamical theory"
+but instead emphasizes "again and again the relational character of
+the probabilities." (p. 327)
+
+Feyerabend's mistake here is extraordinary. First of all, Popper
+conceded from the start that the pin-board probabilities are additive.
+He wrote of the pin-board example, "we have here no superposition
+of amplitudes" (p. 33). On the next page he wrote: "There will be
+no interference of amplitudes: if we have two slits!Lq1 and iq2, the
+two probabilities themselves (rather than their amplitudes) are to be
+added and normalized: we cannot imitate the two-slit experiment.
+But this is not our problem at this stage." (p. 34)
+Popper was not attempting to explain interference with the pinboard example. He was pointing out, with a trivially simple illustration, that probability is a quality of a system not ascribable to an
+element of the system. Hence the whole system of probabilities can
+alter with a change in the experimental conditions. Popper indeed
+contended that nothing more mysterious than this is involved in the
+reduction of a wave packet. Indeed, to make his point, he had to
+present an example of a wave-packet reduction in a classical situation. To explain interference, and to deal with the specific sort of
+reduction of a wave-packet that is present in the two-slit experiment,
+Popper goes a step further that Feyerabend omits to mention. Far
+from failing to consider any "dynamical theory," Popper in fact
+relies essentially on Landé's application of Duane's third quantum
+rule to explain the wave interference pattern.
+I conclude from this that Feyerabend's objection to Popper's
+analysis of this issue - which is the strongest that I have anywhere
+encountered - is without merit.
+695
+
+W.W. BARTLEY, III
+
+XI
+From Laplace's Demon we go to Maxwell's Demon. Subjectivism
+and idealism have entered the heart of physics not only in quantum
+mechanics, but also in classical statistical mechanics and thermodynamics. Within what Popper calls "the subjectivist theory of
+entropy," the entropy of a system increases with decrease in our
+information about it - and vice versa.
+Popper has written briefly about this issue in earlier publications,
+FIe
+particularly his note, "Irreversibility; or Entropy since l9O5."
+(1972,
+p.
+142),
+and
+refers to the matter in his Objective Knowledge
+has discussed it at length in his unpublished Postscript. His account
+in the Schilpp volume extends these accounts in giving a detailed
+refutation of the views of Leo Szilard.
+Popper's discussion in the Schilpp volume proceeds independently of any discussion of quantum mechanics, as indeed may be
+done. It is however worth pointing out that many writers on quantum mechanics adopt a view of the matter similar to that of Szllard
+- as might be expected from adherents to a subjective theory of
+probability. A good example is Wolfgang Pauli, in his well-known
+article, "Wahrscheinlichkeit und Physik," who writes:
+Die erste für unser Verständnis der Naturgesetze grundlegende
+Anwendung der Wahrscheinlichkeitsrechnung in der Physik ist
+die von Boltzmann und Gibbs begrUndete allgemeine statistische Theorie der Wärme. Bekanntlich fUhrte sie zwangslaufig zur Deutung der Entropie eines Systems als einer
+Zustandsgrosse, die anders als die Energie, von unserer
+Kenntnis uber das System abhangt. 1st diese Kenntnis die
+maximale, welche mit den Naturgesetzen Uberhaubt verträglich
+ist (Mikrozustand), so ist die Entropie immer Null. Dagegen
+System nur
+sind thermodynamische Begriffe auf em
+anwendbar, wenn die Kenntnis des Anfangszustandes des
+Systems eine ungenaue ist. . . . Das schönste und wichtigste
+Ergebnis dieser Theorie war die Auffassung der thermodynamischen "Irreversibilität" . .. als Ubergang in Richtung
+auf wahrscheinlichere Zustände."***
+There is, Popper contends, a basic logical error in this view.
+Informative content may indeed be measured by improbability,
+whereas entropy can be equated with the probability of the state of
+the system. This leads to the following invalid equations:
+information negentropy;
+entropy = lack of information = nescience.
+696
+
+CRITICAL STUDY (POPPER)
+
+These are invalid since it has only been established that entropy and
+lack of information can both be measured by probabilities, but not
+that they are probabilities of the same attributes of the same system
+- as would be necessary in order for the equations to hold.
+To show the argument - and his objection to it - Popper selects
+Szilard and Brillouin's idealised example of a gas consisting of one
+molecule in a piston chamber. Suppose a cylinder with a piston in its
+middle; the cylinder is kept at a constant high temperature by a heat
+bath, at once replacing any loss of heat. If the gas is on the left side
+of the cylinder, driving the piston to the right, we obtain work, such
+as lifting a weight. We pay for the work with an increase in the
+entropy of the gas.
+One can of course say that the increase of entropy here corresponds to a loss of information. Prior to the expansion of the gas, we
+knew that the molecule was in the left half of the cylinder; after the
+expansion, after the work has been performed, we no longer know
+which half of the cylinder it may be in. For the piston, which has
+been pushed by the gas, is now at the far right.
+Such correspondence does not in any way establish the generality
+of the Szilard-Brillouin claim, nor does it indicate that information
+about the position of the molecule can be converted into negentropy
+- and vice versa.
+Szilard's argument goes as follows. Assume that we know that the
+gas - the single molecule - is in the left half of the cylinder. We can
+then slide a piston into the middle of the cylinder and wait until the
+gas expands and pushes it to the right and lifts a weight. The needed
+energy was supplied by the heat bath; and the negentropy needed,
+and subsequently lost, was supplied by our knowledge. If we push
+back the piston, we gain increased negentropy and the knowledge
+that the molecule is back in the left half of the cylinder. The conclusion is that knowledge and negentropy can be converted one into
+the other.
+To this argument, Popper objects that Szilard relies essentially on
+his idealised experiment with one molecule. That is, the idealisation
+should be a simplification without loss of generality; as it happens,
+the conclusion depends on the idealisation - with the resulting loss
+of all generality. For example, the same argument could not be
+conducted at all with a gas of many molecules. If we have a gas of
+several molecules, mere knowledge of their positions cannot help us
+unless the gas happens to be in a negentropic state with the molecules, or most of them, on the left side. In that case, however, it is
+the objective negentropic state that is exploited, not our knowledge
+697
+
+W.W. BARTLEY, III
+
+CRITICAL STUDY (POPPER)
+
+of it. Knowledge is not even necessary for the negentropy to be
+used: if we slide in the piston at the right moment we can utilize this
+objective state.
+In fact, even if there were but one molecule, no knowledge of it
+would be needed to operate the piston. The apparatus could be
+fitted with gear so that it lifts a weight in either case, whether the
+piston goes to the right or to the left. All that is needed is to slide in
+the piston. If the molecule happens to be on the left, the piston will
+be driven to the right - and vice versa. Thus no knowledge is needed
+for the balancing of the entropy increase. What drives the piston is
+not our knowledge of the positions of the molecules but the
+momenta of the molecules themselves.
+
+attention on the entropic argument for the unreality of time, in
+forms given the argument by Boltzmann and Schrodinger.
+The viewpoint under attack - which Popper describes as "an
+argument for idealism arising from pure physics" - arises from the
+fact that statistical mechanics and thermodynamics have been since
+1907 strictly symmetrical with respect to the direction of time. No
+preferred direction of time, no arrow, is associated with entropy
+increase. Thus if one finds agas in a state of fluctuation (i.e., a state
+of better order than a state of equilibrium), one can conclude that it
+was probably preceded and will equally probably be succeeded by a
+state nearer to equilibrium.
+Suppose a universe in a state of thermal equilibrium, or maximal
+disorder. In such a universe there will nevertheless be fluctuations of
+entropy - regions in space and time in which there is some order.
+We can thus, following Popper, chart them as follows:
+
+XII
+The third subjective intrusion into physics that Popper combats is
+the subjective theory ot time, according to which the arrow of time
+is a subjective illusion.
+Here it is contended that time is created entirely within the
+consciousness of animals and men. In the universe there is to time no
+objective direction (or "arrow," as Popper, after Eddington, calls it).
+The appearance of time - and change - is due to our special mode
+of perception. In this regard, time is like a space coordinate; the
+universe is symmetrical with respect to time's two directions, past
+and future. Just as there is in space no absolute up or down, there is
+no absolute sooner or later. As Schrodinger, an idealist and
+Vedantist, charts some of the implications of this view:
+This means a liberation from the tyranny of old Chronos.
+What we in our minds construct ourselves cannot, so I feel,
+have dictatorial power over our mind, neither the power of
+bringing it to the fore nor the power of annihilating it...
+some of you, I am sure, will call this mysticism. . . . physical
+theory in its present stage strongly suggests the indestructibility of Mind by Time.38
+If time is not real, then it is an illusion of human consciousness from which it may be thought that a change in consciousness can
+alter one's experience of time: that one can in effect transcend or
+overcome time by "working on" one's consciousness.
+Arguments connected with entropy are not the only source for
+idealist accounts of time. Relativity theory is another.39 This second
+source Popper mentions but does not discuss. Instead, he focuses his
+698
+
+forthr,h,Nirn,only
+im,coordrn,
+
+Em
+
+Regions of low entropy - the fluctuations - create the valley, which
+rises in a similar way in both time directions, flattening out towards
+maximum entropy. The arrows - corresponding with the sides of
+the valleys - indicate the only regions in which life may occur, and
+in which time may be experienced as having the direction indicated.
+Assume now that animct
+humans experience, become
+conscious of, the time coordinate as having a direction pointing
+towards entropy increase. That is, the time coordinate becomes
+successively or serially conscious to them as entropy increases. From
+these assumptions it is argued that entropy and time increase
+together, and that there is no time apart from consciousness.
+While paying tribute to the "boldness and beauty" of Boltzmann's view, as well as Schrodinger's modifications of it, Popper sets
+out decisively to refute it. How can it be refuted? The theory would
+collapse if the arrow of time could be decided independently of
+entropy increase. As Schrodinger put it:
+699
+
+W.W. BARTLEY, III
+
+The statistical theory of heat must be allowed to decide by
+itself high-handedly, by its own definition, in which direction
+time flows . . . the physicist . . . must never introduce anything
+that decides independently upon the arrow of time, else
+Boltzmann's beautiful building collapses. (p. 164)
+
+Such an independent determination of the arrow of time is, however, just what Popper achieved in a series of articles published in
+Nature, beginning in 1956. He asserted there, with examples, the
+existence of various classical physical processes which are irreversible
+regardless of, independent of, any entropy increase attending them.
+His examples include a large surface of water at rest into which a
+stone is dropped; a light bulb emitting an expanding spherical light
+wave; an explosion that sends particles to infinity in Newtonian
+space. A reversal of these processes is theoretically possible: it is not
+excluded by the laws of physics. But it is physically impossible to
+realize the initial or boundary, conditions necessary to do this,
+chiefly for reasons connected with coherence.
+
+XIII
+As we have seen, Popper combats on three fronts the introduction of consciousness into physics. His discussion of Szllard's
+attempt to convert knowledge into negentropy seems to be essentially correct. I am less convinced about his brief discussion of the
+direction of time, for reasons that I shall indicate below. As to
+quantum mechanics, I am inclined to favour Popper's account. Yet I
+am aware that the resistance to it from physicists come not merely
+from the dogmatism and "subjectivist tendencies" that Popper
+decries, but also from the very real difficulties of the subject matter.
+I am largely satisfied with Popper's objective probabilistic account of
+quantum mechanincs, but note that this alone is insufficient to
+resolve all its difficulties. The one difficulty discussed in this study
+was the two-slit experiment. There Popper needs to supplement his
+probabilistic account with Landé's problematic and largely unexamined dynamical explanation in terms of Duane's third quantum
+rule.
+Still, Popper's alternative account of modern physics creates a
+major obstacle for those mind-over-matter proponents of consciousness who would draw support for their positions from contemporary
+physics.
+700
+
+CRITICAL STUDY (POPPER)
+
+What then is Popper's own account of consciousness?
+There is in Popper's writings no systematic treatment of consciousness. His views on it emerge, rather, in three ways: in his
+consideration of the body-mind problem; in his presentation of his
+doctrine of Objective Mind - with its Worlds 1, 2, and 3; and in his
+incidental remarks about consciousness.4°
+I shall survey these areas briefly - briefly because Popper's
+remarks on these matters, though presented with his usual briffiance
+and panache, are at the moment still programmatic, and sometimes
+also amateurish.
+First, the body-mind problem. This problem comes to us from
+Descartes, where body and mind are two distinct substances. How
+can two separate substances act on one another? According to
+Descartes's "push theory" account of causal interaction, it is hard to
+see how they can: for only like can act on like, and mind and matter
+are essentially unlike. There are two main ways of dealing with this:
+one is to say that mind is, appearances to the contrary, essentially
+material; the other is to say that matter is, appearances to the
+contrary, essentially mental.
+Popper simply rejects the terms of the debate. First, he rejects the
+idea that only like can act on like. The idea is outmoded physics,
+resting on quite obsolete notions of physical science. For examples
+of unlikes acting on one another there are electricity and magnetism,
+and light and matter: although electricity and magnetism are
+mutually irreducible, there is electromagnetic interaction. Then too,
+there is the example of forces. Forces are physical intensities, and
+are not extended in Descartes's sense. But certainly there is interaction between forces and physical bodies, thus action between
+physical intensities and extended bodies.4'
+From here Popper's argument is developed in two directions: he
+shows that the contents of World 3, the abstract meanings and
+logical contents of ideas, arguments, problems, and such like, do
+exert an influence on the second world of consciousness, and the
+first world of physical reality. Secondly, he shows again, relying in
+part on Karl Buhler's theory of the functions of language, that there
+is no way to reduce World 3 to Worlds 2 or 1.
+This leaves Popper with an ontology in which there are at least
+three irreducible sorts of things in the universe: abstract objective
+meanings (world 3), subjective conscious experience (world 2), and
+physical reality (world 1). Although these are not reducible one to
+the other, all interact with one another: none of these worlds is
+
+701
+
+W.W. BARTLEY, III
+
+"causally closed" to the others. And all are real. Physical reality
+(world 1) precedes the others in time; out of it emerges the world of
+biology and conscious experience; and finally there emerges world 3,
+which exerts a plastic hierarchical control on world 2, and hence also
+influences world 1.
+This is a sensible - naturalistic, but non-materialistic - account,
+and can be objected to only by strict materialists, and then probably
+only on ideological grounds. It is fully compatible with a number of
+other statements by scientists in recent years. The eminent neurobiologist R.W. Sperry, of California Institute of Technology, for
+example, has developed a very similar account of consciousness as an
+emergent property of cerebral activity which exerts a directive
+hierarchical plastic control over the flow patterns of cerebral
+excitation.42 And Gregory Bateson has presented a sophisticated
+cybernetic account of the interrelationships of mind and matter, in
+which mental and physical causality are essentially different and yet
+interact.43 His account is fully compatible with Popper's. When one
+enters the world of communication and organization, as Bateson
+puts it, "you leave-behind that whole world in which effects are
+brought about by forces and impacts and energy exchange. You
+enter a world in which 'effects' . . . are brought about by differences." (p. 452) And differences, as Bateson explains, are abstract
+matters which cannot be reduced to the physical.
+
+XIV
+But what about subjective consciousness, what Popper calls World
+2?
+
+Popper pays little attention to it, apart from noting that it
+emerges in the course of evolution, and generates the contents of
+World 3, which are in turn "grasped" by World 2. The only place in
+Popper's writings where I can recall his having turned his attention
+to subjective consciousness is his essay on "Why Are the Calculi of
+Logic and Arithmetic Applicable to Reality? " There he notes
+briefly that the interior mental world cannot properly be described
+by our language - which has developed mainly as an instrument for
+describing and dealing with our external physical environment: with
+physical bodies of medium size in moderately slow motion. Popper
+notes that most attempts to describe this interior world are little
+more than a host of metaphors taken from the languages of physics,
+biology, and social life.
+702
+
+CRITICAL STUDY (POPPER)
+
+This world to which Popper pays very little attention is, however,
+the area of consciousness in which those associated with the
+"consciousness movement" in physics tend to be most interested.
+Some among these, like C.G. Jung, attempt to map the structure the objective structure - of this interior world; they have been
+called "psychenauts," attempting to uncover the basic laws governing subjective experience.45 Most of these have been influenced by
+attempts in the yogic tradition to provide an elaborate phenomenological account of the stages and levels of consciousness, through
+exploring altered states of consciousness - trance, drug states,
+meditative states, and states in which extra-sensory perception may
+be transmitted.
+Thus, when Popper indicates that consciousness is for him the
+most important thing in the universe (although not that out of
+which the universe is made), he is not in fact referring to World 2
+except in so far as World 2 is essentially instrumental in generating
+World 3. It is World 3 in which Popper is truly interested: it is this
+which he really believes to be the most important thing in the
+universe.
+
+xv
+The last aspect of Popper's account of consciousness to which I
+want to turn here is his treatment of "the seat of consciousness."
+The seat of consciousness - or the physiological basis of the
+human mind - Popper locates in the speech centre of the left
+cerebral cortex.46 This, he postulates, is the highest control centre
+in the hierarchy of control centres in the human being. Imagination,
+inventiveness, the emergence of the third world - and "full
+consciousness of self' - are dependent on descriptive language.
+Popper's account here - which is quite brief - is evidently based
+on a misunderstanding of the results of the past two decades of brain
+research. It was this kind of conclusion that A.R. Luria must have
+had in mind when he complained: "Although the idea that psychological processes - including speech - are complicated self-regulating
+systems is now widely accepted, old concepts involving strict localization of complex psychological functions in circumscribed areas of
+the cortex still persist, and attempts to find separate foci for verbal
+images or arithmetal operations, praxis or gnosis remain
+unchanged."47
+703
+
+W.W. BARTLEY, III
+
+Popper's evident and legitimate concern is with the emergence of
+creativity - and its products in imagination and inventiveness. No
+one would deny the importance of language here. But some current
+brain research suggests that the brain as a whole is involved in
+creativity.
+The cerebral cortex is divided into two hemispheres, right and
+left. The right hemisphere governs mainly the left-hand side of our
+bodies; and vice versa. The left hemisphere governs language: it
+processes information sequentially. The right hemisphere dominates
+the perception of shapes, forms, orientation in space, artistic talents,
+recognition of faces; it processes information more diffusely, integrating in a simultaneous, not a linear way. The human brain is in
+short specialized, with each half responsible for a distinct mode of
+thought. And some of the functions for which the right hemisphere
+is specialized - including visual imagery and Gestalt perception are as essential to creativity inthe sciences as in the arts.
+I have expressed the matter here in a rather categorical way; and
+for many purposes it is permissible to do that. Yet to avoid misunderstanding, I should add that even the division of labour between
+the two hemispheres of the brain is not as absolute as some current
+writing suggests. As Roger W. Sperry reminds me, there is for
+instance, much sequential processing in music in the right hemisphere, and much holistic and form perception in language processing
+in the left hemisphere. In any case, all interpretations and extrapolations based on studies of aphasia are far more tentative and
+speculative than is often admitted.48
+Bearing this cautionary qualification in mind, one may nevertheless say that there is considerable evidence that human thinking
+at its finest depends on integrated action of the two hemispheres of
+the brain. Moreover, there appear to be higher control centres in the
+brain through which language can temporarily be "switched off," as
+it were, and visual imagery "switched on," given a temporarily
+dominant role in the service of creativity. The art of the yogis
+consists in part in controlling the run-away tendencies towards
+dominance of the left hemispheric speech centres - tendencies
+which if uncontrolled can seriously inhibit the creative faculties of
+the individual and turn him into a rigid near-automaton prisoner of
+his own verbal considerations.
+Even the idea that the left hemisphere exclusively controls speech
+has to be modified. There is considerable evidence, both from stroke
+victims and from split-brain patients, in which the corpus cailosum
+has been severed, that the right hemisphere has verbal capacity.
+704
+
+CRITICAL STUDY (POPPER)
+
+Examples from Japanese are particularly striking, since Japanese
+script includes both kana, a phonetic script, and kanji, which is
+based on Chinese ideographic characters. A Japanese left-hemisphere
+stroke victim may lose his command of kana, but retain his command of kanji, which are dependent on Gestalt perception and
+apparently are at least partly processed by the right hemisphere.49
+There is also evidence that connotation, as opposed to denotation, is more fragile to right-hemisphere damage. There are two
+points here, both arising from some interesting research by Gardner
+and Denes. First, right-hemisphere patients did worse on connotation tests than did those with damage to Broca's area of the left
+hemisphere. Second, the right-hemisphere patients put up more
+resistance to the test. In explaining this, Gardner and Denes note
+that right-hemisphere disease tends to be characterized by increasing
+rigidity and concreteness, and an impairment of the ability to think
+metaphorically - despite the fact that right-hemisphere patients are
+not ordinarily thought to have impairments to their linguistic
+system. The importance of flexibility and metaphoric thinking to
+creativity hardy needs to be argued. Nor does the importance of
+connotative meaning! Gardner and Denes's research suggests that
+the left-hemisphere appears to be more concerned with all-or-none
+digital aspects of comprehension, whereas the right hemisphere plays
+a more prominent role in sensitivity to detail and nuance.5°
+Again, there is very extensive evidence to show that the right
+hemisphere is dominant in the production of works of musical and
+plastic art, both of which are, on Popper's account, third world
+objects.5'
+Some further evidence against Popper's point of view comes from
+a series of studies by Joseph E. Bogen, of Los Angeles, one of the
+neurologists who, with R.W. Sperry and Philip J. Voel, pioneered
+cerebral commisurotomy and split-brain research. 2 Bogen is
+directly concerned to attack the notion that the right hemisphere is
+automatic and the left the source of the "higher" functions of the
+brain. His studies encompass a review of the literature, as well as
+implications for philosophical and psychological accounts of different types of thinking. He gives examples both from those who have
+been crippled by strokes and from those who have not to argue that
+the role of the right hemisphere in creativity is crucial. He cites for
+example the case of a composer who did his best work after he had
+been rendered aphasic by left-hemisphere damage; and the case of a
+painter whose artistic activity was not only not impaired by a stroke
+705
+
+W.W. BARTLEY, III
+
+to the left hemisphere but who even accentuated the intensity and
+sharpness of his paintings after suffering servere damage to the left
+hemisphere.
+In addition, Bogen marshals a series of quotations from undamaged creative individuals, including Einstein, Stephen Spender,
+Henry More, and others, which support his contention that creativity involves both sides of the brain. For example, when Einstein
+was asked by Jacques Hadamard to describe his creativity, he replied
+as follows, using language that suggests the importance of righthemispheric functions to his work:
+The physical entities which seem to serve as elements in
+thought are certain signs and more or less clear images . . . in
+combinatory play ... The above-mentioned elements are, in
+my case, of visual and some of muscular type. Conventional
+words or other signs have to be sought for laboriously only in
+a secondary stage.
+Bogen does not name a "seat of consciousness." Yet it is
+evident that if he had to do so it would not be the left-hemispheric
+speech centre. The third study in his series is in fact devoted to
+arguing the importance of the corpus callosum, the network connecting the two hemispheres, in creativity. Bogen points out that the
+integrated use of verbal and visuo-spatial thought is dependent on
+the interhemispheric communication which is dependent on the
+corpus callosum. A division of the corpus callosum, he argues, leads
+to a loss in creativity.53
+
+xv'
+Five contributions to the Schilpp volume bear on the issues of
+quantum mechanics, determinism, and the body-mind problem.
+They are the contributions by Tom Settle, of the University of
+Guelph; Patrick Suppes, of Stanford University; J.W.N. Watkins, of
+the University of London; and Adolf Grünbaum, of the University
+of Pittsburgh; as well as the joint contribution by Herbert Feigi and
+Paul Meehl, of the University of Minnesota.
+Settle, as a former student of Joseph Agassi, is in effect a member
+of the Popper circle once removed. His paper is divided into two
+distinct parts: in effect they are two separate papers. The first is
+devoted to the theory of rationality and the problem of demarcation
+between science and non-science - both topics to which I shall turn
+in Part III of this study. The second part of Settle's paper is a
+706
+
+CRITICAL STUDY (POPPER)
+
+historical and comparative study of the propensity theory of probability. An indispensable background paper for all students of the
+history of probability theory, Settle's account shows a firm comprehension of Popper's ideas, and those of the other probability
+theoreticians discussed, and a fine grasp of the historical interrelationsips of all these theories. Noting that the propensity interpretation is commonly agreed to have grown from the frequency
+interpretation, Settle remarks that there is in fact no such thing as
+the frequency interpretation. He carefully inventories important
+differences in the frequency interpretations advanced by Reichenbach, Braithwaite, and von Mises, and suggests how these differences, if neglected, may affect one's understanding of the propensity
+theory. In the course of his discussion, he soundly and sharply
+criticizes the views of Braithwaite, Ian Hacking, and others. Settle
+distinguishes six different variants of the propensity interpretation
+too, noting in particular the issue whether relative or absolute
+probability is to be taken as fundamental. He agrees with Popper,
+against Mario Bunge and other writers, that relative probability is
+fundamental.
+Settle explores the interesting theoretical connections between
+C.S. Peirces's propensity interpretation and Popper's, filling in the
+background situation in such a way as to show why Peirce's account
+won no support even on its publication in 1932 (long after Peirce's
+death), and why views similar to Peirce's did not emerge independently. Settle sees clearly the importance of Peirce's denial of strict
+ontic determinism in relation to his account of probability, and
+remarks that such appears to be a necessary condition for the emergence of a propensity interpretation of probability. Finally, Settle
+shows that Popper, and not Kolmogorov, a is commonly supposed,
+was the first to give an uninterpreted axiomatisation of the probability calculus.
+*
+
+*
+
+*
+
+Patrick Suppes is less concerned than Settle with the history of
+the propensity interpretation, more concerned with its formalism
+and analysis. Suppes indicates his broad agreement with Popper's
+work on propensity and in quantum mechanics, singling out for
+special. praise Popper's critique of the Birkhoff and von Neumann
+interpretations of quantum mechanics - which Suppes calls
+"perhaps the clearest of anything I have seen in print."53
+707
+
+W.W. BARTLEY, III
+
+Suppes gives two challenges to Popper. The first is to give a
+formal account or definition of the propensity interpretation.
+Popper accepts the challenge, but with sharp methodological reservations: he notes his long-standing rejection of "What-Is? " questions, as well as the contention that one can distinguish interpretations by formal rules alone. Popper also records his strong rejection of formalisation for its own sake. But Suppes's call for formalisation also indicates a need for such, in order to establish Popper's
+parallel between Newtonian forces and propensities. Suppes complains that in the case of Newtonian forces there were explicit
+formal laws, such as the laws of addition of forces, but that in the
+case of propensity there are "no systematic laws whatsoever" that
+the propensity interpretation has to satisfy. To this Popper objects
+that there is indeed an addition law for propensities as well as for
+forces, which law is part of the probability calculus as axiornatised in
+The Logic of Scientific Discovery.
+Suppes's second challenge concerns quantum mechanics proper.
+Here he questions Popper's contention that quantum mechanics can
+be regarded as a statistical theory, citing various difficulties in any
+such interpretation, in particular the paradoxes arising from the
+problem of joint probability distributions for noncommuting
+observables. In reply, Popper tentatively endorses attempts on the
+part of Imre Fényes and Edward Nelson, as well as David Bohm, to
+supersede the present form of quantum mechanics. The joint distribution and other paradoxes disappear, Popper remarks, with the
+Fényes and Nelson theory.
+XVII
+The two contributions to the Schilpp volume to take up the
+question of determinism are the joint contribution by Herbert Feigi
+and Paul E. Meehi, entitled "The Determinism-Freedom and BodyMind Problems," and J.W.N. Watkin's study of "The Unity of
+Popper's Thought."
+The essay by Feigi and Meehl is, in terms of quality, perhaps the
+poorest in the Schilpp volume. It is based on suppositions about
+what Popper might have meant about various things that he has said
+and written, rather than on what he has said.
+Watkins's essay, on the other hand, is an important contribution
+to the understanding of Popper's work. As I remarked in Part I of
+this study, it is the best comprehensive and integrated account of
+Popper's philosophy that I have seen anywhere. Watkins interprets
+708
+
+CRITICAL STUDY (POPPER)
+
+the problem of indeterminism as the central issue in Popper's philosophy, and organises other aspects of his thought, such as evolution
+and falsifiabiity, around this theme. Watkins's essay is the more
+valuable in that it draws on unpublished material in the Postscript,
+thus making the outlines of Popper's views more readily accessible to
+those who have not studied with him or otherwise had the benefit of
+his unpublished writings. It provides a glimpse of Popper's metaphysical account of the nature of the world and of living organisms.
+And it is a model of philosophical exposition to be recommended to
+all who are interested in these problems. Rather than attempting to
+summarise Watkins's essay
+which is itself a summary account of
+Popper's thought - I shall quote from his concluding paragraph:
+Determinism and inductivism, although not bound logically
+together, are natural coalition partners; for, of all extant
+epistemologies, it is inductivism that most readily furnishes a
+causal account of belief-formation. There is likewise . . . a
+natural coalition between indeterminism and falsificationism
+(whereby scientific knowledge is seen as growing through
+conjectures and refutations). There seems to me no doubt as
+to which pair of doctrines offers the more cheerful picture.
+The first depicts man as an induction machine nudged along
+by external pressures, and deprived of all initiative and spontaneity. The second gives him the Spielraum to originate ideas
+and try them out. Learning about the world means, on the
+first view, being conditioned by it; on the second view, it
+means adventuring within it.
+XVIII
+The only contributor to the Schilpp volume to take up the
+question of the arrow of time is Adolf Griinbaum, in his article on
+"Popper's Views on the Arrow of Time." Grünbaum has written on
+this matter on several previous occasions, beginning in 1957, when
+he published a note on the matter jointly with the physicist E.L.
+Hill.55
+Grünbaum opens his account with a brief review of the literature
+and a detailed criticism of some of the views of Henryk Mehlberg; he
+discusses various meanings of the metaphor "the arrow of time," and
+points out possible misinterpretations. Grinbaum generously
+acknowledges Popper's contribution in calling attention to nonentropic irreversibility. But he expresses doubts about what he
+describes as Popper's denial of the relevance of statistico709
+
+W.W. BARTLEY, III
+CRITICAL STUDY (POPPER)
+
+thermodynamic phenomena to the anisotropy of time. GrUnbaum
+argues against Popper that a modified version of Boltzmann's theory
+is not beset by the absurdities which Popper found in it; and that
+when coupled with specified assumptions as to boundary conditions,
+the statistical behaviour of the entropy of physical systems does
+qualify as a basis for a statistical anisotropy of time. GrUnbaum's
+argument is conducted in terms of Reichenbach's account of branch
+systems.
+Popper's reply to GrUnbaum is peculiar. He expresses his "suspicion" that Grünbaum is, although a realist in other respects, an
+idealist with regard to the arrow of time. I do not know what this
+description means; perhaps it is only a colourful way of saying that
+Popper believes that GrUnbaum will not be able to chart a consistent
+or coherent realism so long as he maintains his views regarding the
+arrow of time. Popper sees Grünbaum as thinking time is anisotropic
+with two non-equivalent directions, but that time does not have an
+inherent direction. Whereas Popper himself says (p. 1140) that time
+has a direction, over andabove being anisotropic. Since GrUnbaum's entire discussion was in tenns of the anisotropy of time,
+it appears that Popper and Grünbaum are arguing - and have been
+arguing since 1957 - about two separate matters. Moreover, the
+question then arises whether Popper's examples of nonentropic
+irreversibility establish only anisotropy - or whether they also
+establish an "inherent direction," the precise character of which
+Popper has not indicated.56
+*
+
+*
+
+*
+
+In the next instalment of this study - Part III
+Popper's views on rationality, criticism, and logic.
+
+I shall turn to
+
+CALIFORNIA STATE UNIVERSITY
+HAYWARD, CALIFORNIA 94542
+USA
+
+*
+**
+
+710
+
+W.W. Bartley, III: "Critical Study: The Philosophy of Karl Popper. Part I.
+Biology & Evolutionary Epistemology," Philosophia, Vol. 6, no. 34,
+September 1976.
+I wish •to acknowledge my indebtedness to conversations and correspondence with the following persons, the presence of their names in this
+list does not indicate agreement. I thank: Professor Joseph Agassi, Dr.
+Joseph E. Bógen, Werner Erhard, John Falicki, Dr. Robert W. Fuller,
+
+Brian Gomes da Costa, Michael Haynes, Professor Jagdish Hattiangadi,
+Professor I.C. Jarvie, Stephen Kresge, Professor Edward MacKinnon, Dr.
+George H. Nadel, Sir Karl Popper, Daniel Rohrlich, Howard Sherman,
+Professor Tom Settle, Professor Roger W. Sperry, Dr. Gerhard
+Wassermann, Professor J.W.N. Watkins.
+
+NOTES
+
+Encounter,
+
+December 1973, pp. 33-7.
+This is my formulation, not Popper's. Note added in proof. Popper has,
+however, made use of this formulation in: K.R. Popper and J.C. Eceles:
+The Self and Its Brain (New York: Springer International; 1977), pp. 14f.
+Ecciesiastes 1:9.
+This idea dates at least to Epicurus: Letter to Herodotus. The most
+famous expression is perhaps in Lucretius: De Rerum Natura.
+Objective Knowledge, op. cit., p. 33.
+6 William James:
+Varieties of Religious Experience (New York: Collier
+Books; 1961). See also Gardner Murphy and Robert 0. Ballou, ed.:
+William James on Psychical Research (New York: The Viking Press;
+1960).
+Charles
+Renouvier: Essais de critique générale Paris, 1854, 1859, 1864.
+8
+See Fritjof Capra: The Tao of Physics: An Exploration of the Parallels
+Between Modern Physics and Eastern Mysticism (Berkeley: Shambala;
+1975). See also Jack Sarfatti: "The Physical Roots of Consciousness," in
+Jeffrey Mishlove, editor: The Roots of Consciousness (New York:
+Random House; 1975), pp. 279ff. See particularly Sarfatti's extraordinary statement: "The legitimacy of any scientific discipline is ultimately a political matter. According to modern physics, physical reality
+does not objectively exist independently of the participating observers."
+(p. 280).
+For a general description of the participating groups in the consciousness
+movement, see Nathaniel Landé: Mindstyles, Lifestyles (Los Angeles:
+Price/Stern/Sloan; 1976).
+My account here is adapted from Richard P. Feynman's wellknown
+presentation in The Feynman Lectures on Physics, Vol. 3 (AddisonWesley Publishing Company, Inc.; 1965). In my interpretation of the
+matter, however, I do not follow Feynman.
+10 The experiment here can of course be varied in any number of ways. For
+instance, the source of light can be replaced by some other informative
+device: the whole apparatus could, say, be put in a bubble chamber
+wherein electrons leave tracks. What quantum mechanics is purported to
+say is, that so long as any effective detection device is inserted, the
+interference phenomenon is interfered with, and the experinenal results
+become classical.
+2
+
+711
+
+W.W. BARTLEY, III
+
+Symmetries and Reflections.
+Sir Karl Popper: "Quantum Mechanics without 'The Observer," in
+Quantum Theory and Reality, ed. Mario Bunge (Berlin: Springer-Verlag;
+1967), pp. 7-44.
+13 Alfred Landé: Quantum Mechanics in a New Key (New York: Exposition
+Press; 1973); New Foundations of Quantum Mechanics (Cambridge:
+Cambridge University Press; 1965); From Dualism to Unity in Quantum
+Physics (Cambridge: Cambridge University Press; 1960); and Foundations
+of Quantum Theory (New Haven: Yale University Press; 1955).
+14 William Duane: "The Transfer in Quanta of Radiation Momentum to
+Matter," Proc. N.A.S., Vol. 9, 1923, pp. 158-164; and P.S. Epstein and
+R. Ehrenfest: "The Quantum Theory of the Fraunhofer Diffraction,"
+Proc. N.A.S., Vol. 10, 1924, pp. 133-139; and "Remarks on the
+Quantum Theory of Diffraction," Proc. N.A.S., Vol. 13, 1927, pp.
+400-408.
+See E. Richard Cohen, in Physics Today, Vol. 9, no. 3., March 1956,p.
+24; and R. Bruce Lindsay, in Physics Today, Vol. 14, no. 11, November
+1961, pp. 60-1. See also L.E. Ballentine: "The Statistical Interpretation
+of Quantum Mechanics," in Reviews of Modern Physics, Vol. 42, no. 4,
+October 1970, pp. 358-381.
+16 Abner Shimony: "Basic Axioms of Microphysics," Physics Today, Vol.
+19, no. 9, September 1966, pp. 85-91.
+17 Wolfgang Yourgrau: "Challenge to Dualism," British Journal for the
+Philosophy of Science, Vol. 12, no. 46, August 1969, pp. 158-166.
+18 Henryk Mehlberg: "Comments on Landé's 'From Duality to Unity in
+Quantum Mechanics,'" Clirrent Issues in the Philosophy of Science, ed.
+Herbert Feigl and Grover Maxwell (New York: Holt, Rinehart and
+Winston; 1961), pp. 360-70.
+19 H.V. Stopes-Roe: "Interpretation of Quantum Physics," Nature, Vol.
+193, March 31, 1962, pp. 1276-7; and Landé's reply in the same number,
+p. 1277. Landé returns to this point in his New Foundations of Quantum
+Mechanics, op. cit., 1965, pp. 15-6.
+20 SeeNature,Vol. 195,pp. 1088-9.
+21 Jon Dorling: British Journal for the Philosophy of Science, Vol. 26, no.
+4, December 1975, pp. 355-8.
+22 The most peculiar response to Landé's work is R.C. Whitten's review in
+The American Journal of Physics, Vol. 34, No. 12, December 1966,pp.
+1203-4. Whitten characterises as a "very important omission" Landé's
+failure to mention Feynmañ's work, and claims that Feynman says, in
+the opening sections of the third volume of The Feynman Lecture on
+Physics, exactly what Landé says 'but without laying down the gauntlet
+to the Copenhagen School." Two things are wrong with Whitten's
+complaint: Lande's book was published before Feynman's; and there is in
+fact no resemblance between the two. What is true about Feynman and
+Landé is, I supppose, that Feynman passes over the potential challenge to
+1
+
+712
+
+CRITICAL STUDY (POPPER)
+
+23
+
+24
+25
+26
+
+27
+28
+29
+
+31
+
+32
+
+36
+
+the Copenhagen School with "superluminal velocity," whereas Landé
+"makes waves."
+Otto R. Frisch: Contemporary Physics, Vol. 2,p. 323 (1960-1). See also
+Hermann Bondi in Physics, Logic, and History, eds. Wolfgang Yourgrau
+and A.D. Breck (New York: Plenum Press; 1970), p. 307. See V.F.
+Lenzen: Philosophy of Science, Vol. 29, 1962, pp.213-16.
+Popper's earlier account of probability has, however, been modified. The
+propensity interpretation is a substitute for his original frequency theory,
+presented in 1934.
+See Watkins's essay in the Schilpp volume, p. 377, for this formulation.
+See also Popper: The Logic of Scientific Discovery, pp. 23Sf.
+For Popper's criticisms in detail of the subjective interpretation of
+probability, see The Logic of Scientific Discovery (London: Hutchinson;
+1959), Chapter 8; and also Popper's "Probability Magic, or Knowledge
+out of Ignorance," Dialectica, Vol. 11, 1957, pp. 3 54-74.
+See Watkins, op. cit., p. 376.
+British Journal for the Philosophy of Science, Vol. I, 1950-1, pp.
+117-133 and 173-195.
+Reprinted in Objective Knowledge, op. cit., Chapter 6.
+Indeterminism in Quantum Physics and in Classical Physics," op. cit., p.
+117.
+Here the difference between the propensity interpretation and the frequency interpretation becomes apparent. In the latter, probability is
+considered to be a property of a sequence; in the former, probability is a
+property of an experimental arrangement.
+Popper: "Quantum Mechanics without 'The Observer," ed. Mario Bunge:
+Quantum Theory and Reality, op. cit., p. 20.
+Popper: "Quantum Mechanics without 'The Observer," op. cit., p. 34.
+"Quantum Mechanics without 'The Observer," op. cit., p.37. On this see
+also Alfred I.andé: "Heisenberg's Contracting Wave Packets," American
+Journal of Physics, Vol. 27, 1959, pp. 415-17, especially p.4l7. Popper
+first attempted a solution to the problem of the reduction of the wave
+packet on similar lines in Logik der Forschung, section 76.
+Paul K. Feyerabend: "On a Recent Critique of Complementarity: Part I,"
+Philosophy of Science, Vol. 35, December 1968, pp. 309-33 1; and "On a
+Recent Critique of Complementarity: Part II," Philosophy of Science,
+Vol. 36, March 1969, pp. 82-105.
+As in Max Jammer's splendid work: The Philosophy of Quantum
+Mechanics (New York: John Wiley & Sons; 1974), pp.450-52. The only
+essay in the Schilpp volume to take notice of Feyerabend's article does
+not go into this issue. See Tom Settle: "Induction and Probability
+Unfused," Schilpp volume, p. 735.
+British Journal for the Philosophy of Science, Vol. 8,1957-8, pp. 151-5.
+
+**. (Dialectica, Vol. 8, 1954, pp. 112-24.) "The first application of probability reckoning in physics basic for our understanding of natural laws is
+713
+
+CRITICAL STUDY (POPPER)
+
+W.W. BARTLEY, III
+the general statistical theory of heat founded by Boltzmann and Gibbs.
+As is well known, it led necessarily to the interpretation of the entropy
+of a system as a magnitude of its state which, unlike energy, depends on
+our knowledge of the system. If this knowledge is the maximal that is at
+all compitible with the laws of nature (microstate), then the entropy is
+always zero. Thermodynamic concepts are only applicable to a system,
+however, when knowledge of the initial state of the system is inexact...
+The most beautiful and most important result of this theory was the
+interpretation of thermodynamic irreversibility as proceeding in the
+direction of the more probable state."
+38
+
+Erwin Schrodinger: Mind and Matter (Cambridge: Cambridge University
+Press; 1958).
+39 See Kurt Gödel's splendid essay, "A Remark about the Relationship
+between Relativity Theory and Idealistic Philosophy," in Albert Einstein:
+Philosopher-Scientist, ed. Paul Arthur Schilpp: (New York: Harper
+Torchbook edition; 1959), pp. 557-62. See also Einstein's reply: Ibid.,
+pp. 87-8.
+40 But see K.R. Popper and J.C. Eccles: The Self and Its Brain, op. cit.
+41 For discussion see J.W.N. Watkins's essay in the Schilpp volume, esp. pp.
+394-5; and also 3.0. Wisdom: "A New Model for the Mind-Body
+Relationship," British Journal for the Philosophy of Science, Vol. 2, No.
+8, February 1952; K.R. Popper: "Philosophy and Physics," Proceedings
+of the XIIth International Congress for Philosophy, Vol. 2, 1960, pp.
+367-74.
+42 R.W. Sperry: "A Modified Concept of Consciousness," Psychological
+Review, Vol. 76, No. 6, 1969, pp. 532-6; "An Objective Approach to
+Subjective Experience," Psychological Review, Vol. 77, No. 6, 1970, pp.
+5 85-90; "Lateral Specialization of Cerebral Function in the Surgically
+Separated Hemispheres," in The Psychophysiology of Thinking, ed. F.J.
+McGuigan and R.A. Sehoonover (New York: The Academic Press; 1973),
+pp. 209-229; "Lateral Specialization in the Surgically Separated Hemispheres," in The Neurosciences Third Study Program, ed. F.O. Schmitt
+and F.G. Worden (Cambridge: The MIT Press; 1974), pp. 5-19; and "In
+Search of Psyche," in The Neurosciences: Paths of Discovery, ed. F.G.
+Worden, J.P. Swazey, and G. Adelman (Cambridge: The MIT Press;
+1975), pp. 425-434.
+On some related issues, such as determinism, Sperry differs from Popper.
+See Sperry: "Mind, Brain, and Humanist Values," Bulletin of the Atomic
+Scientists, Vol. 22, No. 7, September 1966; and "Changing Concepts of
+Consciousness and Free Will," in Perspectives in Biology and Medicine,
+Vol. 20, No. 1, Autumn 1976, pp. 9-19.
+43 Gregory Bateson: Steps to an Ecology of Mind (New York: Ballentine
+Books; 1972).
+44 Conjectures and Refutations, p. 213.
+
+714
+
+46
+48
+
+51
+
+52
+
+See C.G. Jung and Wolfgang Pauli: The Interpretation of Nature and the
+Psyche (London: Routledge and Kegan Paul; 1955). See also John C.
+Lilly, the dolphin researcher, who writes: "There is a new natural science,
+even as introduced by Wffliam James and currently led by youngsters
+such as Charles Tart and Cabs Castalieda. The inner realities are once
+more receiving the, rational exploration and expert scrutiny formerly
+reserved for the outer realities." The Centre of the Cyclone (London:
+Paladin; 1972), p. 15.
+Schilppvolume,pp. 151 and 181.
+"Aphasia Reconsidered," Cortex 1972, pp. 34-40.
+For an extremely interesting example of how far such speculation may be
+taken, see Julian Jaynes: The Origin of Consciousness in the Breakdown
+of the Bicameral Mind (Boston: Houghton Mifflin Company; 1976).
+In which case I should like to know what effects left-hemispheric strokes
+have on Chinese, whose script uses only the equivalent of kanji. The
+research here is obviously just beginning, and may be reviewed in the
+following: Tsuneo Imura, Yoshimi Nogami, and Kazuo Asakawa:
+"Aphasia in Japanese Language," Nihon University Journal of Medicine,
+1971, pp. 69-90; S. Sasanuma and 0. Fujimura: "Selective impairment of
+phonetic and non-phonetic transcription of words in Japanese aphasic
+patients: kana vs. kanji in visual recognition and writing," Cortex, 1971,
+pp. 1-17; and Sumiko Sasanuma and Osamu Fujimura: "An Analysis of
+Writing Errors in Japanese Aphasic Patients: Kanji versus Kana Words,"
+Cortex, 1972, pp. 265-282.
+Howard Gardner and Gianfranco Denes: "Connotative Judgements by
+Aphasic Patients on a Pictorial Adaptation of the Semantic Differential,"
+Cortex, June 1973, pp. 182-96.
+See H.W. Gordon: "Hemispheric Asymmetries in the Perception of
+Musical Chords," Cortex, 1970, pp. 387-398, and H.W.Gôrdon and J.E.
+Bogen: "Hemispheric Lateralization of Singing after Intracarotid Sodium
+Amylobarbitone," Journal of Nuerology, Neurosurgery, and Psychiatry,
+1974, pp. 727-38.
+Joseph E. Bogen: "The Other Side of the Brain I: Dysgraphia and
+Dyscopia Following Cerebral Commissurotomy," The Bulletin of the Los
+Angeles Neurological Society, Vol. 34, No. 2, April 1969, pp. 73-105;
+"The Other Side of the Brain II: An Appositional Mind," bc. cit., Vol.
+34, No. 3, July 1969, pp. 135-162; "The Other Side of the Brain III: The
+Corpus Callosum and Creativity," bc. cit., Vol. 34, No.4, October 1969,
+pp. 191-220; and "The Other Side of the Brain W. The A/P Ratio," bc.
+cit., Vol. 37, No. 2, April 1972, pp. 49-61.
+
+See also Jerre Levy's pioneering studies of left and right modes of
+cognitive thinking, in S. Diniond and J. Beaufort, eds.: Hemisphere
+Function in the Human Brain (London: Elek; 1975), p. 121; also
+"Possible basis for the evolution of lateral specialization of the human
+brain," Nature 224:614-15, 1969; and "Lateral specialization of the
+
+715
+
+W.W. BARTLEY, III
+
+56
+
+human brain: Behavioral manifestations and possible evolutionary basis,"
+in The Biology of Behavior, ed. J. Kiger (Corvallis: Oregon State University Press), in the press.
+See K.R. Popper: "Birkhoff and von Neumann's Interpretation of
+Quantum Mechanics," Nature, Vol. 219, 1968, pp. 682-5.
+See E.L. Hill and Adolf Grünbaum: "Irreversible Processes in Physical
+Theory," Nature, June 22, 1957, pp. 1296-7; and Adolf Grtinbaum:
+"Popper on hreversibility," in The Critical Approach to Science and
+Philosophy, ed. Mario Bunge (New York: The Free Press; 1964).
+On this whole issue see Michael J. Zenzen: "Popper, Grünbaum and de
+facto Irreversibility," British Journal for the Philosophy of Science, Vol.
+28, No.4, December 1977, pp. 3 13-324.
+
+CRITICAL STUDY
+UNDERSTANDING WITTGENSTEIN, edited by G.Vesey,London:
+MacMillan, 1974, pp. XXII, 285.
+
+IRVING BLOCK
+This book of essays on Wittgenstein is through the courtesy of
+the following contributors: Anthony Kenny, R.M. White, Rush
+Rhees, Brian McGuinness, Guy Stock, Bernard Williams, A. Phi1ips
+Griffiths, Renford Bambrough, Jenny Teichman, G. Vesey, liham
+Dilman, Les Holborow, Roger Squires, A.J. Ayer and Christopher
+Coope. On the whole the book is an interesting and provocative
+collection of essays.
+The provocative part of the book are two critiques of Wittgenstein by Bernard Williams and A.J. Ayer. I would like to spend the
+bulk of this essay discussing Bernard Williams' and A.J. Ayer's
+articles. Particularly Professor Williams' essay is a well-wrought and
+subtle piece and demands special treatment. I think both Williams
+and Ayer represent a deep-seated misconstrual of Wittgenstein's
+philosophy which is very wide spread not only among his critics but
+among many of his "followers" and this I think justifies the time
+spent on Williams' and Ayer's essays. I hope the other contributors
+to this excellent volume will pardon my not commenting on all the
+essays.
+I would like at first to make brief comments on the essays by
+Rush Rhees and BrianMcGuinness which I think are illuminating. I
+would also like to comment on the lead essay by Anthony Kenny
+which stresses the unity of Wittgenstein's philosophy as a whole.
+This idea might be said to be the main theme of the book (if you can
+talk about a book of fifteen different essays having a main theme).
+Rush Rhees gives an intrigueing account of what Wittgenstein
+meant by following a rule which is the key idea in Remarks on the
+Foundations of Mathematics and in the Philosophical Investigations.
+He attempts to show this concept was a natural development of the
+Tractarian idea of the repetition of an operation which generated
+
+

@@ -1,0 +1,2489 @@
+Philosophia Vol. 6 Nos. 3-4 Ps'. 463.4o Septem
+
+rDecemt'er tum
+
+/
+
+CRITICAL STUI)Y
+THE PhIlOSOPhY OF KARL POPPER
+PART!: BIOLOGY & EVOLUTIONARY EPISTEMOLOGY
+W.W. hARTLEY, Ill
+
+TilE PhILOSOPHY OP KARL POPPER edited by Paul A. Schilpp,
+Two volumes, Open Court, Library of Living Philosophers, La Salle,
+1974, 1323 pp., $30.00.
+
+•
+
+The philosophical perspective celebrated in the latest member of
+the distinguished Schilpp series is the most radical yet presented in
+The Library of Living Philosophers. Radical for this simple reason:
+Sir Karl Popper is not really a participant in the contemporary
+professional philosophical dialogue; quite the contrary, he has ruined
+that dialogue. If he is on the right track, then the majority of
+professional philosophers tlte world over have wasted or are wasting
+their intellectual careers. The gulf between Popper's way of doing
+philosophy and that of the bulk of contemporary professional
+philosophers is as great as that between astronomy and astrology.*
+I believe that Karl Popper is on the right track.
+I ant a bit reluctant to admit this. For although I spent the first
+ten years of lny professional life in close collaboration with Popper
+and his ideas, I snt the second decade o( my career, only recently
+elapsed, trying to avoid both. From 1 955 to 1958 I studied Popper's
+work intensively at llarvard despite the warnings of my teachers
+there about this "difficult man". In 1958 I went to London as a
+kind of pilgrim to become first Popper's student and then for four
+
+I express my thanks to the following persons, who have been kind enosigh to
+rcad aod conitneist on all or part of this first instullrn ml, and who have
+sometimes protested my views: Joseph Agassi, t)onald T. Campbell, Marjorie
+Grene, Adolf Grbnhaum, Jagdish hiattianmadi. Michael Ilaynes, IC. Jarvie, Ass
+Kasiter, Stephen Ktesge, A.E. Musgrave; bun Post. Jeremy Shearmur, Avrum
+Stroll, Gerhard Wassermann, J.W.N, 'Watkins, and 3.0. Wisdom. I also acknowledge the help of grants (root the Research Foundation of the California State
+UnIversity, I layward.
+
+463
+
+•
+
+LL
+
+\V.W: LIAR FLEY, Ill
+-yearshicolguteLndScholfEmis.In
+1965 we'
+had a row over my theory of rationality and his theory of'
+demarcation; we have not spoken since. During these past ten years;
+although I have tried in a way to avoid Popper's new work, I have-
+
+in connexion with a study of central Europemn thought between the
+first and second world wars -.- been investigating the origins of
+Popper's I bought and the Viennese milieu in which he came to
+maturity. The initial results of my study suggested to me that
+Popper was less original than I had at first imagined; and this
+''finding'' helped free inc from Ins influence.
+1. accept e(l the assignment of reviewing the Schilpp volume in
+the expectation that it would give inc an enjoyable opportunity to.
+criticize Popper roundly. In the course of reviewing this volume,
+however. I have had to revise some notions that I have entertained in:.
+recent yea-s. Although there will be plenty of criticism i,n• the pages
+that follow, this review is on the whole favourable.
+II
+The philosophical and scientific questions and ideas raised in the
+Schilpp volu nc for K an Popper bear on virtually all aspects of
+philosophy. The work is long, published in two volumes, in a
+compass of I 323 pages. There arc thirty-three contributions on
+wide range of topics by distinguished philosophers, public servants,
+and scientists. These include four British knights, a British lord, andt,
+two Nobel laureates. Popper's own contributions constitute a su'
+stantial work in themselves; an intellectual autohiogra phy of 18O
+pages, and a reply to his critics running to 236 pages.
+One could not do justice to this work in the space of
+review. I have therefore with the encouragement of the editorè óf..
+this journal undertaken a survey of Popper's work based on this,
+volume. It will be published in five installments as follows:
+I. The present essay deals with biology, evolution theor
+evolutionary epistemology, the "Three Worlds''.
+Il. The second essay treats consciousness and the mind-body
+problem, and the relation of these to the problems of determinisqi
+and indcterminism, physics, and probability t heony,
+':i
+Ill. The third essay discusses rationality, criticism, and togic.,.
+IV. The fount Ii insta llm cut reviews Popper's co ntrihut wns to,,
+historical and soial philosophy and to intellectual lnistor
+V. The fifth and final installment treats Popper's background
+and intellectual development, his intellectual biography, and the riSb i
+of the Popper School; and it gives a summary evaluation of PopperS
+contributions to philosophy.
+,t ,•
+Anthony Quinton, in an interesting study of Popper's work,
+has co Iii men ted that alt hoti gh Popper is ''the in ost important and
+
+...............
+
+int'eresting of living British philqsophers", there. is as yet "no body
+of informed and serious criticism of Popper's thought to draw
+upon." It has been my intention in preparing this review •to
+contribute modestly to the creation of such a critical corpus.
+
+Popper's discussion of biology and evolution theory dominates
+the Schilpp volume as it did his most recent book: Ohjecf.i3c
+Kno wiedge.' An Evolu tivnan' A pprnac/i (1972). Popper's interest in
+biology is of longstanding. I recall one day in the spring of 1959, as
+we were walking through Hyde Park together, when Popper ctiscussed, in the most animated and delightful way, the issues between
+Darwin and Lamarck, and Samuel Butler's treatment of evolution in
+Erewhon. It was, so he told me then, a subject that had excited him
+since he was a young man.
+Popper's public discussion of biology is, however, comparatively
+recent. I believe that I can date it quite exactly to the afternoon of
+Tuesday, November I 5, 1960. On that day the members of Popper's
+seminar had assembled as usual around the long table in the old
+seminar room on the fourth floor of the old building of the London
+School of Economics. When Popper appeared, he announced that he
+would abandon the usual format and would read a new paper of his
+own, That new paper, which spoke of "three worlds", of biology,
+and gave qualified support to Ilegel's theory of objective mind, took
+the members of the seminar off guard. The discussion that followed
+was more bewildered than heated; and Popper, usually one of the
+most persistent of men, did not pursue the matter that term. No
+member of the seminar, perhaps not even Popper, could have
+predicted that they had just heard the first note in a new development in his thought.
+Present that afternoon were some of the closest members of
+Popper's circle, including J.W.N. Watkins, JO. Wisdom, lmre Lakatos, l.C. Jarvie, and myself. About a dozen students, including Alan
+Musgrave, also attended. Ernest Geilner was no longer attending the
+seminars; Sir Ernst Gombnch did not attend that meeting, and
+Joseph Agassi had a few months earlier departed for hong Kong.
+Al. Sabra was still in Egypt; and Paul Feyerabend had been in
+Berkeley since 1958. Not one of these associates, neither those who
+were present nor those who were absent, had more than marginal
+interest in biology. None of them would - had be been asked to give
+a sketch of Popper's ideas and of his development - have mentioned
+biology. And Popper himself, in the autobiographical sketches that
+he had written for British Philosophy in Mid-Century, for The
+Postscript (still tinpublished), and elsewhere, made virtually no
+mention of biologyór its philosophy.
+465
+
+464
+.
+
+/
+Ii
+
+.--..-, '...'-,'."
+
+LsAi( I.L , Iii
+
+V
+In the years since then Popper has developed his ideas on the1,
+"three' worlds't and on biology, drawing in large strokes, and has
+therebygeneralised and unified his philosophy, Although the fundamental components of his framework have not been much affected
+by this development, their presentation has been transformed; they
+are explained and in minor ways corrected. I'rior to 1960 the
+development of Popper's thought could have been presented, however unjustly, in an incremental way: his new foundations for logic
+and his work in indelerminism in physics, his contributions to
+probability theory, all could be presented as elaborations of his early
+work in induction and deniarcat ion. The new work in philosophy of
+.biology, however, is not simply incremental: it unifies the whole.
+The manner in which I'opper's new biological concerns serve to
+integrate his thought can he seen in the new formulation of the chief'c
+proble ;n of episteniology which he introduces In his "Replies to My
+I/ic maui task of (lie tlieorp of knowledge,'' hew rites (p.
+('ri tics''
+1061 . my it abcs), ''is ta it nders tand it as Continuous wit/i animal
+k no iviedge: and to on clers (amid a/co its discoti tin oily - if au)' - from
+an on a! k no ce/c, Ige.
+'this for iuulation contrasts wit Ii earlier statements by Popper. In
+'fire Logic of Scientific Discoicre (p IS), he wrote: ''The central
+problem of epistemology has always been and still is the problem of
+the growth of knowledge." Later in the same work (p. 5 ), he wrot
+that the ''main problem of philosophy is the critical analysis of the
+appeal to the authority of experience.'' And in Conjectures and,.
+Rehutanons he described the solution to the problem of den'arcatioxl '
+l'et t tin silence and non-science as "the key to most of the
+fu u,lameii Ia I problems of the philosophy of science." (p. 42).
+'1
+
+CIUrICAL ST(JJM1S
+
+.
+
+',
+
+i
+
+1 ç'
+
+,'i
+
+.';
+',
+
+'
+
+I
+
+•
+
+.c-.....c•
+
+'*
+
+"çC
+
+'-.4
+Both scientific kno'ledge, as recorded In 'theoriai'and theyti4
+biologically based cognitive structures of anIrhals canbë 'studied'
+:i:
+otcjectivçly as products. Both are objective structutes the firt beinj.",',
+i"
+'in exosoniatic development the second being endosotnild develop.
+P
+ments. Both, according to Popper, are produced bythe sam';". -:.;Dirwinrin mechanism the highest creati e thought, just like animal
+
+adaptation, is the product of blind variation and
+- trial and error. The same process governsbotI blologlcat 'en-.';,:''
+ence and the growth of knowledge in sçIencécbrnIng tadItionl":
+philosophical approaches to knowledge which 'focus on the suh-"
+jective interiot experience of the cognizer or "knowing subject" --'
+his beliefs and perceptions - Popper turns to the tbjective products
+of the cognitive process, viewing cognitive structures and scientific
+-' I
+theories alike as knowledge achievements.3
+
+Just as, for the earlier Popper, the phIlosopher compared I
+content of competing theories and estimated their ''verisimilitude",
+so for the more recent Popper the philosopher examines the entire
+range of cognitive structures found in the animal kingdom
+the
+stored templates modeling the useful stabilities of the environment
+- and compares the "fit" between the organic system and its
+environment. Thus Popper significantly generahises his earlier approach: our experience is theory impregnated and structure impregnated.
+
+'V
+
+I do not mention these shifting cstinia tes of cenirabty and
+importance in a carping way. Such an estimate may of course change
+in the course of a career, and t he Various prohle ins ci d not only
+overlap considerably: they are aspects of the same prohern I draw
+t lie reader's attention IC) these formulations to underscore the',
+development that has taken place. Alt hioiiglt l'oppt'r from time td
+i mc ijien i io ned or alluded to an i inal knowledge in his CE rhier work
+he did not give the study of animal cognition an importa nt, let alone
+the central, place among the problenis of epistemology. t'Jow it is at
+the forefront: epistemology is chiefly concerned with the continuities and discontinuities of human and animal knowle ge: indeed
+epistemology is to become a science of coinparativ cognitive
+appara tuses. Whereas in The Logic of Scientific Discovery (p. 15)
+Popper had maintained that the roost effective way to study the
+growth of knowledge was to study the growth of the most advanced
+form of knowledge - scientific knowledge -- lie now also turns to
+prehurnan forms of knowledge and to evolution for examples of the,
+growth of knowledge.
+
+What is the bite behind the new approach? Before anything else,
+Popper is an enemy of subjectivism and idealism. And he has found
+in biology and evolution theory, and particularly in the comparative
+study of animal and human cognition, a new argument for ohjectiv.
+ism and realism. While neil her subjectivisni nor idealism is an issue of
+central importance in theoretical biology today - with some
+exceptions such as 'l'hure von Uexk iill -- evolution theory has in the
+1)1st been used to argue in Support of relativiSn'i and liisloricism, and
+contributed to the strengt li of these positions in the nineteent ii
+century. Thus Popper's new biologically based argument for objectivisni and realism furt hers his longstanding battle against relativism
+and historicism. Perhaps more important strategically, it provides
+Popper with an independent line of argument for realism not
+dependent on his controversial critique of the subjectivist Copenhagen interpretation of quantum mechanics.
+To gain an adequate impression of how Popper now sees these
+matters, it is necessary to read Popper's own contributions to the
+Schilpp volume in close conjunction with Donald 1. Can'ipbell's
+contribution to the latter. Campbelh's essay, "Evolutionary Epistemblogy", is in my 'opinion, and I believe in Popper's, the most
+
+466
+
+467
+/
+
+important contribution to the volume. Popper describes it
+treatise of prodigious learning. "There is scarcely anything in th'
+whole of modern epistemology to compare with it, certainly not hi
+my own work," he reports. Popper describes Campbell's paper as a
+reliable guide to his own thinking: as the one "which shows the
+greatest agreement with my epistemology and .. an astonishing
+anticipation of some things which I had not yet published when he
+wrote his paper ... For me the most striking thing about Campbell's
+essay is the almost complete agreement, down even to minute
+details, between Campbell's views and my own." (p. 1059).
+Campbell's paper is based on a touch neglected earlier essa'
+(1960): "Blind Variation and Selective Retention in Creative
+Ihomight as in Other Knowledge Proceses,"5 Although Campbell's
+new paper is presented in a modest historical and descriptive style, It
+is densely packed with information. It is also valuable because of the
+level of abstraction which it attains. Popper himself reaches a new
+level of abstract ion as a result of his interchange with Campbell
+and also from his encounter with some related work by Konrad
+Lorcnz to which Ca mpbell drew his attention.6 This profitable
+interaction says something in favor of the dialectical intentions
+behind the Schilpp series. Although Campbell says that Popper is the
+modern founder and leading advocate of an evolutionary epistem.
+ology. l'opper himself had not previously put the problem in so full
+a context. Campbell's work enables one to see the power of an
+approach along Popper's lines; it opens some problems only touched
+by Popper; and it illuminates an area of the history of philosophy in
+which l'opper himself has none little work.
+Alt hough much of the interest of "evolutionary epistemo!ogy'.
+comes from the examples and analysis provided by Loren and:.
+Campbell independently of Popper, Campbell gives the chief credit.
+for the emerging position to Popper
+and it is indeed within
+Popper's account of scientific knowledge that these examples and
+analysis gain a context in which their full power - and their
+episte muological and philosophical significance - can be fcI
+:t;
+
+st(uctures - like Kantian categories - create and define external
+reality and limit access to it.
+The first step in satisfying these needs is to èoncede that part of
+the subjectivist contention is correct: we are indeed subject to
+limited and imperfect cognitive apparatuses; and these apparatuses
+are essentially limited and imperfect. Take as instructive examples
+what Popper would call "rubber-stamp examples'' -, the microscope
+and the photoprint.
+Consider the domain resolved with the lens of a microscope
+(Lorenz, pp. 112-4). The fineness of the smallest structure of the
+object still visible with the aid of the lens depends upon the
+relationship between the angle of a perture and focal length. In order
+for a structural grating to be seen, the first diffraction spectrum
+which is thrown by the grating must still fall into the front lens.
+When this is no longer the case, no structure is visible and one sees a
+smooth brown surface. If. there were in nature but a single micro
+scope, one might conclude that structures are only ''conceivable'' up
+to the fineness resolved by that microscope, and that to speak of
+finer stnmct ures is meaningless. A subject ivist conclusion about t lie
+world and the limits of human reason might thus be drawn from the
+examination of the apparatus by constructing an analogy between
+the microscope and human cognition.
+A similar argument can be based on the character of the
+ordinary photoprint. 'the photoprint screen cannot produce any
+points of the object "represented" finer than those corresponding to
+the finite elements of the screen. The grain of the photographic
+negative permits no unlimited enlargement. Only that can be
+represented which can be "spelled out" on the "keyboard" provided
+by the grain of the print. Lest one conclude that an external world
+is, say, composed of squares from the observation that the grain of
+the photograph is composed of small squares, one must - so it may
+he suggested - avoid saying anything at all about an objective world
+independent of "squareful" representation, and speak only of
+different ma nners of arrangement in square.
+VI
+
+V
+I attenipt in the following to reconstruct a part of the argument
+that enmt'rges from Popper, Campbell and Lorenz. I shall not limit
+myself to their presentation or examples, and shall elicit a point of
+view sup ported by their discussion.
+'i
+If cognitive structures and the continuity or lack of it between
+animal and human knowledge are to become pieces in tie debate
+between subjectivism and objectivism, we need to ascertain what the
+cognitive structures of man and various animals are like, to what
+extent, if any, they report a common reality, to what extent these
+
+In their counter-argument for realism and ohjectivism, Popper,
+Campbell and Lorenz call for a new epistemological science of
+comparative apparatuses. To suggest the argument involved, one
+needs I) to show the vicariousness and indirectness of all cognition;
+and, 2) to engage in some comparative studies of cognitive structires.
+The first task is as significant as the second. Whereas traditional
+subjectivist epistemologies begin with direct, immediate, unproblematic sense experience, Campbell and Popper want to demonstrate the
+
+468
+
+469
+.1
+
+,i
+indirectness and problematicality of sense experience. Popper 1ia3'j
+c course done this for many years with his criticisms of the vieithj
+"Truth is manifest", and his thesis that all sense experience is theor3&4
+impregnated.
+Take the example of the electromagnetic spectrum to show
+indirectness of perception.
+
+10
+
+10
+
+10'
+
+10.12 10.10 10
+
+10' 10' 10
+Ligrir waves
+
+.102 i4rii-
+
+1
+
+i
+
+_____
+
+i
+j
+ado ves
+
+'d,,'
+.
+
+rajj3s:rareLJjft±
+
+Although the entire spectruni ranges in wavelengi from less
+than one billionth of a meter to more than a thousand meters, thà
+visible spectrum appears as but a tiny slice of the entire energy band
+we can see in only that small section between 400 and 700 billionth
+of a meter. Man has no direct access to information carried withh4
+he larger part of this spectrum, Our senses do not imrnediatel
+respond in this realm. Cosmic rays, gamma rays, X-rays, radio waves
+we live in an electromagnetic sea, as it were, and nonetheless thes'
+do not register unassisted on our eyes, pr any other sense orgaiis
+Our sensory apparatus in effect filters out all except a narrow band
+of light waves, Prior to the discovery of the spect ruin of electrd1 magnetic waves and prior to the invention of apparatus to tap)
+channel, and register X-rays, radio waves, and such like, the reatm*'
+of existence and knowledge now opened by them were beyond
+human ken.
+\Vhy should men - and the vast majority of animals
+b6
+oriented to the external world principally through the light spec
+trum?
+Campbell provides a simple explanation (p. 414). Vision is th&;
+opportunistic exploitation of a coincidence: the coincidence ot,
+locomotor impenetrability with opaqueness within a narrow band of .;
+light waves. Within this band, air and water are both transparent and
+locomotor-penetrable On other wave lengths the coincidence, and'
+
+thus the cue value, disappears. As Campbell remarks, both clear glass
+and fog are paradoxical in this context - the first being clear but not
+penetrable, the second being penetrable hut not clear. Modern man
+now exploits another coincidence of the electromagnetic spectrum radar - in order the better to cope with fog.
+Campbell's account suggests that locomotor activity is epistemologically prior to vision, The problem of the paramecium, for
+example, is to put itself in a nourishing and nonnoxious econiche. It
+solves its problem through blind variation of locomotor activity -.
+locomotor activity which begins when starvation approaches'and
+ends when the organism is sated - or has been killed in the search.
+Its exploration is - relatively speaking - direct and non-vicarious,
+the main ontological presupposition of its activity being the l)henomenal experience of a greater spatial than temporal discontinuity:
+that change relevant to nourishment appears more rapidly by moving
+around than by standing still.
+The numerous epistemologicaily relevant organs and activities
+that have been laid on top of locomotor activity in the course of
+evolution are indirect and vicarious. For Campbell, all knowledge
+processes, upon being examined in continuity with evolutionary
+sequence, turn out to involve mechanisms at various levels of
+substitute or vicarious functioning, hierchically related. At each level
+a process of retention operates in accordance with principles of
+natural selection.
+The levels of vicarious and indirect knowledge processes charted
+by Campbell include vision, habit, instinct, visually and mnemonically suported thought, socially vicarious exploration, language,
+science, and others.
+Vision S a vicarious and indirect as radar. Radar is used - by a
+ship for instance - as a substitute for locomotion. Instead of
+exploring its environment directly, with all the attending risks, the
+ship sends out radar (and perhaps also sonar). The radar beam is
+emitted blindly and is selectively reflected from objects, the opaqueness to the wave band vicariously representing the locomotor
+impenetrability of objects. Trial and error is removed from full
+locomotion and vicariously invested in the radar beam. Similarly
+with vision supported by thought: one has an environment represented vicariously - in the image in the visual cortex. This is utilised
+in a vicarious trial and error search or consideration of potential
+locomotions in thought, and functions as what Popper calls a
+"plastic error-eliminating control." Successful loconlotions in
+thought may be put into overt locomotion.
+Thought and vision may be supported by memory. The environiiicnt may he searched vicariously through an examination of
+representations held in memory, the memory operating as a vicarious
+criterion and substituting for the external state of affairs. Similarly
+
+470
+
+471
+/
+
+:;i
+.1.
+
+CRITICAL SFUIIIS
+for social exploration: social forms of animal life are found subs;
+quent to solitary forms. Within a social organisation, an indivjduaI"
+member may - as a scout, say
+have his own trial and error
+exploration substituted for exploration on the part of the group:
+The scout here is the vicar for the group. What the group learns
+through the vicar is both indirect and vicarious. The "ontoIogjca
+assu mption'' here is fairly definite: it is assumed that the vicar Is
+exploring the same world as that in which his group is living, and
+that that common world is moderately stable - sufficiently so for
+the experience of the vicar to hold, vicariously, for the group.
+Language also functions vicariously, enabling the results of the
+VICaT search to be relayed to the group without either locomotion
+or visual representation. Underlying it is the discovery of tlie
+representahility of things and actions by words.
+Science, tradition and culture are also parts of the vicarjou
+cognitive 1rocess of biological and evolu tionaty importonce. To
+explain the way in which they work Popper's inca of Ohjecive Mind
+- or World I, \Vorld 2, and World 3 -- is particularly usefu. This is
+indeed one of the most important new concepts that Poper has
+introduced during the past fifteen years; it dominates Objective
+l'now1edge, and it plays a large role in l'opper's own presentation in
+lie Schilpp volu me (al thou gli not in he discussion by the con
+ributors, many of whom wrote their contributions prior to 3opper's
+publication of the three worlds notion). The notion serves to convey
+in a nonmystical way the kind of thing that Teilhard de Chardin'
+called the "nobsphere".
+l'opper refers to the physical universe as li'orla 1, and to the
+world ot subjective conscious experience as lI'orld 2. And he uses thI
+term World 3 to refer to the realm of such things as tli logical
+contents of books, libraries, computer memories, the logical stm
+ture of arguments, the objective problem situation at any time inà',
+particular science. This t bird world -- which obviously arous'.
+Popper's chief interest - is, he contends, a "natural product of the.
+human animal, comparable to a spider's web." This world is.
+objective and autonomous, and exists independently of being real-,
+ized in the subjective conscious experience of any human individua1.:.
+it is "objective mind''. The objective contents of World 3 phet4
+omena are potentialities, "So it is,'' Popper writes (Objeclive ç
+Knowledge, p. 117), "with all ecological niches. They are potentialP.
+ties and may be studied as such in an objective way, up to a point.
+independently of the question of whether these potentialities wi1l
+ever he actualized by any living organism."
+'[hose aspects of the contents of \Vorld 3 which are intended t93
+represent the physical world (World I) may be consulted vicariously
+in lieu of consulting World I directly. Indeed a double vicariousnesSi
+and indirectness comes into play here. World 2 experience can sex:1
+
+both as a vicarious representative of World I ind as a vicarious
+representative of World 3, which is in turn a vicarious representa thIn
+of World I. World 2 experience can conduct an exploration of World
+3 in lieu of conducting an exploration of World I. And World 2
+experience can explore World I in order to test World 3 In the tatter
+case, available experimental evidence is a' crucial part of those
+econiches to which theories adapt. As Campbell put it (1960. p.
+334): ''At this level there is a substitute exploration of a substit ivth.
+representation of the environment, t hc 'solo lion' being selected from
+the ... exploratory thought trials according to a criterion which is in
+itself subs titut log for an external state of affairs." These processes
+are obviously vicarious and indirect, manifoldly interrelated, and
+rely heavily on feedback. In an econiche infused with culture - in
+heavy contact with \Vorld 3 one can lead a most abstract existence
+'abstract' with reference to vicariousness and indirectness of one's
+contact with World l. One can use World 3 to cut oneself off from
+World I, just as one can use World 3 to sharpen one's questions
+about and one's participation in World I
+'[lie examples and instances given so far indicate in broad
+out line, with little de tail, the thrust of the argument for the
+importance of vicariousness and indirectness in evolutionary episteniology. Next 1 wish to turn to a few examples of comparative
+cognitive structures, before indicating how Popper, Campbell and
+Lorenz use this information in argument against subjectivisns and
+idea lis in.
+
+VII
+Return first to the examples of the microscope and the
+photoprint. If there were microscopes of but one power in nature,
+one might conclude that structures were only 'conceivable' up to the
+fineness which such microscopes resolved, and that to speak of finer
+structures is meaningless. Once one knows of microscopes of
+different power, one conies to a different cqnclusion. Suppose, for
+example, that there is a less strongly resolving lens which registers
+brown for structures which are still visible as structures by the
+original instrument. One will hardly be inclined to think its power of
+resolution as delimiting reality! Any microscope will be limited in its
+achievement; even the most powerful lenses have limits as to the
+fineness of the structure which they resolve. There will he no reason
+to conclude that any particular limitation says anything about the
+character - let alone the conceivability - of the external world.
+As to the photoprint, l'opper, with Campbell and Lorenz,
+contends that our neural apparatus for organising an image of the
+world is indeed rather like a photoprint screen, and cannot reproduce any finer points of the external world than are permitted by
+the net which is heiig used. "Just as the grain of the photographic
+
+472
+
+473
+
+1
+
+%'.W. BARTLEY, 111°
+
+negative permits no unlimited enlargement, so also there are limita.'
+tions in the image of the universe traced out by our sense o'gaRs and
+cognitive apparatus." (Lorenz, p. 30). But in different organisms,
+this can happen in a more or less complex manner. As Lorenz puts
+it, "if one examines methodically what the cross-stitch Yt:presentaion permits to be stated about the form of the thing-in-itself, the
+conclusion is that the accuracy of the statement is depenoent upon
+the relationship between the size of the picture and the g'sin of the
+screen, If one square is out of line with a straight-line contour in the
+embroidery, one knows that behind it lies an actual projection of the
+represented thing, but one is not sure whether it exactly fills the
+1: - vh5l square of the screen or only th sniallest part of it. This
+question can be decided only wit/i I/se help of I/se ne.:t fines:
+screen." (p. 30).
+
+In a parallel way, by surveying the cognitive apparatuses of
+:'nimals other than humans - in effect by consulting' less line
+screens
+one undercuts the idea that the limits of the most recent
+evolutionarily speaking) human cognitive apparatuses define the
+linmits of the external world. It has long been known, and argued by
+Sisnmel, Uexkiill, and others, that the phenomenal worlds of animals
+differ from one another and from man's. The boundaries separating
+what is experienced from what is beyond experience differ for each
+sort of organism. 'l'he frog provides a good example.
+The vision of the frog, like radar, ignores many dimensions of
+the external world which are visually present to humans. An M.I.T.
+research group consisting of Lettvin, Maturana, McCulloch, and
+Pitts8 devised an experiment in which visual Stimulation could be
+offered to one eye alone of an immobilized frog. The frog was
+situated so that its eye was at the center of a hemisphere seven
+inches in radius. On the inner surface of the hemisphere thus
+created, small objects could - with the use of magnets - be placed
+in different positions and moved from one position to another. •?
+Microelectrodes were implanted in the frog's optic nerve to measure ;
+electrical impulses sent to the brain by the eye. In the course of ''
+presenting various objects, colours, and movements to the frog, the
+investigators discovered that only four different kinds of messages "k
+were sent from the retina to the brain. Regardless of the complexity '
+and differences present in the environment, the frog's eye is
+equipped to transmit only a few different kinds of messages and
+filters out -. or simply cannot register - any additional information
+presented,
+McCulloch and his associates termed the four different kinds of
+visual activity registered by the frog: I) sustained contrast detectors;
+2) net convexity detectors; 3) moving edge detectors; 4) ne
+dimming detectors.
+The first provides the general outline of the environment. The
+474
+
+CRITICAL STIJbIES
+
+'
+
+third enhances response to sudden moving shadows - such as a bird
+of prey. The fourth responds to a sudden decrease in light, as when a
+large enemy is attacking.
+The second - the net convexity detectors - respond neither to
+general changes of light nor to contrast, but only when small dark
+objects come into the field of vision and move close to the eye.
+As McCulloch and his group put it, commenting on the frog's
+resulting behaviour: (p. 231):
+"The frog does not seem to see or, at any rate, is nor concerned with the
+detail of stationary parts of the world around him, lie will starve to death
+surrounded by food if it is not moving. Ills choice of food is determined
+only by size and movement, lie will leap to capture any object the size of
+an insect or worm providing it moves like one, tie can be fooled easily
+not only by a bit of dangled meat but by any moving small object. .. Ills
+choice of paths its escaping enemies does not seem to be governed by
+any t king snore devious I Is an leaping to where Ills darker."
+
+TItus the vision of the frog differs from that of men with respect
+to quantity and quality of information conveyed, not with regard to
+vicariousness and indirectness, The frog does not inhabit a different
+objective world; what he sees does include fewer details, and these
+are reproduced through a coarser screen. From the vantage point of
+our own cognitive achievements we would not take seriously the
+claim of an idealistically disposed frog that the limits of his
+experience define the limits of the world, or that it is meaningless to
+speak of the sorts of things which he cannot perceive.
+As the visual world of the frog differs from our own, so does the
+spatial world of the water shrew. l'lse water shrew masters its living
+space almost exclusively by path learning kinesthetically acquired
+through trial and error movement. Whereas a man can master a
+spatial problem t)y a simultaneous clear survey over the data, most
+reptiles, birds and lower mammals lack this capacity. The water
+shrew commands its space through kinesthetically ingrained movements known by rote so precisely and exactly that there is virtually
+no steering or control by optical or tactile means, The human being
+can approximately understand what is going on for the water shrew
+for he is able to behave this way himself, as for example in a strange
+city for which he has no map. But the water shrew, presumably,
+would not be able to understand the human's way of mastering
+space through simultaneous clear survey. As Lorenz puts it, "basically, we can comprehend only the lower precursors of our own
+forms of perception and thought."9
+The spatial world of an animal may be even stranger than this
+example would suggest, A primitive locomotor animal might have a
+thirst space wliicl it uses when thirsty, a separate hunger space, a
+separate escape space for escape from each predator, a mate-finding
+space, and so on for each utility. Only with a higher stage of
+I.
+
+I,
+ii
+
+ci
+
+475
+
+l tr
+
+W.W. HARTLEY, ITT
+
+CRJTTCAT. Sitt)TES
+
+evolution does the hypothesis emerge that these spaces are the same
+or overlap. And this hypothesis amounts to hypothetical realism.
+The white rat, the cat, the dog, the chimpanzee, all ha,e access
+to this stage: spatial learning achieved in the service of one '.tily is
+availa ide i in mediately for a not her. Accompanying this thcr. cm rges
+curiosity about all possible spaces, a trait with survival value. "The
+X different Urn wclieii of different a nimals,'' Ca iupbell conclud es, ''do
+represent in part the differential utilities of their specific ecological
+niches, as well as differential limitations. But each of the separate
+cohtours diagnosed in these Urnweltcn are also diagnosable by a
+- •.:ompie Ic physics, which in ad (lit ion provideS many dif ferentia
+unUsed and ii nperceived by any organism." (p 448).
+VIII
+The examples presented will provide the reader with some
+impression of the kind of argo ment that emerges from this discussion by l'opper and ('a inpbell. The argument provides no "knockout'' of idealism, but it (Toes utilise scientific data in an interesting
+way in I lie service of analytical insight. It should change the context
+in which realism is debated. At the very least, like so much of
+Popper's work, this argument has the merit of setting epistemological inquiry in a context in which linguistic philosophy and
+cominonsense realism can no longer be taken seriously.
+The upshot of the argument is, I suppose, that when we
+consider the i nd ircc t ness and vicariousness of cognition v it bin any
+particular animal, and also the differences in cognitive apparatus
+from one animal to another, we see that the various vicars and
+apparatuses make no sense individually or collectively in their
+mutual integration, hierarchial arrangement and controls, except by
+reference to a Comm 00 external world, in which they function and
+in connexion with which they have evolved. Each of the vicars kinesthetic sense, vision, language, scientific representation, and the
+/ various others -- has evolved separately and can be explained in
+terms of natural selection survival value only by reference to the ,
+others and to an external world. The different imperfections and
+limita t ions of each of these can be separately demonstrated. The
+way in which the various vicars complement one another, check and
+partly compensate for the inadequacies of one another, makes no
+sense apart from a common reality, From the height of our highly
+complicated cognitive apparatus we can understand the way in
+which the spatial and Other cognitive equipment of various animals
+approximates, in however imperfect a way, to devices more elaborately and complexly developed in ourselves; and we can suppose that.
+we and these animals.have evolved in our diverse ways while coping
+with a common environment. We can guess at the features of this
+
+476
+
+.
+
+external environment as it transcends our evide)ce by analysing the
+ontological presuppositions of the vicarious devices, including the'ories. used by ourselves and by animals in cognition. As Campbell puts
+it, ''Biological theories of evolu t ion . . . art' profoundly commit ted
+o an organisni-environmen t dualism, which when extended in to the
+evolution of sense organ, perceptu at and tea?ning functions, becomes
+a dualism of au organism's knowledge of the environment versus the
+environment itself.''
+'Moreover, modern science and physics do give us a standpoint
+froni which we can even criticize and evaluate our own cognitive
+apparatus. Even if we assume with Kant that built-in categorical
+notions of space and causality determine our phenomenal experience, we can wit bin modern physics correct for the ''Newtonian
+bias" of our own perceptual apparatus, just as we can transcend the
+light spectrum by the aid of exosomatic theories and inventions
+which make it possible for us to tap energies and wavebands
+unknown IC) ancestors who, perfectly like us physiologically, yet
+lacked our theories and inventions.
+
+Ix
+As witl be evident from my sympathetic account of Popper's
+and Campbell's views in t lie foregoing, I have no serious objection to
+Popper's application of biology and evolution theory to issues of
+epistemology and philosophy. Much of it seems to me brilliantly
+suggestive, even though at this stage it is still quite programmatic. As
+('a mpbcll hi niself summed it up ''These several d ispa rate corn men ts
+scarcely begin the task of relating the critical-realist, naturalselection epistemology to the recurrent issues in the history of the
+theory of knowlcde. Potentially it can provide a dialectic resolution
+to many old controversies. l3tit spelling out the points of articulation
+with the main body of epistemological concerns remains for the
+most part yet to he done." (p. 450)
+Nonetheless, serious difficulties arise from Popper's accounts of
+biology and evolution, and in turning to these I must now take up a
+somewhat more critical stance. I wish to mention the question of the
+01 ginality and adequacy of Popper's contribution to evolution
+tteor' and also his new interpretation of the status of evolution
+theory.
+'l'he first question is that of the originality and adequacy of
+Popper's contribution.
+What Popper himself describes as an ''important contribution to
+a theory of e.volution of the Darwinian type" that "considerably
+extends" the theories of J.M. Baldwin, C.!!. Waddington, G.G.
+Simpson, and Erwin Schrödinger, is directed to what Popper describes ,as the problem of orthogenesis, or spontaneous direction in
+evolu tiorL
+
+.
+
+4
+
+/
+
+477
+
+1
+
+ç
+
+'I
+
+W.W. BARILEY, III
+
+-
+
+Although the way in which Popper uses this term, as well as his i
+perception of the problem, are not common among contempozt
+geneticists, I shall examine his discussion on its own terms.
+The problem as Popper sees it is that the idea of evolution fronj
+random variation - which is an important part of Da winian and ..
+"new synthesis" evolution theory - seem to be prima facie almost
+absurd. As we have seen, Popper accepts the idea of random,..
+variation (or ''blind variation", to use Campbell's terminology), and .
+- also like Campbell - he wishes to explain how it might function
+despite the prima facie evidence to the contrary.
+As \Vaddington, himself a Darwinian, posed the problem: "To
+suppose that the evolution of the wonderfully adapted biological
+mechanisms has depended only on a selection out of a hapahazard,
+set of variations, each produced by blind chance, is like suggesting
+that it we went on throwing bricks together into heaps, we should
+eventually be able to choose ourselves the most desirable 'house."'°
+It is the 01(1 problem of the monkey at the typewriter eventually
+typing out Shakespeare. Waddington, Popper, and many contemporary evolution theorists are unable to accept Sir Julian Huxley's
+contention that "The hoary objection of the improbability of an eye
+or a hand or a brain being evolved by 'blind chance' has lost its
+force" because ''natural selection operating over the stretches of
+geological time" explains everything.
+Quite the contrary, in the
+time available the adaptations required are virtually impossible on a
+random basis.
+To use Popper's formulation of the problem, Darwin's theory
+appears to expect that evolutionary sequences will be of a randomwalk type: an example of a random walk being the track described
+by a man who consults a roulette wheel at every Step to determine
+the direction of his next Step.
+Yet, and here is the problem, random walks are not at all
+common in evolution. How then, within evolution theory, can one
+explain the presence of nonrandom walks?
+According to Popper, the problem consists in I) supposing that
+the ''selection pressures'' will all be external or environmental and in
+2) concentrating on anatomical rather than behavioural change.
+l'opper suggests that there are internal as well as external selection
+pressures, and that the internal selection pressures take the form of
+plastic controls on the part of the organism (itself a system of plastic
+controls). The chief internal selection pressure will come from -.
+behavioural phenomena which include preferences or aims (which :
+are dispositional in character) of the organism.'2 These behavioural :'
+controls are given a genetic base; thus Popper postulates that
+different sorts of genes may control anatomy and behaviour, the
+latter in turn being subdivided into genes controlling preferences and
+genes controlling skills. These operate hierarchically in mutation.
+478
+
+-
+
+CRITICAL STUDIES
+
+Changes in preference structure will precede changes in skill structure, which in turn will precede changes in 'anatomical structure.
+Popper gives a number of examples - the woodpecker, an airplane
+with an automatic pilot, etc., - to illustrate his point, and argues - I
+think successfully - that were changes in anatomical structure to
+precede changes in skill and preference stn,cture, the result would
+tend to be lethal. The preference structure is in any case, on his
+account, the spearhead of evolution. (This in turn helps explain the
+apparent phenomenon of evolution towards higher and more iniplex forms of life. Popper proposes that those things judged to be
+higher forms of life will have behaviourally richer preference struclures. These preferences are dispositional and need not be conscious;
+they may become conscious - and this leads to another problem,
+that of the emergence of states of consciousness.)
+This account puzzled me when I first heard Popper present it in
+I 961 in Oxford, when he delivered his Spencer Lecture on "Evolution and the Tree of Knowledge." It puzzled me again in 1965 when
+I heard him give the Compton Lecture "Of Clouds and Clocks" at
+\Vashington University in St. Louis. Now I have had an opportunity
+to read carefully over it again, both in Objective Knowledge and in
+the Schilpp volume, and the puzzlement remains. It is not that I
+disagree with what Popper says; quite the contrary. I have no idea of
+what l'opper suposes his new contribution to evolution theory to
+be - despite reading his words over and over again with the
+conviction that I must have missed Some crucial passage.
+That behavioural and structural or anatomical mutation must be
+distinguished and that behaviour is the spearhead of evolution are
+now common contentions in evolution theory. As R.F. Ewer wrote
+in 1960: "Behaviour will tend to be always a jump ahead of
+structure and so play a decisive role in the evolutionary process."'3
+Waddington, one of the most widely read writers on these
+matters, has been quite explicit. lie writes:
+"The general idea that the first step towards a new evolutionary change is
+for the animal to acquire a new habit, or a new mode of behaviour, is one
+of the fundamental ideas advanced by Lamarck. It goes back long before
+the Baldwin effect. I am sure it is a very important point, although not an
+absolutel% general one, since it is obviously difficult to apply it to
+plants."'
+Here one has, in a few brief sentences by \Vaddington, both
+what appears to be Popper's chief point, and also an objection to the
+generality of the theory which Popper himself never mentions. In
+the discussion that follows, Wadhington explains, in conversatior
+with Arthur Koestler and Paul A. Weiss, that his point is intended to
+help explain orthogenesis and to reduce the chance or random
+element - or to bring it under plastic control as it were.
+
+I.
+
+/
+
+-
+
+479
+
+H
+
+•
+•
+
+,-
+
+I,,i
+
+i
+
+''I
+
+\V.\V. lIAR LF'I. Ill
+
+Finally, if furt her evidence were needed, Sir Mister hardy's
+(;ifrord Lectures, The I. (ring Stream ,' have as their chief point the
+thesis that behavioural change precedes structural ch.nge. I lardy's
+ideas were first published in 1942, and arc presented most elaborately in his sixth (;ifrord Lecture: "Behaviour as a Selective Force."
+in sum, wit hout disagreeing with Pojper's view, v; hich he calls
+"genetic dualism,'' I find no ground for his content ion that it is new.
+Nor can I find much support for his not ion that it is a rather
+speculative idea, for considerable theoretical anti eniiricaI support
+for it is given by the various ot her writers mentioned.
+Yet it is ii ot hard to discover why Popper should have supposed
+his position original, lie is fa miliar with the studies in biology and
+evotution theory of his friend the late Erwin Schrödinger. In Mind
+and .tlatier
+Schröd inger. like Popper, had distinguished between
+select 'on in fluenced by St ruct ural inut at ion and selection influenced
+b behavioural mutation. But Schri5dinger argues that structural
+change ,'recedes and is then developed by behavioural change. in
+challenging this last point, Popper improves Schrthtinger's account
+but appears unaware that oilier writers of distinct ion reached similar
+conclusions prior to and independently of both his own and of
+Schi ttinger's work.
+
+x
+I lowever I lie issue of the originality of this aspect of Popper's
+thought may be decided, a more important question has to do with
+the adcquaci' of his account in cx pb i ning ada pta t ion, on hoge nesis
+and retated problems. Although l'opper presents his idea modestly,
+lie evidently thinks that his posit ion is, if correct, adequate to solve
+the problems of ada ptation and to deal with related problems arising .
+from cx pla nit tion by random uiut at ion, lie writes of ''mi' solo lion of .
+I9 While the idea that behavioural 9,
+he problem I of oil hogenesis
+change leads structural chit nge does help .t o explain ort hogenesis a iid "s
+also
+as Popper points out - explains and corrects, and simulates, ,
+other unsuccessful attempts to do so - such as vitalism - it is .
+inadequate by itself to coordinate the doctrine of random selection
+anti the facts of phylogeny.
+To explain why Popper's theory is inadequate one must identify a
+two separate lines of approach to the problems connected with
+nrt hogenesis. Discussion of these two ii pproachcs inigh t be tntidd ied
+c
+somewlia I due to an union itnat c I cmii nology : both approaches are
+described by their proponents as being concerned with internal
+selection, as opposed to external environmental selection, But
+some thing en tit ely oh ifferent is meant by the term ''internal" in the j;;
+two cases.
+,
+The first case is that just discussed, wherein writers such a
+Ewer, Waddington, I lardy and Popper have stressed the inportance
+
+of internal behavioural selection stenining from changing dispositions and habits of I lie otgauisnt. fliis a pproach cau be thoroughly Darwinian: Popper has, so lit' buasts. kept ''strictly within
+the logical hounotanies" of an orthodox neo-Darwinisni or "New
+Synthesis" fra mework.
+The second case is different. ilere the idea of internal selection
+refers not to the organism's internal dispositional states but rather to'
+"coordinative conditions" (Whyte's term) of biological organisation,
+conditions under which life may evolve at all. These ciimlitions
+restrict the range of possible muD tions on the basis neil her of the
+facts of the external ecological niche nor of I lie internal dispositional
+state but rather on pre-conipetitive internal genetic grounds. This
+kind of selection is non-Darwinian and supplements and complements Darwinian theory by adding a separate source of selection. On
+his account, mutations reaching the external test have previously
+been sifted internally. These organisational restrictions in effect
+define unit ary laws underlying evol ut iona ry variety. Although pernutting unlimited variations, they restrict tIme variations to a limited
+no niber of themes, thus confining evolution to particular avenues
+not defined or determined by external factors. Thus there is not
+only selection at the phenotypic level but pre-selection at the
+molecular and chromosomal levels. (It is essential to the argument
+that this pre-selection is not rando in: this argument is presen ted in
+great and convincing detail by Whyte.) External factors, then, only
+come into play on those mutations which have passed the internal
+conditions.
+Prominent writers on this second type of internal selection
+include L.L. Whyte, W.1I. Thorpe, Ludwig von Bertalanffy, Arthur
+Koestler, helen Spurway, and A. Lima de Faria. Popper ignores this
+kind of internal selection and appears unaware of its existence.
+According to this second view, then, a variety of internal but
+non-behavioural plastic or hierarchical cofltrols play a significant role
+in phylogeny. 'l'hese have not yet been specified in detail and the
+evidence for them is, although persuasive, as yet indirect.
+Some nice examples illustrate both the problem arid time solution. 'rake the case of the marsupials, the pouched animals living
+chiefly in Australia of which the kangaroo is perhaps the best-known
+example. The friarsupials differ from phacentals in their mctlmo(l of
+reproduction: (lie marsupial embryo is horn in a relatively imumat tire
+slate a mid Is reared in the pouch on its iii ot her's belly. N OW most
+mammalians are either marsupials or placentals, the marsupials
+having evolved along a parallel but quite separate and independent
+branch of the evolutionary tree from that followed by the placentals. These two lines were firmly separated at the very beginning of
+mammalian evolution, in the reptilian age, and have independently
+developed from some common nuouselike ancestral organism. Aus481
+
+480
+/
+
+a
+
+W.\. IJAItILLY, Ill
+
+C RI IIC, I . I i Iii ES
+
+tralia was cut off from the mainland some time during the t
+Cretaceous; the marsupials, which are thought to have evolv
+earlier than the placentals, got to Australia before it was cut off.
+whereas the placentals apparently did not.
+The striking thing is that the surviving marsupials and placentaI.
+are very similar phenotypically despite their different reproductiv&
+systems and their independent histories.
+The illustrations given show the problem more dramaticall?çc.;
+than any verbal description. On the right are a series of placental4;.j
+mammals; and on the left are thei opposite numbers among:4
+marsupials.
+
+I
+
+a
+a. the marsup at jetboa (A ntcchinotnys !a'ti?lgcr) and b, the placen tat jerboa''
+(l)ipus hirtipes) Alter I rottghtoii'a FutTCd A ,,i,,,aLc of A ustralia and the
+Cambnlgc Na turn! Ilistor)'.
+i':;'
+
+'I
+
+a, a marsupial flying phatanger (Pctauns sciureus) and b, a placental flying
+squirrel (sciurop:ens volucdlla). Alter I tardy, and L ull's Organic Evolution.
+
+I.
+
+)j
+
+.,
+
+/1
+
+The marsupial Tasmanian wotf, J'I,yIncisluS cynoceplla!us, with betow, a, It,1
+skull compared with b, that of the placental wolf Cattle lupus, drawn to the
+same scate. Front Sir Alister llardy, lite living Stream, after spelmens in they
+Oxford University Museum.
+
+482
+
+In tile course of evolution, the mouselike ancestral marsupials,
+confined as they were to an island continent, branched out in the
+evolutionary tree and gave rise to pouched versions of moles,
+atit-eaters, flying squirrels, cats and wolves, each of them a rough
+copy of the corresponding placentals. There are to be sure some odd
+creatures on Australia: the kangaroos and the wallabies, to which
+there are no corresponding placcntals. But for the rest, Australian
+fauna consist of replicas, perhaps not very good replicas, of placental
+types.
+The idea that this parallel and totally independent development
+just happened to occur as a matter of random variation in the face of
+comparable external environments is preposterous. Adding internal
+behavioural pressures does not solve the problem either, although it
+no doubt helps somewhat.
+Thus this example seems to confirm the hunch that internal
+laws govern and lintit evolutionary variety. While the case of the
+marsupials is perhaps the most dramatic, other examples support a
+similar diagnosis. There are, for instance, the quite striking geometrical relationships shown in d'Arcy Thompson's study On Growth
+
+4
+/
+
+483
+
+It
+
+Iii
+
+'-''I--..'.
+
+and Form (1917). thompson discovered that when he placed
+('artesian co-ordinates over the shape of one animal, and theñ'
+examined the shapes of others belonging to the same zoologica
+group, the form of one species could usually be transformed into.
+that of another by a relatively simple mathematical distortion of the '
+plan. Comparing the sun fish and the porcupine fish, as illustrated,
+one sees that while the pattern has remained the sa tue it has been
+eve oly distorted to a mathematical prescription. This phenomenon is
+by no means isolated, but has Sweeping a pplication, as ShoWn in the
+secon il and third illustrations.
+Similar arguments for the basic idea of a limiting internal
+restflction on variation can be adduced from the wide-ranging field
+of homology. I do not know whether one may fully explain the
+phenomena of orthogenesis and of structural relatedness even by
+coriibii:ng the behavioural spearhead I henry (of Waddington, 1 lardy,
+Ewer. PolTer, e I al. ) with the theory of internal selection (of Why te,
+Koestler, von I3ertalanffy, et at.). These two types of internal
+
+-
+
+Skulls of baboon, chimpanzee and man. After 1)'Arcy Thcmpcon.
+
+selection, different as they are from one another, appear more
+adequate to this task together than they are separately.
+
+Two closely related species of deepwater fish are here outlined. The first Is
+he oblique
+l rgvropelect's olfersi, and on the right is S(ernop zyx diaphana. 1
+co-ordinates on the second fish hear the same relations to its anatomy as do
+those on lhe first. After l)'Arcy Thompson.
+
+xl
+That Popper should have neglected these widely known phen0123456
+:'
+
+rwo closely ida led fish are here oulltned: Diodon (porcupin, fish) and th
+sun-fish Ortliagoricciiz. The coordinates on the latter fish bear the sami
+relations to its anal onsy as do those on Diodcn,. After I) 'Arcy fho nipson.
+
+484
+
+owe mi and ideas and lii is alternative, a iid potentially complementary, form of internal selection is not ciit'irely coincidental. For it
+would be difficult to assimilate such material without sacrificing his
+parallel between the growth of knowledge and the evolution process.
+This means that his new synthesis, unifying or attempting to unify
+the various divergent aspects of his philosophy, would come to grief
+at this point. Let me explain.
+Popper is a critical Kantian, as he himself explains time and
+again. The word "critical'' is all important. lie permits no synthetic a
+priori in Kant's sense of unmodifiable structures forming experience.
+All knowledge structures are modifiable. Kant's error was in supposing that his categories were necessary and final, beyond inodification. -
+
+4
+/
+
+485
+
+•I -
+
+:I(t tL
+
+But here in living forms, as in the examples just surveyeJ
+we find some evidence of structures which are unmodifiable
+radically Ii noted in their modifiability, "biological archetypes" a
+Arthur Koestler calls them, whose full recognition seems to impose
+an a prior, element in biological development.
+To the extent to which coordinative conditions cannot be
+modified in biology and evolution, the evolution process is not
+parallel to the process of the growth of knowledge as conceived by
+Popper (a process wherein all structures arc open to modification or
+revision through criticism), If so. Popper's synthesis, the bedrock of
+his later work, fails. the exosomat ic evolution continuing in the
+growt Ii of knowledge follows laws different from the endosomatic
+evolution from which it springs. In particular, the e ):oomatic
+process (toes not have the same limiting conditions as the endoSOnia tic process, I ncleed, one in ight speculate (ha t just wit Ii the
+etnergenc" of consciousness does life transcend its own cqordinative
+CO n (lit ions.
+'lIt crc is another i to port ant difference lou between the growth
+of knowledge and the evolu t ion p rocess. One way to clia ra:t erise the
+problem of Popper's epistemology is this: how to create the most
+lethal possible environment for ideas in which the proLluelion of
+ideas nonetheless thrives. Yet within the area charted by this
+problem one may sport: k nowing how to create such an environment (toes not mean that one need do so. One may prefer to permit
+a fledgling idea to develop just in order to see what happens.
+Although one speaks of nature's sporting with organisms too, surely
+one sports wit Ii ideas in a freer and more deliberate way hin is open
+to nature in its sport with organisms. On the other hand, here is no
+aim governing t lie evolutionary development of organisms in accord-- .
+ance wit Ii which a Ic thaI environment need be created for those
+organisms! In brief, t lie evolu tio nary development of ideas is '
+governed by a meta-aim - itself a 'plastic control - the elimination.
+of falsity; whereas no meta-aims govern the evolutionary development of organisms.
+
+My remarks here arc somewhat speculative: to determine the
+precise differences between the limiting conditions (if any) of the
+growth of knowledge and the limiting conditions of the evolution
+process is an ext remely important task which is not conceived, let .'
+alone attempted, by Popper.
+
+having argued that Popper's views on biology and evolution aré1c
+neither original nor adequate, I turn to his treatment of the status of
+,.,
+evolution theory.
+
+Popper had already in his earlier work been concerned with thè",''.
+status of evolution theory, lie had in l'l,e Fot'ertp of Ilistorici.r,n
+
+..
+
+(1945, pp. 106ff.) criticised the notion that evolution theory
+constituted a universal scientific law comparable, say, to that of
+Newton. Conceding that it was scien iifjc in character, lie described it
+as a particular or singular historical hypothesis "concerning the
+history of the various species of animals and plants on earth. " " It ts
+of the sante status," Popper explained, "as the historical statement: .
+'Charles 1)arwin and Francis Galton had a 'common grandfather.'
+Popper has evidently come to change his mind during the past
+two decades, and is now concerned to argue that evolution theory js
+not only not universal but is also not scientific. It embodies, ratliet.
+a metaphysical research programme, is ''almost tautological," and is
+best understood as ''applied situational logic.'' Popper is by no
+means alone in maintaining that evolution theory has tautological
+elements. Thus Cli. \Vaddington writes:
+"The general principle of natural selection, in fact, merely amounts to tIre
+stament ttta t the md ividuals wInch leave most o ffspring are those w hich
+leave most offspring. It is a tautotogy."
+Popper makes the same point in sitnilar words; and L.L. Whyte
+makes a related remark:
+"Owing partly to the absence of any (I irect test for adaptive fitness, the
+
+theory appeared to some to be capable of being adjusted to account for
+every conceivable kind of evolutionary change, not merely those which
+have actually occurred."2t
+Whyte appears to suggest that a theory that explains everything
+a thoroughly Popperian
+does not adequately explain anything
+point. But he does not go as far as do Waddington and Popper
+Whyte maintains that the criticism is at least partially met by
+mathematical developments of the theory which have been experimentally tested.
+I do not believe that evolution theory is either nonurtiversal or
+tautological or nonscientific. I understand and appreciate why it
+should seem to Popper and others to be so; hut I suggest that this is
+a misperception.22
+Popper has himself, in his work on the methodology of the
+physical sciences, explained how a theory which seemed to its
+originators and early admirers to have great content can become so
+familiar that later proponents regard it as definitional or (autological. Popper's own example is of Newtonian theory, which by the
+late nineteenth century came to be regarded by many physicists as a
+system of definitions rather than a theory about the real nature of
+the universe.
+Something of the same sort may be happening in Popper's mind
+i'is a vis his own theory. I have in mind here his theory of learning
+through conjectuie and refutation, which he himself explains in
+terms of what lie calls "situational logic." his learning theory is of
+-
+
+486
+
+487
+
+-
+
+/
+
+-
+
+-'
+
+'I
+
+u:t tic
+
+W.. JIARI I I\ . Ill
+
+\i.
+
+II! -
+
+• if
+course closely connected with his views on evolution theory hyhf
+theory that the growth of knowledge and (he course of evolution are
+closely parallel processes - both of them proceeding by trial
+error and to be analysed in terms of situational logic.
+If one is not familiar with alternative theories of karnin
+Popper's theory of learning by conjecture and refutation may well
+Seem trivial. Yet his theory conflicts, both logically and empirically
+wi iii rival t tieories of learning, in clu ding in dIiC tivism a 11(1
+behaviour.
+isin. Popper's learning theory does not simply conflict with alte.
+native theories (which would be compatible on his view with the
+sugges (ion that it is a nieta physical view); it also conflicts with
+suggested facts as interpreted by those theories.23 lbs learning
+theory also incorporates some ideas about the nature of man and
+rejects others - such as the "bucket theory of the mind," or the
+rosa (Ii ro ry.
+13 the same reasoning, the Suggestion that evolii lion theory is
+empty or even ''nearly e mpty'' must also be reject ed Even if
+evolution c/ui occur simply through the' situational logic of mutation
+am! atlaptat ion, evolu tioii theory would be far from empty
+Since
+Popper's situational logic of conjecture and refutation is not empty,
+Moreover it is far from trivial to combine the two: i.e., to claim that
+the evolutionary development of organisms proceed. according to
+tie Saiiie iiiecha ii isms as d OCS the development of k nowkdge
+('cr1 lint)' poten6ai falsifiers are specified in 010-Darwinian
+theory. It speaks not only of survival and adaptation but states quite:
+specifically how evolutionary change may arid may not occur. One
+way in which it may not occur is through 1 amarckiaii irheritance of
+acquired characteristics.24 This claim is falsifiabie. Foi- example, if
+Paul K a mnierer's experiments with a nip hibia ns, including sa lam anders and the famous nud wife toad (A liii's obsic trican,c), had not
+been discredited and in deed had bee mi repea (i'd, evolt! lion tlieory.
+would be in serious difficulties.25 At the very least it would have tó
+be radically mod ified. On the day that the Weismann barrier is,
+breached, evolution theory will be falsified.
+Moreover, original Darwinian theory has been refuted. It is not
+always easy to discuss this mat Icr, since the history of the deveiop
+nient from Darwin to nco-Darwinisrn or "the new synthesis" is not
+as clearcu t as one might wish, in part because its partisans, facing r
+ideological opposition as they did, have not been keen to bare its
+weaknesses to opponents from Christianity or Marxism (e.g., Pavlov
+ians). The original idea of random mutation has been radical1
+,
+modified: the scope of randomness and the conditions under which 'Iii may operatc are significantly restricted - as discussed above - in a
+way that Darwin himself would not have anticipated.
+There is another point here. Although Waddington and Popper
+do a useful service in pointing out how potentially tautologous
+
+ctementS may enter in to evolution theory. it is not clear that their
+own examples are truly ) atitohogistis I or example. to say that 'welt
+2dapted' mere/i means ''has those qualities which made it srirviC so
+far' mends also that ''ad isp ted'' does not in can ''litter'' or ''bet icr''
+in sonic ethical or normative sense. The hist ory of evolutionary
+speculation since Spencer dramatically demonstrates that the pouiil
+just in ade is far from self-evident or trivial.'
+II aving indicated why I can not accept tout court Popper's
+content ion that evolution theory is not refutable' or scientili.and
+ivhiv I regard it as significantly mome than ''trivial." I visti to concde
+part of Ins point, lie stresses that the theory contains a metaphysical
+iescarch progra mnic. Ti) he sure, any demonstration in principle, as
+is l)arwin's, contains a programmatic element. Darwinian theory, at
+least in some of its forms, suggests I Ii at it is always in principle
+possible to reduce teleology to causal ion by explaining in purely
+physical terms the existence of design and apparent PurIlose in the
+world. Yet whether this has as yet been done in even one ClSC
+:Ij)pI.'arS to he cont inversial. Popper claims (Objector' Knowledge, p.
+u7 ): "Neither Darwin nor any Dai\vmian has so far given an actui:it
+causal explanation of this ad aptive evolution of any single organism
+or any single organ. All that has hccn shown - and tins is very much
+is that such explanations might exist (that is to say, they arc not
+logically inipossihk ).'' I ito not know svhicthie'r Popper is right here.
+Many writers on evolution theory, including Sir Alister Ilartly (liii'
+/,oing Strea'n. pp. 116ff.). take a different view, citing (lie ex permental work of, say, iiiibergen and Bernard K ci tiewehl and others
+is evidence that actual causal explanations of adaptive evolution in
+certain olganisms bare now been given: (lie l)arwinian prograniiiie
+liasac tuahly been carried out.
+Of coin se one could even here meint roduce a me tapltysical
+t'henieiit. Alt bough t here are ii ow some uiganistiis for wltich direct
+evidence of adaptive evolution is available, there are of course
+many niany more where there is lit tie such evidence and where (lie
+insistence that there inns! be an explanation that confoniis to
+Da nv inismn does a niou n t to nieta p hysics.
+I lowevcr these things may be. the precise extent of metaphysical and programmatic i'letiients in Darwinism and in contemp0 ra my evolution thi eory, a tid (lie bala nec between these dc me iits
+and definitely scientific elements which also exist in evolution
+theory, remain unexplored ground worth the attention of the
+historian of science.
+
+in 7/ic
+I should in passing like to challenge Popper's account
+Ii
+ich
+I
+presu
+me
+lie
+hi
+as
+now
+w
+(an
+account
+.
+/'i) iCy!)' cif 1/is toricisili
+abandoned, although this is not made explicit) to (lie effect that
+evolution theory does not consist in a universal law but rallier is
+only a particular historical hypothesis about the history of various
+
+489
+
+488
+/
+
+•1
+
+W.W. IL\R I I.EY,
+
+Ill
+I
+
+2<
+C.
+
+,.
+
+species on earth. Thi.c must be Jalse, in view of what Popper himsé
+says in the Schilpp volume and iii Ob/eciii'e Know/edge: U
+i
+definitions of life and the characterisatjons of problernsolyj
+introduced by Popper in these volumes by way o inlerpretingi
+evolution theory leave one no alternative but to interpret evolutjon
+theory as a universal theory about how all li/c anywhere
+evolve. lIe now speaks of evolution theory as appli2abe to anj.
+world, or framework of limited constancy, in which there ar
+entities of limited variability, wherein sonic of these entities wjU
+survive and others perish. In short, evolution theory a plies wherei'ei'
+life has arisen, although it does not explain the origin o life itself. '
+To summarize this section, neither the original characterisatjon
+of evolution theory given by Popper in The Po vertr o) ills 1oricism'
+-northevisdca tonfiwhcarepsntdi
+Obje live K uowledge and in the Schilpp volume survive scrutiny.
+
+XIII
+l3efore closing this first Part of my review of the Schilpp volume
+for Popper, I should discuss brie fly the contribution of Sir John
+tiecles, "The World of Objective Knowledge," It is the most
+extensive separate treatment of Popper's three worlds doctrine to
+appear in the volume,
+''
+The essay itself is an interesting one. Eccies tells how he, ,
+himself, as a woiking scientist - lie is a neumophysiologist and Nobel
+laureate - has benefited frumu Popper's views. I te gives a detailed and'
+fascinating account of how a shift from induclivism to falsification-f'
+ism affected his own work.
+Eccles criticizes, I believe soundly, an analogy which Popper hasi'
+used to the effect that animal production of exosomutic structures -'
+e.g., nests built by wasps and ants, spiders' webs, and such like - is,
+analogous to human production of \Vorld 3. By way of contrasting
+human cultural evolution with such instinctual animal behaviour,',
+Fccles deftly sketches the evolution of culture from the prohabld L
+invention of language during the Upper Paleolithic era, around,.;
+15,000 B.C., through the Mesolithic and Neolithic ages, to the
+invention of writing in Sumeria around 3300 B.C. It is a sobering '
+picture that Eccles presents, which brings home as well as any .
+argument in the Scliilpp volu me (he immense difference to culture
+made by the advent of language: the lower Paleolithic age was very ;;
+long - about a half million years in length. And the men who lived
+throughout this vast period are utterly silent to us.
+tJnfortunately Eccles's essay is marred by an important error,
+,
+which Popper corrects in his Reply. Both in this essay and also in his t,
+important 1)00k Pacing Rca/hr,26 which devotes several chapters
+490
+
+CR1 lICAL S tti II I-:;
+
+,
+
+Popper's account of the hree worlds, Eceles writes as if Popper
+restricts World 3 to the.'content of those cultural products which are
+actually encoded or maicrialised: e.g., the human brain (which is
+Eccles's scientific specialty), books, libraries, works of art. In fact,
+Popper's notion of World 3 is much more abstract. For Popper,
+World 3 essentiallj transcends its physicil encoding, that part of th
+world in which it is materialised. A new theorem, for instance, exLsts
+in World 3 prior to its discovery; problems which are yet to be
+discovered are in World 3. So are theorems which are alrea d y i mp li e d
+by encoded World 3 products, hut which have never been thought
+of. World 3 is for Popper a realm of meanings, objective contents
+and potentialities.
+
+'
+
+'i i i
+
+Ill
+
+XIV
+The only other contribution which deals with evolution or
+biology in an important way is that by J.\V.N. Watkins. Watkins has
+worked with Popper longer and more intimately than any other
+contributor to the Schilpp volume. lIe became a student of Popper 's
+at the London School of Economics at the end of Vorld War II,
+shortly thereafter became a colleague teaching in Political Science,
+and in 1958 joined Popper's own department. lIe is now Popper 's
+successor at the L.S.E.
+Watkins's essay contains virtually no criticism of Popper; it is
+almost purely descriptive, And it is brilliant. It is the best brief
+com p rehensive and integrated account of Popper's philosophy that I
+have read. Watkins has achieved his success by interpreting the
+problem of indeterminism as the central problem of Popper's
+philosophy, and organising his presentation around this key. In the
+course of his examination, biology and evolution play an important
+role . however , since the key to Watkins's discussion is indeterminism
+in physics, I shall postpone a discussion of his paper to my second
+instalment, which is explicitly devoted to this subject.
+California State University
+hayward, California 94542
+USA
+
+491
+
+i:
+
+CR1 I It_Al. ; U
+
+5\V. It•\t( ILI_ .11
+
+-:1
+NOTES
+
+C,
+
+See \V.W. Bartky, III: 'Die isterretchische Schulremorrn als di: Wiege der fl'
+mod ci nco Phil 0 Sophie,' in C'iu b I "oUt ire: Jah rb tic it für k ritisccc A uf "
+k&iriiitg (Hamburg: Rowolilr Verlag paperback; 1970); W.W. harey, Ill:
+'Theory of l.angstagc and Philosophy of Science as Instruments of
+Educational Returin: Wittgenstcin and Popper .Is Aiistian School.
+teachers,'' iii ,1e th oils, log ,r'al and Ii is torical Essays in the Nat or,,! and
+.Social 5, ictices, BOStOn Studies in thc Philosophy of Science, Vol. XIV, ed. •:i
+Robert Cohen and Marx \VartoIsky (Dordrcclit-l IoIl,and: D. Reidcl Publishing Company; 1974); and W.W. Bartley, III' It'iuge'mslein (Nes Yosk: JR.
+Lippincott; 1973, and London: Quartet Books Limited; 1974).
+2--Anthony Q,miitton: "Sir Karl Popper; Kiiuwledge as an Institution,''
+Eisco:imi!er, Decensher I 973, pp. 33-37.
+An extended use of the word "knowledge" is no doubt involved here. What
+is meant is that ''any process providing a stored program for organismic
+adiptimi-tn it, external environntei,ts is iticltided as a knowledge process,
+amid a isv gaits ii, the a deipiacy of such a progr.i ni is regarded as a gain in
+knowledge.'' (Campbell, 1960, P. 380).
+See Poppcr's rcs'mcw nf 'l'l,i,re en,, llexkiill, atid his remarks on Jacob sun
+ljexl,mil! jm, Ci'miectiimi's mid Pc/,,fatio,ic Chi.iptcr 20, pp. 380ff.
+
+6
+
+I'svchioht''jc,,! Re,'ieu', 1961), Vol. 67, pp.38))- 400. Sec also Donald T.
+Ci imtplmcll '' M Ct I ted ul ugic al .S ug gest ions fr iii a Co in p rat ive I' syc bob gy of
+K nowledgi' Processes,'' Inquiry, Vol. 2, A ugust I '159, pp. 152-I 82; atid
+I)onald 'I'. C.snsplcll: ''Perception as Substitute Trial and Error,'' in
+!'vch,ohic,,l !!tl'n'W, 1956, Vol. 63, pp.33O-342, This early work oE
+Ca mph cli does not toe ntio n Po PP Cr. C at,, pi' elI app ears to It ave heard of
+lopper only in the carly 1960's, at which time lie became a fan: he was prc's-nt in 1963 when Popper was ii,ui,nned by Sdiiipp tli,it lie was to be
+t'Ieitr,itct.I iii tIn' Scliilpp series, It is interesting tI,,; in 196(1, several years,
+l'cfnrc I'opper began to speak of ''object ice knowledge'', Campbell had
+adopted sit explicitly object ivist approach.
+Kotirad l.orctiz: ''Kant's 1,dire votis apriorisclieti iii I it-lit,' gegetiwirtigcr
+I) ioltgic ,'' lUa ((Cr [lie L)c' utsciu' I'h iloso p/tic, I 94 1 , IS, 04. 1 25; tra nslated ',
+to English as ''Kant's Doctrine of the A l'riori in the Light of
+(:onti'niporary l)i'tlogy,'' L. von I)ertal.ititfy and A. Ikapoport, eds.:
+Central Systc'nis, Ye,irboos of thi' Society for Cener,,I Systcimts Research, -'
+Vol. VII, PP 23 35.
+.Set' a iso K oiirad Lure liz: ''Cest.tltwalir,meliiiiu tig als Quelle \V issetiscliaftI ic her Er kenti to is,'' Zi' itsch rift für e.vpeeini sitU' 16' ti ii,! tinge wit,,,! d, Psych aioie, 1Q59, 6, 118.165; translated iisto Etighisli as ''Gestalt I'i'rception as Fumidametital lii Scientific Knowledge,'' in 1. von Bcrtalanffy and A.
+Rapoport, up. cit., Vol. VII. 'Ibis latter paper was dedicated to Karl Biihler
+on Isis c ighitietli hirt liday,
+.:
+Catttpbell brought both these papers to toy attention iii 1963, and I was
+struck then atsd later by the large measure of agreentetit between Popper
+and Lorena, ,ind ,ilso by the siittil.,rity of their tertniniilogy atid tsietaphors.
+,
+tore or a sd I' upper k nest' eac Ii ot It er as Ian y s, a tad hot Ii st ml ie d sv it Ii B iihler
+-,
+in Vietsts. It is rctiiatkalsle also that Loreiiz and Popper, for largely sirt,ilar .,
+reasons, see tnotlerti phiysicsand evolution as furcitig utse into hypothetical
+realism,
+
+See itt this connexlon Popper's picture f the 'abstract society' itt 7')ie Oien
+Soc-jet)' and Its Ene'ities, 'oI, I - Ch'ipl'r tO pp. I '')tf.
+8 'l'l,js exatmsple is prcsc'tsted its J.Y. Lrttvitt, 11.1k. Matutatia, W.S. McCtiIlc'cli,
+htroce,,Ii,m gs
+aitd WI-I. l'itts: "What the Frog's Eye 'fells t lie Frog's Brain,"
+of time l,isfitt,t,' of Radii' Engiiii'ers. 47, 1)59, p I 4t) 151. Repritited iii
+Wairen S. McCullock: Em,iltc,ili,,,emms of Mi,,,! (Caisthridgi , Mass.: 11w
+MIT. l'tcss; 191,5), pp. 230-255. Sec also 11.1k. Maturana:'' hitting)- iii
+Cognitioii,'' B.C.l.. Report 9.0, Biological Computer l.aboratory, l)ep.irt.. -. nient tI Electrical Engineering, University of Illinois.
+'lucre is, 'or ex:itimpht:, its :ItIi'tltiamc explanatioit of the cxtraorthinary
+isigma tory feats iii certain birds, Night waiblers reared in captivity arc bIc
+It' orient t,, mite star patterns in the imighit sky. Such warblers have beeti
+flown in chtsscd lsnxcs fro ni Gernsa ny to S,sutl,-W est A frica and inmniediatcly ire able tis uncut wlteis they encounter their t,ew niglst.sky enviromiiliemst,
+Such l'inls set-n, in possess a genetically detern,itied ability to read star
+p.itmcrits imtd steer by ihie,tu, amid tt' have some sort of rinse sense (the star
+p.itmcrns shift &tiuitit,miaih tviihi the c,srulm's rom:stiois). 'l'lius the bird appears
+mit have a ''built it,'' 1,b;i,iei:iriiiiii, sexm.tist, cI,roti,siiscmcr and altimeter \Vitlt
+ii,,' aid of stiineiluiitg analogous to cud, ,mistrnitsetits, it is able to read and
+cttnipcitsate f,,r tI,, int,seinciits uI' mIte stars aruuttd tlse north star, or the
+st,,,thmcrn cross, rather us tIme way in whir Ii a trained navigator cats do this,
+See ftsr details I),timald 1k. Gritfim,: Ills,! 3hmgratiout (New York: Aitchior
+pinks: I 964), ,, itd KM - I_tickle)': - I u,iu,ttl Nai'igttioum (1.uiidoti: l'ati hooks;
+
+-
+
+1967).
+Ii) CII. \Vaddutigtt'ii: 11,1' l.istt'iier. 13 Novetisher 1952.
+Juliats Huxley in Ei'ob,tioii ,,s a Process, cd. juliams huxley, AC. Ilardy,
+amid ElI. Ford (I.ondnn: George Allen & Unwits l.td.; 1954), p. 14.
+12 IE'liavi,ui,r;il selerui,tn is not mIte only source of iistenis,sI selective prescore
+wInk' actii.illy itillowoig - rasdomit or blind selectitni.
+setviltg tis uilimigate
+Canspbell lists mutt inerous u thers including aclnevcd w isdoni wInch limit its the
+range ol trials, uisaladaptivc restriction on the raisge of trials, aisd vicarious
+s,'h,'ct ititu -'is mInt lined aI,t,vc.
+13 RE. Ewer: ''N.iuur.ih Select ion ,i,id Nt'oteny,'' its clcta htioth,eomi'tica,
+Leid,'tu 1 '.0,11, Quitted its Alister Hardy: Viii I.iu'iuig Stream (New Yotk:
+II.,, pet smith Row; 1 965), p. 187.
+4 CII. w.iddiitgtuti, th,scttssion remark, in lt,'t',',:,! R,'d,ic(ionicumi, ed. Arthur
+Koestler and JR. Smnyihies (Lttmidon: I htttch,imis,sti; 1 969), p. 387.
+5
+Sir Ahister Hardy; I/ic Lii"iiig Stre,io, (New York-. Harper and Row; 1965).
+16 'l'lie evidence is of c,itirsc inferior to that available for anatutnical chtaisge.
+Jo,- behtam'io,ir ilocs ii,,! fossihiai', ,s nd it is therefore rarely possible to
+demonstrate t hat chiaiigcs iii habit preceded stoic tural ehtatige in ammy
+particular imtstatiec. Ewer's studies uf the Air icats S uidae and stlscr pigs
+tosmuethieless provide good evidetsee fisr Use general contention, Sec Ewer,
+°P' cit.
+Ersvin Schiri'idinger: Mi':,! ,td ,I,mtter (C.itisbt idge: Caitsbridge Umsiversity
+l'ress; 1959), delivered is the Tar icr lectures am Catsabridge ill 1956.
+I aria imtforrned by Mr. Jeretsay Shieartisur, Sir Karl's research assistant, tlmat
+- Popper has inserted a reference to Hardy's hook in a new imispressiomi of
+(5l'jec time K ito it' h'elgs' a tid also i is to t lie tics t edit io ts oft lie S cli il pp vo Iti toe.
+-
+
+492
+/
+
+-
+
+S
+
+'k
+
+I'
+
+TIlE PIJILOSOPIIY C
+
+W.W. BARTLEY, Ill
+(New York: International UniversiCompanY; 1968) Psychological Issues
+(New York: W.W. Norton & ComYoung
+Man
+Luther
+ties Press; 1959);
+(New
+York:
+W.W. Norton & Company;
+pany; 1958); Gandhi's Truth
+Moment (W.W. Norton & ComHistory
+and
+the
+Historical
+1969); Life
+pany; 1975).
+See James Luther Adams's comments on some of Mtchcls's ideas in
+"
+"Tillich's Concept of the Protestant Era," printed in l7ie Protestant Era
+(Chicago: University of Chicago Press; 1948), p. 279.
+Popper: "Back to the Pre-Socratics," Presidential Address,
+"
+Karl R.
+1958 9. See also "Towards a
+Proceedings of the Aristotelian Society,
+Rational Theory of Tradition.," op. cit., and "tire Nature of Philosophical
+the Philosophy
+Problems andthetr Roots in Science," British Journal for
+August 1952, pp. 124-56. All three essays arc reprinted in
+of Science,
+note 38 to Chapter 10 of The
+Conjectures and Refutations. See also
+also
+WI. Matson: "Coriford on the
+See
+Open Society and Its Enemies.
+8, 3, March 1955, pp.
+Birth of Metaphysics," Review of Metaphysics.
+44 3-54.
+(New York. fhe Grove Press;
+See Gcorg Feuerstcln: The Essence of Yoga
+5,
+and
+E.
+Conze:
+Buddhist
+Thought
+in India (London, 1962),
+1974).'.
+(Stuttgart, 1956),p. 138.
+p 19, and H. Beckh: Buddha und seine Lehre
+Collected Legal Papen
+Wcndell,,H9lmes.
+Jr..
+"Natural
+Law,"
+in
+'
+Oliver
+(New York: Haxcourt, Brace; 1920), Pp. 310-11. See the discussion of
+Holmes in Morton White: Religion, Politics, and the Higher Learning
+(Cambridge: Harvard University Press; 1959), p. 130-1.
+(New York: Washington Square
+°
+Jean-Paul Sartre: Being and Nothingness
+Press; 1975), Part Four. These matters are treated, in a different setting,
+Erhard: The Transformation of a
+in my book: W.W. Bartley, Ill: Werner
+(New
+York:
+Clarkson N. Potter, Inc.; 1978),
+Man, the Founding of en
+Si
+
+Chapter 10.
+(New York:
+See Hermann Keyserling: Travel Diary of a Philosopher
+Harcourt, Brace, and Co.; 1925), Vol. I, p. 16, and vol. II, pp. 366-7.
+See also llermann Flesse: My Belief (New York: Farrar, Straus & Giroux;
+1974),pp.367-S.
+Yet Popper is also no "Freischwi'br'flder," no unattached md "frcly
+poised intelligence" in the sense of Karl Mannheimn, whose book Ideology
+The
+and Utopia (1936), Popper rather harshly attacks in Chapter 23 of
+
+23
+
+24
+
+208
+
+Open Society avid Its E,memies,
+See David E. Roberts: "Tihlich's Doctrine of Man," in The Theology of
+Kegley and Bretall (New York: Macmillan, 1956), p.
+Paul Tillich. ed.
+110. "Everyone must take a stand somewhere. . . no matter what center
+is chosen, it cannot be objectively demonstrated - partly because it is the
+expression of ultimate concern, and partly because all valoe.argUmefltt
+presuppose its knowledgement before they can have any point."
+(Cambridge: Harvard University Press; 1955). SeC
+Outlines of Pyrrhonism
+Book 11, Chapter IV, 20, pp. 163- 165.
+
+;ARL POPPER
+
+2$
+
+Michael Polanyi: The Logic of Liberty (London: Routk'dge and Kegan
+Paul, Ltd.: 195]), p. 106.
+Published in The liarmard crimson, 22 October 1969; reprinted in
+EM.
+counter in Sidney Ilook: ''Itie Ideology of Violence,' Eiicou,ifrr,
+April
+1970, p. 30. Italics mine.
+'
+The word ''Sketch'' is meant literally. The present section is a rational
+reconstruction of the problem situation. An adequate treatment would
+require a rewriting of the history of philosophy in terms of the emphases, doctrines, and prnhkms on which I focus here. If my argumcnt is
+correctjust such a rewriting is badly needed.
+See W.?, Alston arid iticliard 13. Brandt: The Prohfrrn,c of Philosophy.
+3rd edition, 1978, p. 605. In the new Fontana/Ilirper Dictionary of
+Modern Thought, rationalism as contrasted with irrationlism is defined
+as denying "the acceptability of beliefs founded on anything bitt experience and reasoning, deductive or inductive."
+29
+Or as W.K. Clifford put it: "It is wrong everywhere and for anyone, to
+believe anything upon insufficient evidence." See "Ethics of Relief,"
+in The contemporary Rei'ieiv, 1876. Catnap puts the matter very clearly:
+"This requirement for justification and conclusive foundation of each
+thesis will eliminate all speculative and poetic work from philosophy.
+It must he possible for each scientific thesis . , . The decisive factor
+is - . . that for time justification of a thesis the physicist does not cite
+irrational factors, but gives a purely empirical-rational justification.
+We demand the same from ourselves in our philosophical work." See
+The I.ogical Structure of the World (Berkeley: University of California;
+1967), p. xvii.
+30 TI-I.
+Huxley: "Anosticismn and Christianity," Selecti.n from the Essays
+of Thomas Henry huxley (New York: ES. Crofts; 1948), p. 92.
+I am using the word ''intellectualist'' in the sense given it by Kant in
+The Critique of Pure Reason, final chapter on "This' llkory of rure
+Rca son,"
+Descartes was expressly trying to do this. Sec his remarks about spti.
+crsnr in Discou cIt' to Ms'j/ioJ in Oeum'res,
+ed. Adam ci 'I anhtery
+Leopold ('crf; 1879. 1913), VI VI, p. 32; and O/ectiones Sepiimae,
+in Oeuvres, Vol. VII, p. 550. (in Descartes see W.W. ltariky, Ill: ''Akproaches to Science and Scepticism," The PhiIosophic/ forum,
+Spring
+l969,pp.312- 331.
+
+Anticipated in part, incidentally, by several other plmilosmiphierc, un rid rig
+Jonathan Edwards. See ''I lie Insufficiency of Reason as a Strt,Stii tic for
+evc Is ti.n,'' ('hiapts'r VII oh Iris Miscellaneous Obsermatio,i on torpor leaf
+7 /teologi cal Subjects.
+It was also, less irirportairtly and in different respects, too wide, jiti as
+ritehlectuatrsm was also too narrow. lhe terms "too narrow'' and ''tori
+wide," in this context, wt'ie motroitiiei'd by Popper. See los ''l)cmn:ircatron
+bctc21 Scieno' and Metaphysics,'' iii conjectures and J?efutatirnis.
+
+2O)
+
+I,'
+
+W.W. BARTLEY, Ill
+35
+
+3
+
+210
+
+A History of Western Philosophy (New York: Simon and Schuster;
+1945), p. 673.
+See Popper: The Open Society, Chapter 24.
+The common philosophical argument to the effect that one cannot
+persuade a man to be moral unless he is moral, or persuade a nan to be
+loca1 with logical arguments unless he accepts logic, etc. are clumsy
+applications of the more general and correct point that one cannot argue
+a man into a position, including the position of hsteniiig to argument,
+un less he has accepted that argument counts, If both inor,' Ii ty and immorality are arguable positions, then one can argue a iran Iii,) either if
+he accepts that argument counts. For examples of this sort of reasoning
+sec Aristotle: .Nichomachcan 'Ethics, Book I, section iv, an(t hook X, see.
+tion ix; F.1i. Bradley: "WhS' Should I Be Moral'?", in Ethical Snadies,
+Essay 11, second edition (Oxford: Oxford University Press; 1927); HA.
+Prichard: "Does Moral Philosophy Rest on a Mistake'!" in blind, N.S.,
+Vol. 21, 1912, and in Moral Obligation (Oxford: Oxford Untvcrsity Press;
+1949). Even the statement that one cannot argue a man into a position
+unless he has accepted that argument counts, however, is unsatisfactory.
+It is. a,bt verbal; and it is more concerned with the question of the
+source of the decision to adopt a particular position or way of life than
+with, the more importhnt question whether that decision and position
+are open to criticism. (Andiitch questions of source blend all too readily
+into justificationist arguments.) Thus when one is concerned with the
+question of whether a decision is criticizable, it hardly matters whether
+that decision was originally made as a result of argument, or ss hether
+the individual in question just stumbled into it, or whether he or she
+decided by tossing yarrow stalks, or by some other arbitrary meshod
+Even if the rationalist position had originally been adopted as a result'
+of an irrational arbitrary decision, it is possible that the person who made
+the choice svoutd, by living in accordance with rationalist traditions and
+precepts, gradually become very rational, very open to criticism, as an '
+unintended consequence of his original choice. (See in this connection
+my: "Em sc'hwieriger Mensch: Eine Portratskizze von Sir Karl Popper,"
+in Eckhard Nordhofen, ed.: Philosophen des 20. Jahrhunderts in Por'
+traits. KOngatein, Athenaum Verlag, 1980). So I would suggest that
+important choices, such as those of philosophical posttions and ways of
+even of the rationalist way of life - are very often not the result
+life
+of argument, any more than scientific theories are tIre result of sense
+observation. Theories are pot forward; choices are made. 'I'he question of
+the sources of the theories apd choices is not so important. The question,
+rather, is whether such theories and choices are open to criticism. If
+they are, then they are held rationalty, even if they were not originallY
+made rationally as, for instance, the result or conclusion of an argument.
+Open Society and Its Enemies, Princeton edition of 1950, p. 416.
+George Santayana: Winds of Doctrine (Ncsv Yoi k: I lirper; 1951). p. 40.
+
+II l.OSOl'l l's' (il '' ' Il, POPPER
+'°
+
+''
+
+"
+
+Isrirahi hiertin, ur Ins llernioir Ould Memorial Lecture, '''l'olstoy and
+I' ni ph it en inc it,'' as report eLI ur i/u' 7mnres I. ilerar,y Snppleois nt, N ove in'
+her 25, 1960, . 759.
+I hr. Arken: Age oJ Jde,,Iogr' I Nesv Yoik'. Mentor Books; I 95(1, p. 272.
+5' W. hartley, Ill: ti'ittgeriso'in (New York; ill. I ippinco(t & ('o.; 1973),
+pp. 167 178; (london: Qu;n ci ltooks Ltd.; 1974, I977, p. 121) 30.
+A.). Aycr : 7/is' Priih/e,n of Anoi,/e,/,,'c (London: Penguin hooks; 1956).
+Karl Itaitir: I:'rangclisal 7lieolov (New York: llo)t. Rinehart :oid
+\Vinrstomn; 1963), p. 131, 'I hi ii.nhics are liartli's. See my ,his'ussioris of
+tI.irih iii W.W. lt;rink'y, Ill: ''K;ol lt;nitlr: 'The [.ast ot tine Piotestants,'''
+l:'nsou;nier. Mardi 1970; and W,W, hartley, III: Aloraliy and Religion,
+of> cit.. Chapter Three.
+('o m pare Put ia in's ''The An sly tic and t lie Sy nil Ic tic,'' in tilinneso m
+Studies' in the l'/iilos'op/ii' ,,J ,S','jr'nce, ed. I lerhert Feigl and Ci over
+Maxwell )M rnrie.ipohis: Univen ity of Minnesota Press; I 9b2 t. Pp. 358..
+397, where Putnam nanige,s to corrihinc circularity with iii argument
+from au thiorily: ''l)oes the fact t hat everyone accepts a statement make it
+rational to go on believing it? The answer is that it does, if it can be
+s/no on t Inst it svo u Id he (C:, sc, in:,), Ic to render the state me mit i in inn lie frons
+revision by stipulation, if we were to formalize our language.'' See also
+Putnam: Mca,ong and the Moral Sciences (London: Routk'clgc &.Kegan
+Paul; 1978).
+
+See 'I/re Open S0('Wtj' and Its 1:tis'riiO'a', Chapter 24, first, second and
+i 1usd editions, In l'ri nceton edition 11950), see pp. 416 7. Fhie point is
+rc'pca ted in "Utopia and Violence'' (1948), reprinted in ('onjm'eture's and
+Rc'juw(ions, p 357. One finds a similar attitude in Sidney I look, who
+writes: '' I o he reasonable is to 1w absolute about nothing except being
+reasonable.'' See Ins 1/re /'ara,/o.vs'.r of Freedom (Berkeley; University of
+California Press; 1962), p. 15.
+l'rirnectors ,.'ctition, 1950, p. 431.
+Die liL'iIJcn (i'rundproblcrnc ('l'Uhingen: J.C.B. Mohr (Paul Sicbeck)
+Verlag; 1979).
+It is interest trig i Inst when Popper turns deliberately to deal wit Ii the
+nirationnmhist (i.e., one who challenges the appeal to reason to settle dis'
+putcs), as irs ('hapter 24 of i'lie Open Society, lie does not engage those
+persons w ho possess ann argunn,'irt, a ''rational excuse against rationalism,"
+Rather, he emng;rgcs those who nhcspisc reason altogether, who are willing
+to s/moot thioss' wIno attempt to argue with tlsem. Wlu're:ms, (tie sort of
+nrratnornahist with wlmcirn 1 am chiefly concerned in this study, is One whrts
+attempts to reply to arguments ;igainsst irrationalt.snt will, arguments to
+shoW that tine rationalist posit ins is defective on its owls terms and that
+rationalism suffers from those very detects which it ascribes I,i irrational.
+sin. Ii,' second type of irrationatist is the stronger and the noire worth
+cheb.itnig: since a ration;ihist. is one who airris to be moved intellectually
+>oily try ,irgurinerits even if lie is compelled by force tsr art physically
+
+211
+
+Ii.
+
+p.'
+
+W.W. BARTLEY, III
+
+'
+
+"
+
+"
+
+212
+
+contrary to his views, a putative argument against his rationalism is far
+more of a threat than is force against it.
+At this time he rewrote tIre lust chapter of the unpublished Postscript,
+reporting my work there. In his intellectual autobiography (Schilpp
+volume, p. 119), Popper makes a statement relating to this which could
+be amplified: "In this Postscript I reviewed and developed the main
+problems and solutions discussed in Logik dir Forsehung. For example,
+I stressed that I had rejected all attempts at the justrlrcation of theories
+and that I had replaced justification by uticismn." The Postscript will
+he published in 1982, in three volumes edited by me, as follows: Realism
+and the Aim of' Science. 'The Open Universe: and Quanhuin Theory and
+the Schism in Physics (London: liutchinson; and New Jersey: Rowman &.
+1 ittlefield).
+See "On Reason and the Open Society," Encounter, May 1972. p. 18.
+K K Popper: "On the Sources of Knowledge and of Ignorance," 1960,
+reprinted in Conjectures and Rr'futations (1962); !,o,i,'ik dir F'orschung
+t I ')34); sections 36 and 83. \V.W. Bartley, Ill: "Limits of Rationality"
+(I %2'm Tire Retreat to C'o,norittnent (1962), rind "Rationality versus the
+Theory of Rationality" (1964). All cited above. See also \V.W. Bartley,
+1,11: "A Note on Barker's Discussion of Popper's Theory of Corroboration," Philosophical Stuf7es. January-February 1961, pp. 5 10.
+Enquiry concerning Human Understanding, Section II,
+John 1. Kearns: "A Semantics Based on Justification rather than Truth,"
+(Abstract), The Journal of Symbolic Logic, 43, 3, September 1978,
+p.614.
+Several philosophers of science, including ('arnap, Ilempel, and Goodman
+have argued the place of a similar assumption in theories of confirmation
+in the natural sciences, referring to this assumption by names like "consequence condition," "entailment condition," and "content condition,"
+My remarks here are not intended to apply only to scientific matters, For
+an example of the misunderstandings created by applying the transmissibility assumption or consequence condition to Popper's thought, see
+my "Note on Barker," as cited in Note 51,
+Adolf GrUnbaum: "Falsifiability and Rationality," Mimeographed. Read
+at International colloquium on Issues in Contemporary Physics and
+Philosophy of Science, September 1971; See also Grinbaum's: "Ia
+Falsifiability the Touchstone of Scientific Rationality? Karl Popper
+versus Inductivism," in R,S. Cohen, P.R Feyerabend, and MW. Wartofsky: Essays in Memory of I,nre Lnkatos (Dordrecht: 1). Reidel Pub'
+lishing Company; 1976), pp. 213 252; "Can A Theory Answer More
+Questions Than One of Its Rivals?" lire British Jouriwl for 1/re P/niceophv of' Science, March 1976. pp. 1 23; "Is the Method of told Conjectures and Attempted Refutations Justifiable the Method of Science?",
+British Journal for the Philosophy of Science, June 1976, pp. 105-- 136;
+and "Ad Hoc Auxiliary Hypotheses and Falsificationism," British Journal
+for the Philosophy of Science, December 1976, pp. 329 362.
+
+II'. Pill LOSOI'l Pr' '
+
+°
+
+'
+
+60
+
+60
+
+KARl. POPPI R
+
+That there sl'ru Id have been any doubt whether degree of testability is
+It' is it Id . I nr tire bt&'a of logically deriving one state men I from
+I r:r ii sill r
+anothrr-r ill rrlerrtie:rl to it involves the notion that various statements
+differ iii guru srrerrglhr. Yet tire statement svltich is stronger is ipso facto
+more estahule
+which means that its degree of testalrihty is no more
+transmissible to its implicates than is its logical strength.
+Popper has on occasion been careless in expressing this. 'ilurs in Car,JectUrt'.v atiti A'cfritatorns, p.2 79, note 63, he writes ''c'rr firmed'' (mean.
+ing "corroborated "t where Ire should have written "cool,, nuablu'' or currohiorable.'
+See Objective A'no.u'Iedge, op. cit., pp. I 31; originally published in
+Rcrue i,rternationale in' p/rllosoplrie, 95 6, 1971, fasc. 1-. 2. Another
+example of l.akatos's poor scholarship appears on p. 270 of his article,
+where he alleges that tire "positive" solution of the problem of induction
+which l'oppcr Proposes in a new addendum to the third German edition
+of l,or.'rk dir I-'orsc/rung (1969) waa written in response to Lakator's
+article, "('hanges in tire Problem of Inductive Logic" (I. Lakato,s, ed.:
+I/re l'ro/rle,n of Inductive logic. Amsterdam: Nor tb-I lolland Publishing
+('o.; 1968, pp. 315 41 7). In fact, Popper's positive solution appears in
+additions made in 1961 to the as yet unpublished Postscript to tire logic
+of Scientific Disco very.
+Quoted in translation from Nietzsche's Musarionausgahe by Walter Kaufmann in his Critique of Religion and Philosophy (New York: Harper &
+Co.; 1958), p. vii.
+See Charles Darwin: Autobiography, p. 123. See also W.W. Bartley, Ill:
+"What Was Wrong with Darwin?", The New York Review of Books,
+September 15, 1977,
+See A.A. Derksen: "The Failure of Comprehensively Critical Rationalisns," Philosophy of the Soc-ia! Sciences, March 1980, and my reply: "On
+time ('riticisabilily of Logic," in tIre same issue. See also my "On Alleged
+Paradoxes in Pancritical Rationalism," Appeisdix 4 to tire new edition,
+revised, expanded, arid newly translated, of bloc/it ins Engagement
+(J.C.B. Moire (l':rul Siebeck) Verlag; forthcoming).
+Agatha Christie: Death, Or the Air (New York: 1977).
+Jacob l:riedriclr Fries: Neuc oder anlhropulogisclrc Kritik der FerrrunJt
+Ilerdciberg: Christian Frieririch WinIer; 1828 (vol. I), 1831 (vols. II arid
+Ill).
+Wiretircr Fries's views are rightly called psychologislic is a mat let of some
+dispu he. Leonard Nelson writes scornfti Ily of those who "have pr' (erred
+not to study Iris critique of reason hut to parrot tIre traditional f;rlrk' of
+J:riCs', 'psye'irologisni.''' See li'onard NeIon: Socratic filet/rod arid
+Critical /0hrilrrwphv (New II;rven: Yale University Press; 1949), p. 156.
+I,, Die l'cide,r Grundprobieore der Erkcnntnisthcoric, pp. I 31 2, I'opper
+irrlroduced tIre idea of 'probhenralicrrhity there in the sense in which I am
+rising it here. 3'Iris makes it lIne more puzzling that Ire nonetheless thinks
+
+213
+
+ll11 t'ItllOSOl'llY 01 K,
+
+W.W. BARTLLY, 111
+
+A SimpleMindcd Solution," in Phrilns.p/iical Studies, December 1968,
+pp. 85 8: :ol W.W. Hartley, Ill: '"I Ircories of Demarcation between
+Science inil M't,ipliytrs. in I - I uk:tios and A. Musgrave, eds,: Problems
+ii, i/i, I'hilosopln' of ,Sr,enee. op. cii., pp. 40 119; and ''Eine l,osung des
+Good,,in-Paradoxons," in (. Radnitzky and C. Anderson, eds.: Voraus.oI:ufl,,'Cfl und Grensen der Wissensehafi (Tübingen: J.C.B. Molir (Paul
+Srt'tii'ck I Verlag: 1980), PP. 347 358. James N. Ilullelt attempts a reply
+In roy solution ii Iris ''Discussion: On a Simple-Minded Solution,"
+I'hhlicopht' of Science, September 1970, pp. 452 4. but iurisses the
+point, Se also Joseph Agissi's coinuncuits on Popper arid Goodman in
+Silence and I'iux, op. cit . pp. 165 7, 236 8, and 351.
+
+that something is added by requiring a decision concerning unprolematical cases - indeed he thinks that such a decision is necessary.
+find that my objection to Popper's views here is in general conipatib
+with Joseph Agassi's remarks in "Sensationalism," Mind. 75, 1966, pp.
+When Should We Ignore Lvidence in Favour of a ilypo1 24, and
+thesis?", Ratio, IS, 1973, pp. 183 205; both now reprinted in his
+Science and Flux (Dordrecht: D. Reidel; 1975), pp. 92 151. Hut Agassi
+seems to think that the key task then becomes to explain observation
+reports. V liether observation rspurts need to he explained will depend on
+circumstancesand vary from one test situation to another
+depending in
+part on wbet}ter the explanation of the observation report contributes to
+the explanation of the world.
+Sec JO. Wisdom: "The Re'futahility of Irrefutable l.aws", British
+Journal for the Philosophy of Science, 1963, pp. 303 6; JO. Wisdom:
+'Refutation by Observation and Refutalion by Theory," in I. Lakatos
+and A. Musgrave, eds.: Problems in the P/iilnsop/n' of Sewnee (Amsterdam: North-Holland Publishing Company; 1968). pp. 65 7. See also
+J:W.N. Watkins: "Csnlsrmable and Influential Mt.-taplrysics," Mind, 1958,
+34 7:.."tween Analytic and l;mpiical," Philosoph&v, 1957; and
+"When Are Statements Empirical?" BriGs/i Journal for the Philosophy of
+Science, February 1960. See also W.W. Bait Icy, III: The Retreat to Corn.
+mltrnent, op. cit, pp. 85 and 159; and W.W. Bartley, Ill: "Reply to J.O.
+Wisdom," in Problems in the Philosophy of Science, op. cit., pp. 108-9.
+Joseph A.gassi has drawn particula.r attention to the closely related
+question of the ways in which metaphysical theories, because of their
+possible conflict with scientific hypotheses, can guide and prejudice
+scientific research by acting as regulative principles. See his "The Nature
+of Scientific Problems and Their Roots in Metaphysics," in Mario Bunge,
+ed,: The Critical Approach to Science and Philosophy, op. cit, See also
+Rudolf Carnap: "Testability and Meaning," Philosophy of Science,
+October 1936 and January 1937. Watkins interestingly modifies his
+position in: "Metaphysics and the Advancement of Science," British
+Journal for the Philosophy of Science, June 1975, pp. 91- 121, and in
+"Minimal Presuppositions and Maximal Metaphysics," Mind, April 1978,
+pp. 195 209. Goodman claims that "Wolfgang StegmUller has corrected the notion that
+'anti.inductivists' of the school of Karl Popper escape the new riddle of
+induction." Yet curiously Goodman does not give any reference to any
+such work of Stegmuller in which any such "correction" takes place. See
+Nelson Goodman: Fact, Fic,tion and Forecast (Cambridge: Harvard
+University Press; 1955, new edition, 1973), pp. 74ff. 1 suppose that
+Goodman may be referring to StcgmUller's Gollected Papers on Episfrmologi (Boston: D. Reidel, 1977). Vol. Il. pp. 92 4. This discussion
+by Stegmuller shows a complete misunderstanding of Popper's position
+and presents 00 argument. See W.W. Bartley, Ill: "Goodman's Paradox:
+
+214
+
+POPPFR
+
+"
+
+"
+
+"
+
+"
+
+1
+
+lIre difference between a l'opperian and non'Popperian approach to
+(;oodnians paradox has most recently been taken rip in an exchange
+between J.W.N. Watkins and Kurt llObner in Gerard Radnitzky and
+Cunnrr .Andersson, eds.: Progress and Rationality in Science (l)ordrecht:
+I). Reidel; 1978). Watkins misses the point of the paradox (as llubner
+noticeS, pp. 280- 81 and pp. 394 5); and Hubner contends that the
+paradox cannot be avoided from within a Popperian framesvork.
+I nsve the example of young emeralds and old diamonds to a conversation
+with Joseph Agassi in 1967.
+Sir AS. Eddinglon: Space, Time and Gravitqtion: An Outline of tire
+General Relativity Theory (Cambridge: Cambridge University Press;
+1920), p. 113.
+See Sir Karl Popper: "The Aim of Science," in Objective Knowledge, op.
+cit., pp. 191 205, esp. pp. 198 203; and "Two Faces of Common
+Sense," in Objective Knowledge, pp. 102-3.
+I owe the remark that Goodman's theory provides a routine for drawing
+up an infinite sequence of corroborated and competing theories to personal Conversations and correspondence with Sir Karl Popper in 1978.
+See also l'opper's new introduction, footnote 11, to Die beiden Grund.
+probleme der ErA enntnistheorie, op. cit, pp. Xix- XX.
+('.1. Lewis: "A I'ragnuatic Concephion of the A Priori," Journal of P/ri/os'
+np/ui', 20, 1924: arid "Logic and Pragmatism," Contenuporarr' ,.4nierican
+Philosophy, Vol. II (New York: ihe Macmillan Company: 1930), pp.
+31 51. See also Morton White: Age of Analysis (New York: Mentor
+Books; 1955), ('leipter Xl, P. 175.
+See W.W. h(artley, III: Lewi,c Garroll's Symbolic I.ogic (New York: ('larkson N. Pot (Cr, Inc.; (977), pp. 16 19.
+See W.V. Quine: h'ord and Oh/i'd (New York: The Technology Press ol
+lie Massachusetts Institute of Technology; 1960), p. 59. See W.V. Quine:
+''Isso Dogmas of Fuuupiricisnr,'' irs front a Logical Point of View )( ',ori
+ii blge: I larvard University Press: 1953).
+kR. Popper: ''New Foundations for Logic,'' Mind, Vol. 56, 1947; and
+'Corrections'' in Mliii], Vol. 57, 1948, PP. 69ff.; ''logic withirnit Assu:np.
+tin is,'' I'rneeelin,çs ni the A rislo ti/lair Societe, 1 947 , Vu il 47 , pp. 25 1
+20]; ''l:uic_tiunat logic without Axioms or Pririritive Rules of Inference,''
+
+215
+
+W.W. .BARTLEY, 111
+
+1111 I IIILOSOPJIY
+
+Proceedings Konin/dijke Nederlandsche Akadernie ran R'eteirschappen,
+Vol. 50, No. 9, 1947, pp. 1214ff.; "On the lircory of Deduction: Part I,
+Derivation and Its Generalizations," Prm-r'rdings Koninkli/A e Nederland.
+ache Akade,,iie ton Ivetensc/rappen, Vol. 51, Nb. 2, 1947, pp. 173ff,:
+"On the Theory of Deduction: Part II, lire Definitions of ('lassical and
+Intuilionist Negation," ibid., No. 3, 1947, pp. 322ff.; "lire Trivialization
+of Mathematical Logic," Proceedings oj the Xtlr International C'ongres
+of Philosophy, Amsterdam, 1948, Vol. I, pp. 722ff.; "Why Axe the
+Calculi of Logic and Arithmetic Applicable to Reality?", Conjecturer and
+Refutationr, pp. 201 214. See also JO. Wisdom: "Overlooked Aspects
+of Popper's Contiihutions to Philosophy, Logic, and Scientific. Method,"
+in The Critical Approach, éd. Mario Bunge, op. cit., pp. 116 124. See
+William Kneale: "The PrOvince of Logic," in H.D. Lewis, ed.: Contemporary British J'hilosophers, 3rd Series (London: George Allen &
+Unwin Ltd.; 1956), pp. 237 261 See C. (k'ntzen: 'tIrrtc'rsuclrungen
+über das Iogische Schliesscn," in Mathetnatisehe Zt.itsc/zrift, Vol. 39,
+l934,pp. 176-210,and 405- 31.
+- Alfred Tazski: "Ou the Concept of Logical Consequence," chapter 16 of
+nan tics, Metamat/renzatics (Oxford: Ox ford University Piet,;
+Logic,,
+1956).
+"
+
+"
+
+216
+
+ee. review by H.B. Curry in Mathematical Reviews, Vol. 9, no. 7. JulyAugust 1948, 'p. 31, and reviews in Journal of Symbolic Logic, volt.
+. ., .
+13 arid 14.
+
+W.C. Kneale: "The Province of Logic," in ll.D. Lewis, ed.: Contemporary
+British Philosophy, Third Series (London: George Allen and I.inwin, Ltd.;
+1956), p. 256; and W.C. and Mary Kneale: The Des'eloprncnt of Logic
+(Oxford: Oxford University Press; 1962), p. 563. See also Bruce Brooke'
+Yravell: "A Generalization of the Truth'Tablc Method," Unpublished
+Ph.D. dissertation, University of London, 1958. Brooke-Wavell argues
+that "deducibilit-y" is definable in terms of general tabular predicatet.
+Together with Popper's derivation of logic from the single undefined
+concept of "deducibilily," this would yield the derivability of logic from
+basic tabular rules supported by the truth-table algebra. See also J.O.
+Wisdom: "Overlooked Aspects of Popper's Contributions to Philosophy,
+Logic, and scientific Method," in Mario Ilunge, ed.: The C'ritical Ap'
+proach to Science and Philosophy, op. cit., pp. 116--i 24.
+Quoted in Schilpp volume, p. 1096.
+See my exchange with Derksen: Philosophy of the Social Science:,
+March 1980, op. cit. See also Alfred Tarski: "The Semantic ('onceptiOfl
+of Truth and the Fourrdatins of Semantics," Philosophy and P/renorncfl'
+ological Research, IV, 1944, reprinted in Readings in Philorophie9l
+Analysis, ed. Herbert l:eigl arid Wilfrid Seliars (New York: Appleton'
+('eroury-Crofts, 1949), p. 59, where 'la.rski suggests that the "ordut'
+ary laws of logic" must be retained in the presence of the liar paradox.
+In saying this I of course do not mean that we must hang on to some
+particular object-linguistic form of the law of noncontradictron: Cl
+
+•
+
+"
+
+<ARI POPI I H
+
+(p.fr.i. One would, however, as hans Lenk suggests, need to maintain a
+frinetirnal equivalent or analogue, which might he achieved objectlittgrri.sl ri-i ily wit Ir Sheffer's stroke or Pierce's operator, or nietalinguist ically o ill prchcations of truth arid falsity, or in a variety of other ways.
+j., i-i, Itrouwer: "Mathematik, Wissenschaft und Sprache,'' Monat,circfte
+Jo' 4iutheniatik undPhi'sik, Vol. 36, 1929. pp. 153 64; and "Consciousness, l'hi tosophy, and Mathematics," in Proceedini,'s of i/it' Tent/i Jnterna.
+hood ('tigress of J'hilosopirt', Vol. I (A mstcrdam North-I holland
+Pubhshiirg Co.; 1949), pp. 1235 1249. The interpretation of I)rouwer
+giv.'n hicet' was presented in my ''Limits of Rationality: ,( ritieal Study of
+Sioit I ogical l'robk ma of Contemporary Pragmatism and Related Movemcrtts," op. cit., pp. 304 9. l'opper includes a closely similar interpretslion of It FOU\VCC iii Oh/it-die A unit-ledge, op. Cit., pp. 139 40.
+One niigltt irifornially develop a number of related distinctions: there
+volt hi ti' drift ri, 'of for, arguoir'n I agaiiist, ar5'Ut?ie/ll alt 'UI i/ri' leo i/i nj,
+
+f
+
+''
+
+argument about i/ic co,rJjlw,rs under tihich a particular ctatc,nen( would
+he ,Olse, .'lrgrlnr-ot about, as meant here, requires basic Logic I with
+ret.rarssniission of falsity. In ar,çulne,rt for, on the other hand, one might
+have aitirost arry transnrissiorr rules: one might have Iranstirission of
+truth, for irrstarscc, without retransmission of falsity.
+ee WW. Bartley, 111: The Retreat to C'o,nttritmt'nt, op. cit., p. 173.
+Sire W.W. hartley, III: "Limits of Rationality," op. cit.
+See K. H. Popper: Tire Open Society and/is Enemies, chapter II.
+On tIre other hand, Quirre links the problem of the analytic-synthetic
+with an unlertairle empiricist distinction between logical or formative
+signs and descriptive signs, a distinction in terms of which descriptive
+signs gain meaning only on the basis of observation or sense data. Such a
+view requires a sharp and definite distinction between formative and
+descriptive signs; and if the view is abandoned, as Quine thinks it should
+be, it scents tlrat the importance of the analytic-synthetic distinction
+diminishes too. itut if descriptive words do not acquire meaning in this
+nay, it they are all theoretical, :rll theory.impregnated, as lopper rosintarns, then they niay or may not be used in a conventionalisi nay depending upon whether we wish to stick to tire theories in question or to
+subject tire I ri to severe test. Vie wed in this way, tIe pm h Ic ri drre riot
+even arise in the way suggested try Quine.
+See niy exchange with l)erkscn, op. cit. See alsts Hans tenk: ''l'tiilosophi.
+ache Logrklegtiindurrg und Rzrtionaler Kritizismur," in Yeitscirrif't fur
+P/tilos'ojhiac/,c Eori'huo Vol. 24, 1970, pp. 183 205.
+J ('flat han Bert tier t ''An :r ty tic- Sy n rIte tic,'' Proeer-di,rgs of i/ic A risior 'han
+Soc'otr. 1 958 9. Set' also ilennelt: "On Being Forced to a ('unehrision,''
+.t'irr,ii Iwo So it'll' .''upphi-nir'ntari' I'olunre, 35, 1961. tnni-restirigly, in
+ttc first paper Benocit tiles famous story of Achilles and the Tortiise ni
+order to support iris argiirrent. See my critique of Carroll's t:rle, arid rI
+its inc in thus corinectirt, in lily: ''Achilles, the Tortoise, and Fxpt:rnarun in Sea.' net- a nil (list (try.,, in i/rids/i Journal Jar i/ic /'/ti/osop/iy of
+
+217
+
+-
+
+- -
+
+-I
+
+•,
+
+th
+
+'
+
+F'
+'
+
+W W BARTLLY Ill
+Science, 1963. See also W.W. Bartley, Ill: Lewis Carroll's
+Syinbolk
+Logic, op. cit., pp. 466 470.
+It is interesting that Quine basically accepted Bennett's Cxpo.cition of hi
+position. See his relerence to Bennett's work in Word and Object
+p.68n. Another follower of Quine who writes in a way similar to Bennett is
+Morton White. In his Toward Reunion in Philosophy (Cambridge: Harvard University Press; 1956), p. 288. White maintains that an a priorj
+statement is one that we believe quite firmly and therefore "make jim
+mune" to overthrow. "It is, in short, a sentence of which we say, 'This
+is
+pinned down.. . calling S an a priori statement is another way of uttering
+-l accept' followed by S. followed by 'without attention to experience,'"
+Such an approach is deeply subjectivist, in the sense discussed by Popper
+in Objective Knowledge, Chapter 3. whereas the approach I took to presuppositions of argument was objectivist.
+"
+When a philosopher attempts to defend some traditional notion, as does
+Bennett, with an argument that implies that the traditional notion cannot
+solve the problem it was intended to solve, what has probably happened
+1's that, the philosophical problem in question has been forgotten while
+the. p1ujpsher's attention has been diverted to a subordinate problem,
+one that is, as in this case, of a technical character, and only important
+philosophically in the broade&connection. lam criticizing Bennet here in,
+terms of what I have called the "check of the problem,"
+"
+David Hume: An Enqu fry Concerning human Understanding, section 12.'
+" See Nietzsche's untimely meditation on Schopenhauer as Educator in
+Walter Kaufmann's translation in Existentialism from
+Dostoevsky to
+Sarire (New York: Meridian Books; 1956).
+"
+See my discussion of determinism in Part 11 of this series, and also in
+W.W. Bartley, Ill: Werner Erhard, op. cit., pp. 99-105. On the very important related thesis that no causal physical theory of the descriptive
+and argumentative functions of language is possible see KR. Popper:
+"Language and the Body-Mind Problem," in Conjectures and Refutation:,
+pp. 293 98. See also Popper's "Of Clocks and Clouds: An Approach to
+the Problem of Rationality and the Freedom of Man," in Objective
+Knowledge.
+" For examples, sec "On the Sources of Knowledge and of Ignorance,
+Conjectures and Refutations, pp. 3-30.
+For examples, see The Open Society and Its Enemies, Chapter 11, and
+L'nended Quest, section 7.
+" See Unended Quest, p. 27.
+" See Conjectures and Refu'atjooe p. 8.
+IO See
+Conjectures and Refutat ions, Chapter 4.
+'°' See
+Objective Knowledge, Chapter 5.
+See Objective Knowledge, p. vii.
+'°
+See Logic of Scientific Discovery pp. 80- 82.
+"'4 Originally published in the
+Annals's de Philosophic C'hretieiine, 77th
+Year, 4th Series, I, (Oct. and Nov. 1905), and in Revue de 4htaphysique
+
+218
+
+I
+
+'iii
+
+wi OSOPII
+
+O
+
+I
+
+ARL POPPI R
+
+et de Morale, 12 (July 1904). Duhem's article is republished in Fnglish
+translation as an appendix to I)uhem: The Aim and Structure of Physical
+lh,'ors' (Princeton: Princeton U Iniversity Press; 1954).
+" l,'r Itellarmirto's letter, see I.e Opere di Galileo Galils'i, XII, Barhera.
+Firenze. 1902. Item 1110'. pp. 171. 172.
+Conjectures and Re ulatiunS, p. 254.
+'°' l.,','ic of ,S'cie,ttific Discovers'. p. 55, n. 3.
+' conjectures and 5eJufafiofl5 p. 42.
+'°'
+
+0
+
+"
+
+'
+
+(
+
+"
+
+C'onjectures and Rejulations. p. 33.
+
+Logic of Scientific Discovery, p. 394. See also p. 108 and p. 415; and
+Conjectures and Rt'juta(ims, p. 279.
+Logic of Scientific Discovery, p. 22.
+On such statements see i.W.N. Watkins: "Confirmable and Influential
+Metaphysics," blind, July 1958, pp. 344 365; and J.W.N. Watkins:
+"Between Analy tic and Fnspirical," l'hilosophsy, April 1957. pp. 112131..
+Popper's valuable critical comments on the various forms such strategies
+can take, and on how to avoid them, occasionally need some qualification. For instance, there is nothing intrinsically wrong about invoking a
+theory of the character of (lie theory of resistances. It may well be true
+that consciousness is so recent an aquisition of.human nature, and still in
+so frail a state, that resistance may easily be aroused when the existence
+of an unconscious is argued. Pointing out this possibility need not necessarily be a criticism-reducing strategy: it is an important part of the
+psychological theories in question, and to discount it just because it can
+be misused would he itself uncritical.
+Popper's view of Freudian theory is corroborated by the recent investiga(ions of two researchers who hold a generally favourable view of Freudian theory. Thus in The Scientific Credibility of Freud's Theories and
+Therapy (I,ondon: Harvester Press; 1977), p. 6, Seymour Fisher and
+Roger P. Greenberg write as follows: "The avoidance of questions of
+scientific validity has hurt the psychoanalytic enterprise by encouraging
+dogmatism. . . psychoanalytic theory has taken on cast-iron qualities.
+A false certainty is displayed in anticipation of inevitable arid basically
+fair inquiries. . . rise fact that the official psychoanalytic establishment
+has not admitted to any major faults in its theoretical structure for such
+a long time is a measure of its defensiveness. . . What changes have
+managed to crccui have reflected the power status or persuasive fluency
+of individuals pleading their special views .,.'I'hcrc has also been an informat and unspoken attrition of concepts. Some of Ireud's ideas.
+have for all practical purposes been ejected by the psychoanalytic establishment. . . witliuri S explicit testing of their validity or without a direct
+statement that (hey would no longer be given serious weight... the
+selection of what is to he considered valid or invalid has been left to a
+process whose nature is vague arid really irsipossible to specify... has
+ultimately imparted a static quality to psychoanalytic writingc ... psy-
+
+219
+
+I;
+
+W.W. BAR FLF, ill
+
+•:
+
+•
+
+.
+
+choanulysis has entrenched itself behind concepts that it is
+prepared to defend rather than lay on the line for scholarly scruU
+Of course one should not too hastily ascribe these difficulties to
+intrinsic difficulties of criticizing Freudian theory, but should also
+into account that this theory was made the ideology of a professi
+which had a vested interest in it.
+Thus Popper is wrong (Logic oJ' SeientiJii Discoicri, p. 84), in 'vrit
+that Only in the case of systems which would he faisifiable if treated in
+accordance with our rules of empirical method is there any need to guard
+against conventionalist strategems."
+While ethical theories are never empirically verifiable there are so
+theoretical contexts in which they conllict with synthetic scirntiti2
+statements. This can occur for example in Contexts where "ought inr
+lies can'" is agreed to apply to persons. In such situations ethical statt
+ments may be citicized by synthetic statements of physical impossibility
+Yet it would be quixotic to call such norms scientific
+or synthetc
+See my Aiorc,rlity and Religion, op. cit., Chapter I; and my "The Reduc
+tion of Morality to Religion," Journal oJ Philosophy, October 22, 1970
+pp. 755. 768.
+II,
+tLunjecfurcs and Refutations, p. 257; The /.ogic of Scientijic Discoperv,
+p. 3l4;Die heiden Grundproblerne der Erkenntnistheorie, p. 10.
+'is
+Logic of Scientific Discovery, p. 37,
+115
+See Section XV, this paper. Popper's chief discussion of metaphysio
+appears in his unpublished Postscript to (lie Logic of Scientific Disco ro'ry.
+See also KR. Popper: "Philosophy and Physics," in A tti del XII Congo's.
+so Internazionale di Filosofia, Venice, 1958,
+published 1960, Vol. 2,
+pp. 367-74, See W,W, flartlcy, Ill: "Max Jammer on the Interaction
+between Science and Metaphysics," Proceedings of the Seventh Interns.
+tional ('onference on the Unity of thc Sciences (New York, 198W'
+Joseph Agassi: "The Function of Interpretations in Physics," University
+of London Library, 1956. See also Agassi: "The Nature of Scientifir
+Problems and their Roots in Metaphysics," in M. Bunge, ed.: l7ie ('ruin-al
+Approach, op, cit.
+20
+The regula live impact of nsetaplrysical theories on scientific hypotheses
+has often been illustrated. Tatarkiewicz, writing of Ptotinu,s, has shown
+how such a metaphysical theory may also affect a different kind of repre
+sentation: painting. Thus Plotinus's aesthetics was actually ioiplenri:nt'.t
+in works of art which followed such principles as these all that is tin'
+result of imperfection in the sense of sight nirici Ire avoided: e.g.', dinrisu
+tion of size and fading of colour, deforniation through perspective, alteration in appearance produced by light and shade. fIrings must he slins.T1
+as the spectator sees them at close quarters, in the' foreground, in fuil
+light, in particular colours and ss I tli all details clear. Such followed freer
+Plotinus's theory that matter was mass and darkness, while the spirit 5555
+light, so that, to penetrate beyond matter to spirit, painting should :,vokt
+depth and shadow and present only the ltinimisu, ,surface of things. 5ev
+
+TIlE PItILOSOPHY OF KARL POPPER
+Vol. 1, ed. Jean U. ltarrell (The
+W. Tatarkiewic History of Aesthetics,
+}laguc'PariS Mouton-PWN (Polish Scientific Publishers, Warsaw); 1970).
+pp.323'4.
+See for instance Moritz Scltlick "The Turning Poiht in Pliilosiiplty," tn
+Logical Positivism, ed. A.J. Ayer (London: George Allen & ttnwin. Ltd;
+1959).
+This makes it more understandable why positivists, even when they could
+accept the gist of Popper's objections, were not sufficiently satisfied with
+his "solution" to "their problem" to abandon their attempts to achieve a
+device - through meaning analysis . for a more radical sifting. The
+positivists stuck to meaning analysis in part because Popper's criterion is
+insufficient to get rid of long-winded nonsensical-appeariflg claims and
+other illegitimate theories, Popper showed that the specific kind of mea9lug analysis in which the early positivists engaged could not generally
+succeed, but he did not show that no metaphysical statements could be
+no
+dealt with in such a way; Popper did not, for instance, show that
+metaphysical
+doctrines
+were
+analogous
+to
+category
+mistakes.
+traditional
+only that not all were, It was, then, not unreasonable to suppose that
+some kind of meaning analysis might be oseful in criticizing such views.
+Mind, July
+" .LW.N. Watkins: "Confirmable and Influential Metaphysics,"
+1957;
+"The
+Philosophy,
+1958; "Between Analytic and Empirical,"
+Haunted Universe," The Listener, Nov, 21 & 28, 1957; "Epistemology
+and Politics," Proceedings of the Aristotelian Society, 19578. See aLso
+his "Metaphysics and the Advancement of Science," The British Journal
+for the Philosophy of Science. June 1975;and "Minimal Presuppositions
+.and Maximal Metaphysics," Mind, April 1978.
+Now published in book form as Imre .Lakatos: Proofs and Re/u tations
+(Cambridge: Cambridge University Press; 1976).
+" Adotf Grunbaum ignores Popper's reply, and repeats thi%wa.rn.old critic'
+lam in his "Is Falsifiability the Touchstone of Scientific Rtionahity? Karl
+Popper versus Inductivism," op. cit.
+Joseph Agassi: Science in flux, op. cit., pp. 40 50, See aLso Agassi's
+"Corroboration versus Induction," in British Journal for the Philosophy
+ofScience, Vol. 9, February 1959, pp. 311 317.
+Imre Lakatos: Matheniatics. Science and Epistemology (Cambridge:
+Cambridge University Press; 1978), p: l97n. See also Popper's reply to
+Lakatos on this point in Schilpp volume, p. 174 (note 226), and compare
+Popper on rational action, following L.akatos, in Schiilpp p. 82.
+
+Il:
+
+220
+
+221
+
+

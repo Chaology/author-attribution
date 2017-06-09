@@ -1,0 +1,1217 @@
+W. W. BARTLEY, III
+
+s
+
+1•
+
+',
+
+-;
+
+()
+
+THEORY OF LANGUAGE AND PHILOSOPHY
+OF SCIENCE AS INSTRUMENTS OF
+EDUCATIONAL REFORM: WITTGENSTEIN AND
+POPPER AS AUSTRIAN SCHOOLTEACHERS
+For the most part an experiment about essentials will not occur to anybody unless a
+good problem leads to it. And a problem
+arises in a theoretical context. Moreover,
+just why should we have merely facts, not
+theories and explanations?
+Wolfgang Köhler1
+
+When we begin to study the immediate historical background of contemporary philosophy we encounter a curious fact: one of the most important parts of this background is precisely the disappearance of this
+background from our field of vision.
+II
+
+No one needs to be reminded that several English and American writers
+- Bertrand Russell above all - influenced the philosophical and scientific
+movements of Vienna, Prague and Berlin between the wars. Yet many
+ideas and developments closely associated with these movements - for
+example, Wittgenstein's early and, even more so, his later thought, and
+Popper's theories of induction and demarcation - were developed in soil
+foreign to English and American philosophy, and under the influence of
+German and Austrian thinkers whose names and views are unfamiliar
+to the majority of English-speaking philosophers.
+That this background should have disappeared from our historical perspective is itself a most intriguing fact, one that cries for explanation.
+Such an explanation cannot be given in the present paper, which is intended only to suggest the extent of our ignorance about these matters,
+and to indicate some of the corners and bypaths of 20th century philosophy into which we should have to look if we were to begin properly to
+understand ourselves. For it is doubtful that the thought of, say, Witt-
+
+Boston Studies in the Philosophy of Science, XIV. All rights reserved.
+
+5
+
+3O
+
+w.
+
+W.t
+
+SLLD1,
+
+genstein, Popper, or the members of the Vienna Circle can be properly
+understood or appreciated without better knowledge of the social and
+intellectual milieu in which it was developed. Moreover, this hidden background is well worth studying for its own sake, since it is an important
+part of one of the most fertile and exciting periods which any culture has
+enjoyed.2 If this essay will, then, do no more than probe a few small parts
+of a rich terrain, I nonetheless hope that my remarks will stimulate others
+to begin to view the ideas of our contemporary philosophical heroes in
+a somewhat broader context than is usual.
+The topics which I have chosen to discuss are: (1) the once famous but
+now virtually forgotten school reform movement which was developed
+in Austria by Otto Glöckel immediately following the collapse of the
+dual monarchy and which managed to survive until the Doilfuss dictatorship of 1934; (2) the psychological school whose ideas undergirded this
+school reform: namely, Bühlerian child psychology, a critical version of
+Gestalt psychology, difficult to classify precisely, but perhaps closer to
+the thought of Piaget than to that of Wertheimer, Koffka, Köhler, or
+Kurt Lewin; (3) the personal participation in this movement by Ludwig
+Wittgenstein and Karl Popper; (4) the development of Wittgenstein's
+thought construed as that of an amateur child psychologist turning partly as the result of his experience in schoolteaching at this particular
+time - from an essentially associationist psychology to a configurationism
+or contextualism close to that of the Gestaltists; (5) the thought of Popper
+viewed as that of one chiefly a schoolteacher and neo-Kantian Gestalt
+psychologist, a man far removed from the essential ideas of logical positivism, who virtually stumbled into his relationship with the Vienna Circle
+and the consequent development of his hobby - namely, the philosophy
+of science - on which his reputation came to rest but which cannot properly be understood without some knowledge of his earlier research interests
+and permanent anti-positivist outlook; (6) the thought of the later
+Wittgenstein and the early Popper viewed as far more closely linked in
+spirit one to the other than to that of the Viennese positivists whom they
+influenced.
+III
+
+We should begin with an account of Austrian school reform, for the role
+it played is crucial. The character of the debate over the Austrian school
+
+system, and some of its implications for both philosophy and psychology,
+are reflected in the title of a pamplhet which Otto Glöckel published in
+1928: Drillschule, Lernschule, Arbeitsschule (or Drill School, Learning
+School, Working School). The year 1928 was a rather late date in the
+debate about these various kinds of schools; in fact, the debate began
+long before Glöckel's own birthdate in 1874. For many decades, even
+under the Habsburgs, the Austrians had enjoyed one of the most progressive school systems in Europe. Yet, however well the pre-war Austrian
+system may have compared with that of other European countries, it
+was hardly a paradigm of progressive thinking: instruction, largely in the
+hands of the Roman Catholic Church, was mechanical and as uniform
+as was practical. As Count Rottenhan, royal advisor, defined its
+aims, the purpose of the lower schools was "to make thoroughly pious,
+good, tractable, and industrious men of the laboring classes of the people."
+The constitution of the common schools issued by the emperor in 1805
+was unequivocal: "The method of instruction" it decreed, "must endeavor
+first and foremost to train the memory; then, however, according to the
+pressure of the circumstances, the intellect and the heart. The trivial
+schools will strictly refrain from any explanations other than those exactly
+prescribed in the 'school and method book'..."3 If any educational psychology lay behind this approach, it was a version of associationism
+like that propounded by Johann Friedrich Herbart (1776-1841). After
+the revolution of 1848 most chairs of philosophy in Austria were filled by
+followers of Herbart,4 who viewed the human mind as neutral and passive,
+lacking innate faculties for producing ideas. The theory of the human
+mind, as presented by Herbart, rather resembles what Popper in his early
+article, 'Die Gedächtnispfiege unter dem Gesichtspunkt der Selbsttätigkeit',5 was to describe as 'the bucket or tub theory of the mind', an expression that Popper was often to repeat in his later work. According to
+such theories, ideas themselves might be active; but they lead their lives
+in passive storehouse minds. To a Herbartian, whose aim above all is
+moral education, teaching consists in feeding students those ideas which
+it has been decided should dominate their lives. At no time, according to
+Herbart, should a teacher debate with his students on any matter. As he
+explained in his Outlines of Educational Doctrine: "Cases may arise when
+the impetuosity of the pupil challenges the teacher to a kind of combat.
+Rather than accept such a challenge, he will usually find it sufficient
+
+w. w. BARTLEY, III
+
+THEORY OF LANGUAGE: WITTGENSTEIN AND POPPER
+
+at first to reprove calmly, to look on quietly, to wait until fatigue sets
+in"6
+
+questionable depth. More important, particularly for philosophy and psychology, were certain other changes - in particular, the systematic effort
+to undermine the very methodology of the Drillschule and Lernschule.
+Take spelling for example. Prior to 1919, the rules of spelling had been
+dictated, written on the blackboard perhaps, and then force-fed to students. After the school reform, various experiments were tried - under the
+general rubric of 'Self-Activity' or 'Selbsttätigkeit' - to encourage youngsters to figure out rules for themselves (with little help from the teacher)
+through the use of word-lists. I believe it likely that the second and final
+book that Wittgenstein published during his lifetime: namely, his Wdrterbuch für Volksschulen, published as an official school text in 1926, was
+intended in part for this purpose. (Wittgenstein also had other purposes,
+not relevant here, though perhaps relevant to his philosophy: for example,
+the elimination of words of foreign origin, and the attempt to teach proper
+syntax through shrewd exploitation of dialect.) Possibly my suggestion
+here may prove helpful to those who have been bewildered to learn that
+a man of Wittgenstein's stature should have published a list of words,
+and who appear reluctant even to include this book in his bibliography.
+Another significant reform experiment was dubbed 'integrated instruction'. Although this experiment, like the entire school reform programme,
+was later described as a Jewish concept, the word 'integration' has no racial
+or ethnic connotations here. It refers to an effort to allow individual
+teachers the latitude to determine how and when they would turn from
+one subject to another during the school day. No reading or spelling
+period as such, for example, was to be set aside. Although general goals
+were indicated, the interest of the children was supposed to determine
+how the day would be divided. Here again the implicit attack on the
+various associationist psychologies, with their emphases on 'unit ideas',
+is evident. That approach, so the school reformers believed, had led to
+an exaggeratedly compartmentalized and 'atomistic' approach to teaching and learning. As I shall explain below, this very practice of integrated
+instruction proves important in explaining certain episodes in Wittgenstein's life during the twenties.
+Such experiments help explain the general name - so difficult to translate into English - that was given to the new type of school: namely,
+'Arbeitsschule'. The word 'Arbeit', or 'work', referred not simply to the
+manual training and crafts taught but more importantly, in the context
+
+310
+
+It was such a doctrine, such schools - Drillschule and Lernschule - and
+such a school system, that Otto Glöckel (8 February 1874-23 July 1935),
+not to mention his perhaps somewhat better-known subordinates, Ludwig Wittgenstein and Karl Popper, was to combat. Before turning to
+Wittgenstein and Popper, a word need be said of Glöckel. Himself the
+son of a public schoolteacher, Glöckel in effect made his entry into the
+school reform movement by being dismissed from his teaching post due
+to his political activities. This act, the work of Karl Lueger, a famous and
+controversial Christian Socialist mayor of Vienna, occurred in early September 1897; and it was not until nearly twenty years later, in 1916, that
+Glöckel reappeared in a position of educational significance. At that time
+Glöckel put together a programme of educational reform for the tottering
+empire, a programme which he began immediately to put into effect in
+'German Austria' in early 1919, when he was put in charge of the ministry
+of education of the new republic.
+Changes of so radical a nature would probably not have been possible
+were it not that, if for only a brief moment, the chaos attending the fall
+of the Austro-Hungarian bureaucracy brought about a considerable reduction in the usual red tape. At any rate, experimental changes were
+already in effect as early as the school year 1919-1920. Only a few need
+to be mentioned here. The examination procedures according to which a
+child's future academic career virtually had to be decided at the age of
+11 were radically modified; military academies were abolished and their
+sites transformed into state boarding schools for exceptionally able youths
+from remote homes. Also abolished were some of the old types of finishing
+schools for girls, like the Offizierstochterschule and the Madchenpensionate. The areas in which girls were permitted to study were expanded, and
+married women were permitted to teach. Compulsory attendance at religious exercises was abolished; associations rather like the American Parent Teachers Association were formed; and instruction in the manual arts
+and crafts was instituted, in order - among other aims - to give middleclass children the opportunity to acquire more respect for hand labour
+by learning through experience that it was not so simple as it might
+seem.
+These are surface phenomena, of symbolic significance certainly, but of
+
+311
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: W1TTGENSTE1N AND POPPER
+
+of the German phrase 'sich etwas erarbeiten', it referred to an active
+participation in lessons, aiming no longer simply at the storage of facts
+of the Drillschule or Lernschule, but at the development of capabilities.
+'Sich etwas erarbeiten' suggests acquiring knowledge by working or puzzling something out for oneself. What was wanted was more independent
+and original thinking, activity, on the part of students - activity, as opposed to the fatigue that Herbart expected would set in when a pupil
+dared to play an active role in his education.
+Under the impact of such reforms the Austrian school system was
+literally transformed between 1920 and 1926. But this was also a period
+of deep social division for the first republic, accompanied by serious economic difficulties; and gradually the country became polarized politically
+betweenthe Social Democrats -those like Glöckel who had undertaken and
+carried out the school reform movement - and the much more conservative
+Christian Socialist Party, dominated by the Roman Catholic Church. For
+some seven years Social Democratic policies prevailed in the schools. By
+the middle twenties, however, the Christian Socialists and other even more
+right-wing groups began to grow rapidly stronger, resulting in a sharp retrenchment in the school reform - especially after the bitter political and
+religious strife of 1926. By 1927, when the Christian Socialists had obtained
+control almost everywhere in Austria except in the city of Vienna, the most
+interesting experimentation was forced to halt - except, that is, in Vienna,
+where the school reform movement continued under the leadership of
+Glöckel, who became administrative president of the Vienna School
+Council and remained in this office until 1934 - when the Dolifuss Dictatorship ended school reform, arrested many of its leaders, including
+Glöckel, and forced its chief publications - the journals Die Queue and
+Schuireform - to cease publication. During the censorship that followed
+these journals were even locked up ('gesperrt') in the National Library,
+and thus made inaccessible to the general reader.
+One other fact needs stressing here, since it too will prove useful below
+in understanding Wittgenstein. The compromises effected among the political parties in 1926 meant in practice that wherever the Social Democrats remained politically dominant - as in Vienna - Glockel's essential
+programme (described by his opponents as 'school Bolshevism') could be
+maintained. But in the country, after 1926 the Christian Socialists had
+firm control of the schools.
+
+Despite these upheavals, the general excellence that prevailed in Vienna
+until 1934 ought not to be underestimated. Robert Dottrens, of the Institut Jean-Jacques Rousseau in Geneva, reported: "At the conclusion of
+a tour through Czecho-Slovakia, Germany, Belgium, England and France,
+I do not hesitate to say that Vienna is ahead of all the other cities of Europe
+from the point of view of educational progress."8 Dottrens continued:
+"It is to Vienna, the pedagogical Mecca.., that the new pilgrims of the
+modern school must go to find the realization of their dreams and hopes."9
+
+312
+
+iii
+
+Iv
+
+One of the most important and famous shrines of this mecca was the
+Pedagogical Institute of the City of Vienna, the leading figures of which
+were Karl and Charlotte Bühler. As noted, an implicit psychology undergirded Glöckel's reforms: namely, a theory of the child as an active social
+being whose mind was far more than a bucket to be filled with appropriate information. In its attack on the Drillschule and Lernschule, the
+reform movement was essentially anti-Herbartian, anti-associationist,
+anti-elementarist in psychology.
+In 1923 Glöckel wrote: "Die ganze innere Schulreform ist wesentlich
+auf die Ergebnisse der psychologischen Forschungen der Kindesseele aufgebaut."° Only a few months earlier, in 1922, Karl Bühler (27 May 187924 October 1963) the child psychologist, had been called to a chair of
+philosophy and psychology both at the University of Vienna and at the
+newly reorganized Pedagogical Institute. Bühler's career had begun in
+Würzburg, where, in 1906, he became assistant to Kiilpe, the critical realist and critic of Mach's positivism. Following Kfllpe, Bühler began in
+Wurzburg to develop the theory of 'imageless thought'. This idea, as
+understood by Kulpe and Bflhler, was that in the intentional act of representation the particular image or model used, if any, need bear no
+imaginal resemblance to what is represented. Abstract words, used conventionally in this process, cannot be reduced to sense impressions. International attention was focused on Bühler's early ideas, as published in
+his habilitation thesis in 1907, as a consequence of a prolonged controversy with Wundt triggered by them. Bühler remained at WUrzburg for
+only two years, following Külpe to Bonn in 1909 and to Munich in 1913.
+Whilst still at WUrzburg, however, he became associated with Koffka,
+
+314
+
+W. W. BARTLEY, III
+
+also an assistant to Kulpe at this time, but who was soon thereafter to
+join Wertheimer and Köhler in forming the 'school' of Gestalt psychology. The association between Koffka and Bühler continued for many years,
+but it was not harmonious. For Bühler claimed priority in developing
+some of the basic laws and experiments of Gestalt psychology, and, as a
+result, bitter polemics were exchanged.
+By 1920 Bühler had also made important contributions to the theory
+of language and to child and developmental psychology, fields which he
+cultivated in collaboration with his wife, Charlotte Bühler, herself an important psychologist. These subjects, which played important roles in his
+work at the Pedagogical Institute in Vienna and which were responsible
+for his being called to this post, provided the themes of his major works:
+Die geistige Entwicklung des Kindes (1918), an abridged version of which
+was translated into English as The Mental Development of the Child (1930),
+and of three other books, unfortunately still available only in German:
+Die Krise der Psychologie (1926), Ausdruckstheorie (1933), and Sprachtheorie (1934).
+Whatever Biihler's differences with the Gestalt psychologists were, their
+theories were closely akin on many points - in particular in their opposition to associationist psychology, reductionism, behaviourism, positivism, psychological atomism. One need not rehearse here the main ideas
+of Gestalt psychology, but one might emphasize how minor some of the
+early Gestaltists considered the role of sense experience. Attacking the
+associationist and empiricist principles of Locke and Hume, the principles of contiguity and frequency, they sought to show that theorymaking, organization, was a basic function of the human mind independent of associations of sense-impresions: structural properties of the human mind gave priority to the organizing and theorizing activity of the
+mind, which in turn determined the kinds of wholes with which we would
+deal as 'elements' of our thinking. The Gestalt psychologists did not
+doubt that their views were valid not only in psychology but also in epistemology. Köhler, in particular, stressed that his argument against psychological atomism affected epistemological atomism too. And Bühler
+rejected what he derisively called the view of language as physiognomy
+-thaview,nshort icwasvroulyknwas'thepicur oyf
+language' and as 'logical atomism', and which Bertrand Russell had described in these words: "In a logically correct symbolism there will always
+
+1Ito1cx ,Jr
+
+i-ti,
+
+'v".
+
+be a certain fundamental identity of structure between a fact and the
+symbol for it; and.., the complexity of the symbol corresponds very closely with the complexity of the facts symbolized by it."
+During his sixteen years in Vienna, Bühler acquired many students and
+disciples who were later to attain distinction in their own right - among
+them Paul Lazarsfeld, Egon Brunswik, Else Frenkel-Brunswik, Konrad
+Lorenz, Karl Popper, Lotte Schenk-Danzinger, Albert Wellek, Edward
+Tolman. Egon Brunswik's name may appear surprising in such a list because of his own well-known association with logical positivism. This
+should not mislead one into thinking that Bühler looked favourably on
+the positivist movement. As a professor in the University of Vienna he
+naturally collaborated professionally with positivists; indeed, he and his
+wife were very good friends of Moritz Schlick and his wife. To give two
+pertinent examples of their professional cooperation, Schlick and Bühler
+were Popper's Ph.D. examiners; and they were the Ph.D. examiners as
+well for Thomas Stonborough, Ludwig Wittgenstein's nephew (who, incidentally, wote up his dissertation in Wittgenstein's hut in Norway).
+However cordial their social and professional relations, Schlick and Bühler
+were far removed philosophically. Indeed, Bühler regarded positivism
+with a combination of hostility and contempt. It is reported that he found
+it difficult to endure the thought that Brunswik had joined the Vienna
+Circle and had then gone on in America to advocate operationism and
+'unitary science'. This Bühler is said to have regarded as a personal betrayal.12
+V
+
+I have just described Karl Popper as one of Bflhler's disciples; and earlier
+I mentioned the personal participation of both Wittgenstein and Popper
+in the school reform movement. It is occasionally recalled that both
+Wittgenstein and Popper were schoolteachers in and near Vienna during
+the 1920's. But to my knowledge, no one has ever raised the question
+whether their activities as schoolteachers might not be relevant to their
+philosophies. I believe that there was a quite important relationship between these two activities.
+Take Wittgenstein first. I am about to deal with the 'mystery years' in
+his life between the completion of the Tractatus and his return to Cambridge in 1929. The story I am about to relate makes Wittgenstein
+
+-o
+wi,i(Afr#A
+
+w. w. BARTLEY, iii
+
+THEORY OF LANGUAGE: W1TTGENSTEIN AND POPPER
+
+appear a more rational and sympathetic figure than other accounts I
+know. Writers often express some puzzlement about Wittgenstein's behaviour after the first war. George Pitcher, for instance, in his introduction to Wittgenstein's life and thought, muses as follows: "A man of
+acknowledged genius who, after knowing next to nothing about logic and
+philosophy, had made important contributions to both fields within a
+remarkably short period of time, a man who could not help having a
+brilliant future in one of the most sophisticated of all intellectual disciplines - this man turned his back on all that and devoted himself to the
+humble task of teaching young children in remote villages."3
+I do not want in any way to criticize the excellent studies of Pitcher,
+W. D. Hudson or many other writers who have been similarly puzzled by
+Wittgenstein's behaviour; but one cannot help being mildly amused by
+the notion that only a rather eccentric person would pass up an opportunity for academic success in England - particularly to go into elementary education! Wittgenstein was, however, hardly of the stuff of which
+the typical British don is made. He was not even British: he was a patriotic Austrian who had during the war become a sort of socialist mandarin of a Tolstoian stamp of mind. I suggest that he deliberately and for
+good reason chose elementary school teaching as a career. It is unlikely
+that Wittgenstein chose school teaching because of the Reform Movement;
+such was hardly his style, and the slogans of school reform were frequently of a vulgarity which would have irritated him. But his family, including
+the two sisters who took a particular interest in him, Hermine Wittgenstein (who herself ran a day-school for poor boys in Vienna) and Margarete Stonborough, knew Glöckel personally; and Wittgenstein could
+hardly have been unaware of the opportunities available through the new
+movement. Again, Ludwig Erik Tesar, an active school reformer, was
+one of the beneficiaries of Wittgenstein's famous bequest to Ludwig von
+Ficker, better known for its more famous beneficiaries: Rainer Maria
+Rilke and Georg Trakl. It would, however, be wrong to overemphasize
+any such 'rational' element in Wittgenstein's choice. Shattered both mentally and physically by the war, he certainly took up his school teaching
+career at least in part as a means of 'Arbeitstherapie'. And his choice
+was strongly influenced even before his return to Vienna by the persuasion of his fellow-prisoner in Monte Cassino, Dr. Ludwig Hansel.
+In any event, within ten days of his return to civilian life, Wittgenstein
+
+was enrolled at a teacher training college - one of the first Lehrerbildungsanstalten operating under the general direction of Glöckel - and attended
+the year-long course required for the certificate. By the autumn of 1920
+he was teaching children in the third form, aged 9 and 10, in the tiny
+village of Trattenbach in lower Austria.
+About his day-to-day life as a schoolteacher the Wittgenstein literature
+gives us comparatively few solid reports. We are told that Wittgenstein
+was in constant friction with those around him, including his colleagues;
+that he was unhappy in Trattenbach and was transferred first to Puchberg
+(1922-1924) and then to Otterthal (1924-April 1926), also in lower Austria. Although he rarely saw his old English companions and admirers
+during this period, he did not distantiate himself from the Austrian school
+reform movement: he subscribed for a time to Die Queue and to Schulreform; and in 1924 he produced his official wordbook.'4
+As a schoolteacher he is said to have been unusual in certain respects.
+Pitcher reports:
+
+316
+
+•
+
+317
+
+The next class would often be kept waiting outside his door, and he regularly kept his
+young charges one or two hours - sometimes longer - after the rest of the school had
+been dismissed. The accepted teaching procedures held no interest for him; he was
+always experimenting with new methods and devices of instruction. He dissected animal
+corpses and assembled their skeletons, explained models of steam-engines, set up with
+his students a potter's wheel on which they fashioned clay pots. . . . If he happened by
+chance to meet some of his youngsters in the evening, he might give them instruction
+in astronomy on the spot. In mathematics, he had great success; he took his students
+well beyond the ordinary requirements for their class, and introduced the older, more
+gifted ones to advanced problems in algebra.
+
+Despite such successes, a serious crisis flared up in Otterthal in 1926
+having to do in part with complaints arising from his disciplining of a
+child. This led to a trial and a compulsory psychiatric examination for
+Wittgenstein. Although he was eventually acquitted, Wittgenstein voluntarily resigned his post in April 1926, thus bringing his career as schoolteacher to a close.
+Taken in isolation, these events might appear odd but, apart from their
+having happened to Wittgenstein, not terribly important. If we fit them
+into the background of the school reform movement, however, we get a
+more intelligible and significant picture. For example, Wittgenstein's
+practice of disregarding the so-called 'usual' school periods, the division
+of the school day into 'periods', was a policy entirely consistent with
+
+318
+
+W. w. BARTLEY, HI
+
+Glöckel's principle of integrated instruction, which allowed individual
+teachers to determine how and when they would turn from one subject
+to another. indeed every teacher was encouraged to experiment for himself, here as in other areas.
+The claim that "the next class would often be kept waiting outside his
+door" by Wittgenstein is false. it suggests the changing of rooms procedure with which we are familiar in the upper grades of our elementary
+schools and in junior high and high schools. But as it happens this system
+was not in use in Wittgenstein's schools. Richard Meister reports of
+Austria in the 20's and 30's: "in the eight-year elementary schools in the
+country, as well as in the general elementary schools and final grades in
+the cities, there is a system of class teachers, where one master teaches all
+subjects except religion. The latter is given by special teachers of religion
+for each denomination separately. In the higher elementary schools there
+is a system of subject teachers, where each subject or group of subjects is
+taught by specially trained teachers."5 Since Wittgenstein was a lower
+elementary schoolteacher there was no changing of classes in his school,
+a fact which I have confirmed by discussing these matters with Wittgenstein's former colleagues and students. Rather, it was not the students
+but the local priest (Father Alois Neururer, in Trattenbach), who was
+often kept waiting outside the door by Wittgenstein's experimental
+teaching!
+In any case, the tale about Wittgenstein's resignation following complaints about his rough disciplining of certain students is incomplete as
+it stands. Since school discipline of the roughest sort had been common in
+the Habsburg domains, and was still common during the 20's and 30's
+(bamboo sticks often being used, so I am told), it is prima facie unlikely
+that his colleagues would not have supported him (as some of them indeed did) against a parent's complaint - even if the charge were true.
+Of course it is possible that Wittgenstein did mercilessly beat one of his
+charges - but such conduct does not accord with the memories of his
+former pupils in Trattenbach and Otterthal, who stressed that although
+Wittgenstein was strict his punishment was always fair.
+Another explanation occurs to me. I conjecture that, as can often happen in schools, some small disciplinary quarrel was made the pretext for
+a more deep-seated complaint - very likely through some sort of collaboration (the details of which we are not likely ever to learn) among some
+
+THEORY OF LANGUAGE: WITTGENSTE1N AND POPPER
+
+319
+
+of the townspeople, some of the local clerics (but not Neururer, who was
+a friend of Wittgenstein), and some of Wittgenstein's superiors and colleagues. For it will be recalled that the resignation came in 1926, an
+exceedingly turbulent year in schools throughout Austria. I suggest that
+conservative farmer forces in Otterthal lost no time in sending packing
+back to Vienna a man whom they must have felt threatening to them in
+many ways: Wittgenstein was thought to be rich (a story which is not
+strictly true: he made over most of his fortune - which was producing an
+annual income of 300000 Kronen in 1914 - to his sisters Hermine and
+Helene and his brother Paul. The fortune was not affected by the
+German and Austrian wartime and postwar inflation, neither during the
+war when still in Wittgenstein's name, nor later, when in the names of his
+siblings. For before his death in January 1913, Ludwig's father, Karl
+Wittgenstein, had invested virtually his entire fortune, apart from real
+estate, in American iron and steel stocks. That money which the family
+earned within Austria during the First World War with government bonds
+and similar investments was invested in real estate prior to the outbreak
+of serious inflation; and in the period between the wars the family fortune
+was kept largely in Holland, once again safe from inflation. Wittgenstein's
+siblings in effect held this money in trust for him, in case he should ever
+want it back, until the mid 1930's when, with the approach of war, the
+fortune was distributed amongst Wittgenstein's nephews and nieces and
+other family members.) He was a socialist; he was known not to be Roman
+Catholic; he was a proponent of progressive education, the author of a
+positivist tract, was known by his villagers to be homosexual and thought
+by some of them to be a misogynist to boot; and - what must have been
+hardest to bear - he was an extremely successful teacher for all that. His
+effect on his students was virtually magical.
+To turn to Karl Popper, usually regarded as one of Wittgenstein's
+antagonists. Everybody knows that Popper's main formal background
+was in physics and mathematics. It so happens, however, that what everybody knows is false. In fact, Popper is an amateur physicist and mathematician, his formal training having been in education and in Gestalt psychology, under the supervision of Karl Biihler.'6 His thesis for his teacher's
+training certificate (1927) was entitled: 'Gewohnheit und Gesetzerlebnis';
+and his doctoral dissertation, Zur Methodenfrage der Denkpsychologie
+(1928), was a defense of Bühler's ideas - as outlined for instance in Die
+
+320
+
+W. W. BARTLEY, III
+
+Krise der Psychologie - against the associationist physicalistic ideas of
+Schlick, which Popper vigorously attacked.'7
+Unlike Wittgenstein, Popper was not a recluse, but was for a time actively involved in socialist party activities in Vienna and in the School
+Reform Movement. One of the more important figures with whom Popper
+collaborated in his political and social activities was Alfred Adler.
+Throughout this period Adler worked as closely as he was permitted with
+the school reform movement in Vienna. Adlerians, including Adler himself, contributed to Die Queue and Schuireforin; Adler gave courses at
+the Volksheim and at the Pedagogical Institute; and some of his disciples
+- e.g., Birenbaum, Scharmer and Spiel - opened an Adlerian school for
+children of poor Viennese families in September 1931. An Adlerian child
+guidance clinic was opened as a pilot project at the Volksheim; and eventually twenty-eight such centres existed in Vienna, most of them situated
+within school buildings. Stressing his ideological kinship with the Bühlers,
+Adler argued that individual psychology showed many ideas in common
+with Gestalt psychology; and Wolfgang Köhler later agreed with this
+evaluation - although without reference to the Bühlers. In his book on
+Adler, Lewis Way writes that the viewpoint of Gestalt psychology "is
+as near as one could wish, given its different subject matter, to that of
+Individual Psychology."8 Another social and psychological theory closely akin to Adler's in some respects is Popper's doctrine of 'the logic of the
+situation'.'9
+And this leads me from my digression on Adler back to Popper. It
+was not only through Adler that Popper was involved in the School Reform Movement. Indeed, Popper has often told the story of his personal
+break with Adler.2° Popper also worked with Eduard Burger, the
+editor of Die Queue, and contributed articles on pedagogy to both Schulreform and Die Queue. These virtually unknown publications, in which
+some of Popper's later ideas are sketched, include two fairly substantial
+articles ('Zur Philosophie des Heimatgedankens', and 'Die Gedächtnispflege unter dem Gesichtspunkt der Selbsttätigkeit', published in Die
+Queue), and a piece of juvenilia, 'Uber die Stellung des Lehrers zu Schule
+und Schiller', published in Schuireform. Popper also published dozens
+of short reviews of books and of articles on psychological and educational
+topics. These reviews, sometimes only a few lines in length, are occasionally revealing about Popper's allegiances, betraying his exten-
+
+sive familiarity with the publications of Adler's school as well as his
+alliance with Bühler in the latter's quarrels with the Koffka group. For
+instance, in reviewing a work on Gestalt psychology published in
+1931, Popper complains that it fails to consider the views of Külpe and
+Bfihler.21
+Considering the depth of Popper's involvement with both individual
+psychology and Gestalt psychology, it is curious that in his later writings
+he mentions them so rarely: some brief, favourable but mildly critical
+remarks about Gestalt psychology - without any reference to the individual founders of the school - are to be found in The Poverty of Historicism.22 Popper's interest in education, on the other hand, can easily be
+seen in his later works, perhaps best in his essay 'Back to the Pre-Socratics', where he contrasts the dogmatic as opposed to critical traditions in
+education.
+-
+
+When one views Popper's thought against this background, it is hard,
+surprising as it may seem to some, to find much of strikingly novelty in
+his philosophy. His methodology turns out to be in effect a kind of critical
+continuation of the theories of Kifipe, Biihler, and Koffka - one that also
+bears a close resemblance on many points with the work of Piaget. I
+mention Piaget because it is sometimes said that his theory differs from
+that of the Gestalt psychologists in that he - by contrast to the Gestaltists thinks that learning occurs not only in the elaboration of intellectual
+structures but also in perception. Some Gestaltists have indeed written as
+if perceptual constancies of shape and size belong to the object perceived
+and are not modifiable by the observer. Whether or not this is a misreading of the intentions of most of the Gestalt writers, it is clear that for
+Piaget perception of such things as figures is not only gradually built up
+but also gradually corrected. Clearly BUhler, as well as the teachers of art
+in Vienna with whom he collaborated, held such a view. And Popper's
+view of conjecture and refutation or, as expressed by his associate E. H.
+Gombrich, 'making and matching' - is also close to Piaget.
+Popper's attacks on the positivists may, then, be construed as direct
+applications of the attacks already mounted by Koffka and Bflhler on the
+associationist psychologists. Even some of Popper's constructive ideas,
+including the emphasis on testability in connection with the hypotheticodeductive method, may be found in the work of his teachers: in particular,
+in that of Heinrich Gomperz.2' Popper's views acquire their distinctive
+
+322
+
+W. W. BARTLEY, HI
+
+form and emphases from the fact that they were elaborated in dialogue
+with the logical positivists; but they acquire no originality from this circumstance. Popper's notorious disagreements with Otto Neurath (18821945), for example, if put into the context of Popper's real ideological
+background, no longer appear like the internal feuding of two positivists;
+they are the disagreements of men sharply opposed on basic issues.
+Neurath had also contributed to Die Queue, outlining as his contribution
+to educational reform the so-called 'Viennese method', suggesting the use
+of pictures rather than words in tables of statistics, in order to avoid
+verbal misunderstandings arising from translation from one language to
+another. His tables, so Neurath maintained, could be used throughout
+the world without regard to language, and would, incidentally, contribute
+to the creation of a 'universal language.'24 This was only part of his broad
+programme of visual education, which aimed for an international language of simplified pictures, or 'isotypes'. In essence, Neurath's 'Vienna
+Method' aimed to give an invariant and self-explanatory pictorial sign
+for any given thing.
+It is hard to imagine a more striking contrast than that between this
+theory for educational reform through linguistic reform and BUhler's
+theory of language and of imageless thought. What was a programme for
+Neurath, was, in effect, a problem for Bflhler. In particular, BUhler was
+puzzled by the remoteness of child art (which he treated as representational in this context) from our visual experience; and he found an explanation for this phenomenon in our use of language - but without in
+any way suggesting that our language need on this account to be reformed.
+Arguing that children do not draw what they see but what they know or
+remember, BUhler explains that this is due to their mastery of language
+which, he writes, "models the mind of man according to its requirements." 25
+
+"As soon as objects have received their names," Bühler continues,
+"the formation of concepts begins, and these take the place of concrete
+images. Conceptual knowledge, which is formulated in language, dominates the memory of the child. What happens when we try to impress
+some event on our own memories? As a rule the concrete images fade,
+but as far as the facts are capable of being expressed in language, we
+remember them. This development begins as early as the second year in
+the child and when it begins to draw - in its third or fourth year - its
+
+THEORY OF LANGUAGE: WITTGENSTE1N AND
+
+oi'.ir
+
+.,
+
+memory is by no means a storehouse of separate pictures, but an encyclopedia of knowledge. The child draws from its knowledge, that is how
+its schematic drawings come about. ... If it wants to draw a man, it does
+not look around for a model or copy, but cheerfully goes ahead with its
+task and puts into the drawing whatever it knows about a man and whatever comes to mind. The man must have two eyes, even in profile, the
+horseman two legs. Clothes are hung round him afterwards, as one would
+clothe a doll. One can see what is in his pockets and the coins in his purse,
+as in an X-ray photograph. Models and copies at most serve as suggestive
+impulses." 26
+
+Bühler continues: "The order of a story is not necessarily the spatial
+order of the objects it describes. If we read in a fairy tale: 'the dwarf had
+a huge head and two short little legs, snow white hands and a nose like a
+glowing coal,' we should certainly not criticize the style because of the
+irregular order adopted. If such a sentence were to guide the efforts of a
+child that does not see the picture in its mind as a whole, we might expect
+that the short legs will be drawn as growing straight from the head and
+the hands likewise. The nose, again, might be put in its proper place in
+the middle of the face. But that is exactly what we see in some of the earliest pictorial efforts of the child. Its drawings are, in a sense, graphic
+accounts. Looked at in this way, the irregular order found in its drawings
+becomes intelligible. We cannot simply assume that the mind of the child
+is in a state of chaos, because if these graphic accounts be translated into
+language, they might be found to be well ordered. The fault lies not so
+much in a chaotic mind, as in errors of translating from knowledge - formulated in language - to the spatial order of pictorial representation •" 27
+In effect, BUhler is suggesting that representational drawing is one 'language-game' (although he does not use this phrase) in which children and
+others may engage. This game or activity has its own rules which are not
+the same as those of descriptive or representational verbal language. Moreover, attempting to apply the rules of the one representational activity to
+the other activity - equally representational - may result in distortion.
+If one wishes to learn to draw, then one must learn how to translate knowledge formulated in language into accurate drawing. But inaccurate drawing, inaccurate pictorial rendering, is in itself no index whatsoever of
+linguistic or conceptual confusion. Biihler would reject Neurath's educational programme, as well as that of the Russell-Wittgenstein of the 'pic-
+
+324
+
+W. W. BARTLEY, 111
+
+ture theory' as entirely unwarranted and bound to be self-defeating, being
+based on untenable psychological and linguistic premises.
+BUhier's own ideas about teaching children how to draw were applied
+quite directly in Vienna by such craftsmen teachers as Franz Cizek. As
+Dottrens reports Cizek's method: "The class .. . is asked to draw some
+ordinary object, say a pair of scissors. No model is put before them; the
+pupils draw from memory this object which they have occasion to use
+every day. With how many errors and how much difficulty they produce
+a satisfactory picture of that little instrument which they have seen a hundred times, but never really observed! The drawing finished, the teacher
+and the class examine together a pair of scissors ... Next each one makes
+another drawing, as before, trying to keep in mind the attentive observations he has just made. In this way Cizek's teaching leads to cultivation of
+the sense of observation, and a continual growth of the capacity of ex8 Here again we find an account virtually identical with Poppers's theory of conjecture and refutation and E. H. Gombrich's application of it to art in his book Art and Illusion and elsewhere, through his
+concept of 'making and matching'.
+VI
+
+I mentioned earlier the possibility of construing the later thought of
+Wittgenstein as that of an amateur but gifted child psychologist who
+turned, partly as the result of his experiences in school teaching during
+the twenties, from an essentially associationist psychology to a configurationism or contextualism closer to that of the Gestaltists. It is to this
+theme that I now wish to return.
+In Zettel 412, Wittgenstein asks: "Am I doing child psychology?", and
+answers: "I am making a connexion between the concept of teaching and
+the concept of
+Wittgenstein's question whether he is doing child psychology obviously
+does have to be answered affirmatively. Zettel, The Philosophical Investigations, and The Blue and Brown Books must be read in a number of different ways. But two of the necessary ways in which one must read them
+are: (1) as polemics on the atomism represented by the Tractatus or by
+Russell or Herbart; and (2) as attempts to develop a child psychology of
+language. After all, how does the Investigations open except as a critique
+
+of St. Augustine's account of how a child learns a language? Indeed,
+much of the first part of the Investigations focuses on the question of how
+children learn their native languages.
+Moreover, since his child psychology is developed in part as a polemic
+against his earlier atomism, that atomism could not have been, as has
+been occasionally affirmed in recent years, purely formal, neutral with
+respect to psychological issues: it was also psychological. Whether it was
+identical with the particular sense-data theories of Russell or the positivists is of course quite another question.
+My suggestion, then, is that there exists an important family resemblance between the views of the Gestalt psychologists, Popper's philosophy of science, and the views of the later Wittgenstein. To avoid misunderstanding, I am not chiefly interested here in making categorical
+claims about 'intellectual influences'. That Popper's thought was decisively moulded by that of Bühler, Kulpe and the Gestalt psychologists
+is beyond dispute. Whether Wittgenstein was directly influenced by Bühler
+or other of the Gestalt theoreticians is uncertain. He definitely was familiar with Bühler's ideas. The connection here is more direct - and more
+complicated - than it would be simply because of Wittgenstein's participation in school reform. Wittgenstein knew Karl and Charlotte Biihler
+socially and personally: in fact they were present at the famous first encounter between Wittgenstein and Moritz Schlick, as the guests of Wittgenstein's sister, Frau Margarete Stonborough,3' and had been invited at
+the suggestion of Wittgenstein's nephew, who was studying with BUhler at
+the University of Vienna. Whether Wittgenstein ever made any conscious
+connection between Biihler's psychology and his own later thought is,
+however, an open question. Friends and members of his family recall
+that Wittgenstein did not like the Bühlers personally, and that he occasionally referred to Karl Bühler as a 'charlatan'. This personal reaction,
+however, by no means precludes at least some positive intellectual influence.
+As for the 'family resemblances' among these thinkers, I have room to
+mention only a few of the most striking features. Foremost, perhaps, is
+the common opposition found in these three ways of thinking to psychological and logical atomism.
+Second, there is the contextualism or configurationsim shared by them.
+According to the Wittgenstein of the Investigations, there is no sense in
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: W1TTGENSTEIN AND POPPER
+
+talking of a one-to-one correspondence between the simples of language
+and the simples of reality (even assuming such simples exist). Wittgenstein
+reasons that simplicity is not a matter of absolutes, but is context-dependent: one might break down the visual image of a flower into all the
+different colours of which it is composed.32 But as Wittgenstein shows in
+Investigations 47, the question of which properties are more simple makes
+little sense. Multi-colouredness is one kind of complexity; being composed of straight lines is yet another. Since, on Wittgenstein's view, we
+use the words 'composite' and 'simple' in a great many different ways,
+and ways that are also differently related, questions that presuppose absolute complexity and simplicity apart from context are not answerable and
+ought not to be asked.
+If we turn to Popper - or to one of his disciples, like Paul Feyerabend,
+who was also influenced by Wittgenstein - we find an entirely different
+way of putting the matter. But the basic point, and the family resemblance,
+remains. For Popper and Feyerabend too, what is relevant in one's analysis of an object will depend upon the theory one is entertaining or testing.
+Like Wittgenstein, Popper also uses a series of geometrical shapes to illustrate his argument. In Appendix No. * 10 of The Logic of ScientfIc
+Discovery (p. 421), he presents a series of shaded and plain circles, triangles, squares and rectangles to show that "similarity, and with it repetition, always presuppose the adoption of a point of view." As shown by
+this example, and indeed throughout Popper's writings, the problem on
+which a scientist may be working will determine which theories are relevant - which in turn determines which 'simples', or observation statements, are relevant. The network of problems, theory, and observation
+make up the context which determines relative simplicity and complexity.
+As for Wittgenstein and Popper, so for the Gestalt psychologists. Take
+Külpe's famous experiment with cards (which also bears some resemblance to Wittgenstein's example of coloured boxes in Investigations 48).
+Kulpe had contrived his experiment to combat Mach's claim that mental
+processes could be reduced to sensations; in it, Kfllpe presented his subjects with cards containing nonsense syllables of various colours and arrangement. Some subjects were asked to report on the colour, others on
+the pattern, others on the number of the items seen. In every case, the
+subject abstracted the features he had been instructed to report and made
+no mention of- and in many cases did not even remember! - other fea-
+
+tures of the card which could easily well have been taken as simples. Here
+again the answers depended on the question, on the context. Whereas for
+the associationist organization or theory arises from previous association,
+for Külpe and the other Gestaltists association depends on organization
+or theory.
+Thirdly, there is the conventionalism in respect to words (not sentences
+or theories) shared by Wittgenstein, Popper, and many of the Gestaltists.
+That both Popper and Wittgenstein - rejecting the picture theory of language - regard words as tools is so familiar that it does not bear comment. In both cases, in Popper explicitly, in Wittgenstein implicitly (as
+Feyerabend has pointed out)33 there is an attack on 'essentialism' in respect to words. The case of KUlpe is less well known. For Kulpe, abstract
+words, being 'impalpable', cannot be reduced to sensations - or otherwise reduced; they are used instrumentally.
+Fourthly, and closely related to this conventionalism, is the idea of
+'imageless thought'. I have already referred briefly to the views of Kiilpe
+and Bühler on this matter. Roughly the same idea occurs frequently in
+Wittgenstein: for example, in Philosophical Investigations 395, 396, and
+397. One can do no better than quote Wittgenstein himself: "There is a
+lack of clarity about the role of imaginability in our investigation. Namely, about the extent to which it insures that a proposition makes sense. It
+is no more essential to the understanding of a proposition that one should
+imagine anything in connexion with it, than that one should make a
+sketch from it. Instead of 'imaginability' one can also say here: representability by a particular method of representation. And such a representation may indeed safely point a way to further use of a sentence. On the
+other hand a picture may obtrude itself upon us and be of no use at all."
+Wittgenstein talks in a similar way in his Lectures and Conversations,34
+where he denies that when a Frenchman says 'fl pleut' and an Englishman
+says 'It is raining', something happens in both minds which is the real
+sense of 'It is raining'. Wittgenstein writes: "We imagine something like
+imagery, which is the international language.35 Whereas in fact: (1) Thinking (or imagery) is not an accompaniment of the words as they are spoken
+or heard. (2) The sense in the thought 'It's raining' is not even the words
+with the accompaniment of some sort of imagery."
+One could continue to sketch such family resemblances among the
+ideas of Wittgenstein, Popper, and the Gestaltists. For example, one could
+
+326
+
+327
+
+328
+
+3Z9
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: WITTGEN STEIN AND POPPER
+
+compare the accounts Bilhler and Wittgenstein give of the relationship
+between naming and describing and Popper's critique of the 'causal theory of naming'. But enough has been said to indicate a broad family resemblance. A more detailed survey of the similarities and differences among
+these thinkers could be carried out on some other occasion.
+And indeed, even if it does go without saying - and even if Wittgenstein would nonetheless be the first to say it - there are many many differences between the theories I have sketched. But one needs comparable
+theories at one's disposal before the important job of differentiation can
+be carried out: to do intellectual history one must compare and differentiate. Either alone is insufficient.
+Indeed, Popper, Wittgenstein, and the Gestalt psychologists would have
+to agree that it is not only shapes and figures which are similar or different depending on their 'ground' or context. People and their ideas are
+also similar or different in relationship to a background. By providing some
+of the missing background of the 'very different' philosophies of Wittgenstein, Popper, and the Gestaltists, I have tried to bring out some of
+their similarities on basic issues.
+But, to repeat, I have not solved the intriguing and complicated question, why the background was allowed to disappear in the first place. To
+answer that question would involve a vast programme of research - one
+that I hope will one day be carried out.
+
+mon prejudices regarding the highlights of our recent philosophical history bear little relationship to the facts.
+
+VII
+
+One can hardly sum up such a paper as this except by remarking that
+'there are things in Vienna undreamt of by our philosophies'. Wittgenstein, Popper, and the members of the Vienna Circle were not the only,
+nor even the most important philosophical thinkers to flourish in Central
+Europe in the 20's and 30's - even if they were the most important philosophical thinkers whose ideas emerged from Central Europe. Conceivably,
+the common practice of emphasizing their ideas may have some pedagogical value - just as teaching the history of philosophy in the 18th century as if it were the story of the development from Locke, through
+Berkeley, to Hume, may be pedagogically convenient. Personally, I doubt
+that this is so: such parochialism is rarely desirable, pedagogically or
+otherwise. Whatever the answer to the pedagogical question, these corn-
+
+California State University, Hayward
+Written in Ascona, Switzerland
+Augu.t 1968
+Bibliographical postscript. Due to the delay in the publication of the present monograph
+I add this note in proof. I have been studying central European intellectual history of
+the period between the two World Wars for some ten years. A small part of my research,
+which greatly amplifies the information on Wittgenstein's Austrian context, was published in 1973 in my book Wittgenstein. The present monograph overlaps in some
+places with that book, but is for the greater part supplementary to it. Most of the
+material on Gestalt psychology and all of the material on Sir Karl Popper is presented
+here for the first time.
+This monograph was read at Boston University in October 1968, and also served as
+the basis of papers I read to the Western Pennsylvania Philosophical Association, to the
+Philosophy Colloquium of Vanderbilt University, to California State University, Hayward, and to the Humanities Seminar of California Institute of Technology. Abbreviated forms have twice been published in German. After a meeting in Minneapolis in
+1969 the essay was copied and freely circulated without my prior knowledge, and it has
+since then been quoted both in periodical publications and in dissertations.36
+Scholarly attention to Austrian intellectual history has significantly advanced during
+the past decade. Among those works which have contributed to understanding of this
+period and of Wittgenstein's Austrian context are: Paul Eagelmann: Letters from
+Ludwig Wittgenstein with a Memoir, 1967; Wilma Abeles Iggers: Karl Kraus: A Viennese Critic of the Twentieth C'entury, 1967; Frank Field: The Last Days of Mankind:
+Karl Kraus and His Vienna, 1967; and William M. Johnston: The Austrian Mind, 1972.
+A less responsible work on these matters is: Allan Janik and Stephen Toulmin:
+Wittgenstein's Vienna, 1973.
+
+Unfortunately, there has been no comparable development in the understanding of
+Popper and his thought in their Austrian context. His book Objective Knowledge, 1972,
+fails to indicate the significance of Buhler's work or of his Viennese background. A
+general hagiographic account of Popper's life and work by Bryan Magee (Karl Popper,
+1973) almost completely neglects his education and early development, and does not
+mention Bllhler.
+NOTES
+1 Wolfgang Kohler Dynamics in Psychology, Washington Square Press, New York,
+1965, pp. 116 and 122.
+2 Acknowledgements: This work would have been impossible without the help of the
+following persons. Needless to say, they are in no way responsible for my conclusions
+and have in several cases disagreed with them. I also am indebted to several persons
+who, for reasons of their own, do not wish their names to be mentioned. My most
+sincere thanks go to: Frau Anny Eder, Vienna; Herr Helmut Kasper, Innsbruck;
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: WITTGENSTEIN AND POPPER
+
+Professor Russell Dancy, Cornell University; Professor I. M. Bochenski, University
+of Fribourg, Switzerland; the late Professor Rudolf Carnap; Professors Joseph Agassi,
+Marx Wartofsky, and R. S. Cohen, Boston University; Professor J. 0. Wisdom, York
+University, Toronto; Professor Paul K. Feyerabend, University of California, Berkeley;
+Professor Richard H. Popkin, Washington University, St. Louis; Professor Bernard
+Kaplan, Clark University; Dr. W. D. Hudson, University of Exeter, Professor Sylvain
+Bromberger, Massachusetts Institute of Technology, Professors Walter Kaufmann and
+George Pitcher, Princeton University; Dr. George Steiner, Cambridge University; Professor Charlotte BOhler, Los Angeles; Professor Albert Wellek, University of Mains;
+Professor Viktor Kra.ft, University of Vienna; Herr and Frau Rudolf Koder, Vienna;
+Herr Dr. F. Lenz, Vienna; Dr. Thomas H. W. Stonborough, Vienna; Frau Gerda
+Leber-Hagenau, Vienna; Dr. Gustav Lebzeltern, Graz; Dr. Günter Posch, Innsbruck;
+Mr. Wallace Nethery, Hoose Library, University of Southern California; Herr Karl
+Gruber, Vienna; Herr und Frau Konrad Gruber, Vienna; Dr. Harms Jager, Stadtbibliothek, Vienna; Herr Dir. Martin Scherleitner, Schwarzau; Herr Norbert Rosner,
+Puchberg am Schneeberg; Frau L. Hausmann, Kirchberg am Wechsel; Frau Dir.
+Georg Berger, Trattenbach; Professor Herbert Spiegelberg, Washington University;
+Professor Herbert Feigi, University of Minnesota; Frau Margarete Bicklmayer,
+Otterthal; Herr Franz Brenner, Trattenbach; Herr Johann Scheibenbauer, Trattenbach;
+Herr BOrgermeister Emmerich Koderhold, Trattenbach; Professor F. A. von Hayek,
+Salzburg.
+I am also indebted to the staff of the following institutions for their cooperation and
+help: Landesarchiv für Niederosterreich, Vienna; Kriegsarchiv, Staatsarchiv, Vienna;
+Padagogisches Institut der Stadt Wien; Padagogische ZentralbOcherei, Vienna; Stadtschulrat für Wien, Vienna; Stadtarchiv, Bielefeld; Stadtarchiv, Korbach.
+I am deeply indebted to the Research Committees of the University of Pittsburgh;
+of Gonville and Caius College, Cambrige University; and of the University of California,
+which at various times supported my investigations into German and Austrian intellectual history.
+
+Menschen und der Tiere, Verlag Hans Huber, Bern and Stuttgart, 1960, pp. 96-99.
+And see Albert Wellek, 'Karl Buhler 1879-1963', Archiv fur die gesamte Psychologie
+116 (1964) 2-8.
+George Pitcher, The Philosophy of Wittgenstein, Prentice Hall, Englewood Cliffs,
+1964, pp. 6-9. See also W.D. Hudson, Ludwig Wittgenstein, JohnKnox Press, Richmond,
+1968.
+14 Ludwig Wittgenstein, Wdrterbuch für Volksschulen, Holder-Pichler-Tempsky A. G.,
+Vienna, 1926. The following appears on the title page: "Mit dem Erlasse des Bundesministeriums für Unterricht vom 12. Oktober 1925, Z. 15444/9, zum Unterrichtsgebrauch an ailgemeinen Volksschulen und an Bfirgerschulen ailgemein zugelassen."
+15 Richard Meister, "Teacher Training in Austria', Harvard Educational Review 8
+(1938) 112-121.
+16 Popper did of course have some formal training in physics, having attended Hans
+Thirring's lectures.
+
+See Karl Strack, Geschichre des deutschen Volksschulwesens, Gütersloh 1872, pp. 327
+and 329-30; and also Charles A. Gulick, Austria from Habsburg to Hitler, The University of California Press, Berkeley and Los Angeles, 1948, Vol. I, p. 546.
+
+24 See Otto Neurath, 'Die Padagogische Weltbedeutung der Bildstatistik nach Wiener
+Methode', Die Quelle, 1933. Another positivist to contribute to the reform movement
+publications was Edgar Zilsel, whose article, 'Kant als Erzieher', appeared in Schulreform (1924) 182ff. Rudolf Carnap has told me that on his arrival in Vienna in 1926
+he heard much discussion about the school reform, and remarked on its many differences from the German school reform movement with which he was well acquainted,
+having known some of the Landerziehungsheime led by Lietz, Wyneken, and Bondui.
+25 Karl BOhler, The Mental Development of the Child, Harcourt, Brace and Co., New
+York, 1930, pp. 106ff. See also E. H. Gombrich, Meditations on a Hobby Horse, Phaidon
+Press, New York 1963, p. 8, and the criticisms of this view which Gombrich cites
+therein.
+26 Bühler Mental Development, op. cit., pp. 113-115.
+27 Ibid., pp. 116, 120.
+28 Dottrens, op. cit., p. 64.
+29 That Wittgenstein was 'in essential respects' a Kantian philosopher has frequently
+been maintained. See Erik Stenius, Wittgenstein's 'Tractatus', Basil Blackwell, Oxford,
+1960, and also J. Fang, 'Wittgenstein vs. Kant in a Philosophy of Mathematics', Akten
+des XIV. Internationalen Kongresses für Philosophie, Herder Verlag Vienna, 1968, pp.
+233-236. I take issue with such Kantian interpretations of Wittgenstein in my book
+Wittgenstein, I. B. Lippincott, New York, 1973.
+
+330
+
+" H. Gomperz, 'Philosophy in Austria During the Last Sixty Years', The Personalist
+(1936) 307-311.
+Die Queue 81 (1931) 607-619.
+6 J• F. Herbart, Outlines of Educational Doctrine, Macmillan, 1904, p. 165.
+
+There was of course nothing new in this. Already in 1911, at the Congress for the
+Education of Youth in Dresden, Kerschensteiner (who was later to serve as the model
+for Hagauer in Robert Musil's novel Der Mann ohne Eigenschaften) had maintained
+that a public school that neglected practical education did the public a disservice, and
+went on to demand that students be trained in manual labour as well.
+8 Robert Dottrens, The New Education in Austria, The John Day Co., New York,
+1930, p. ix.
+Ibid., p. 202. Similar testimony may be found in Richard Meister, 'Teacher Training
+in Austria', Harvard Educational Review 8 (1938) 112-121.
+10 Otto Glbckel, Die Osterreichische Schulreform, Verlag der Wiener Volksbuchbandlung, Vienna, 1923, p.11.
+11 See Bertrand Russell, 'The Philosophy of Logical Atomism', The Monist, 1918-19.
+See also Buhler's critical comments on Carnap in Das Geslaltprinzzp im Leben des
+
+331
+
+17 Zur Methodenfrage der Denkpsychologie is available in the University of Vienna
+Library. Gewohnheit und Gesetzerlebnis is described by Popper in Conjectures and
+Refutat ions, p. 50.
+
+Lewis Way, Adler's Place in Psychology, Collier Books, New York, 1962, p. 318.
+See my paper: W. W. Bartley, III 'Theories of Demarcation between Science and
+Metaphysics', in Problems in the Philosophy of Science (ed. by I. Lakatos and A. F.
+Musgrave), North-Holland Publishing Co., Amsterdam, 1968.
+20 K. R. Popper, 'Science: Conjectures and Refutations', in Conjectures and Refutations, Basic Books, New York, 1962.
+21 Padagogische Zeitschriftenschau', Die Quelle 82, 301.
+22 Cp. pp. 76-8 and pp. 82-3. Von UxkUll's theories, praised by Popper in Conjectures
+and Refutat ions, p. 382, are close to some versions of Gestalt psychology - to Kurt
+Lewin's cognitive field theory for example.
+Heinrich Gomperz, 'Kann die Deduktion zu 'neuen' Ergebnissen fOhren?', Kantstudien (1930) 466-479.
+
+333
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: WITTGENSTEIN AND POPPER
+
+80 Ludwig Wittgeastein Zettel (ed. by G. E. M. Anscombe and 0. H. von Wright),
+University of California Press, Berkeley and Los Angeles 1967, p. 74e.
+
+Bilhler, K., 'Forschung zur Sprachtheorie: Einleitung', Arch. ges. Psychol. 94 (1935),
+401-412.
+
+31 See Paul Engelmann, Letters from Ludwig Wittgenstein with a Memoir, Basil
+Blackwell, Oxford 1967, Chapter V, p. 118; and B. F. McGuinness, Friedrich Waismann:
+Wittgenstein und der Wiener Kreis, Basil Blackwell, Oxford 1967, p. 15n. I am indebted
+to Joseph Agassi for calling this reference to my attention in October 1968, after the
+first draft of this paper had been completed.
+32 And even here, a rather sophisticated theory of colour absolutes is presupposed!
+83 P. K. Feyerabend, 'Wittgenstein's Philosophical Investigations', in K. T. Fann (ed.)
+Ludwig Wittgenstein: The Man and His Philosophy, Dell Publishing Co, New York,
+1967, pp. 214-250.
+
+BUhler, K., Das Gestaltprinzip im Leben des Menschen und der Tiere, Verlag Hans
+Huber, Bern and Stuttgart, 1960.
+Bühler, K., Abrifi der geistigen Entwicklung des Kleinkindes, Quelle mid Meyer, Heidelberg, 1967.
+Bühler, K., Die Uhren der Lebewesen und Fragmente aus dem Nachiass, herausgegeben
+and mit einer Biographie versehen von Gustav Lebzeltern unter BenUtzung von
+Vorarbeiten von Hubert Rzainger. Foreword by Hubert Rohracher, Hermann
+Böhlaus Nachf., Komrnissionsverlag der Osterreichischen Akademie der Wissenschaften, Vienna, 1969.
+Bühler, K., Die Zukunfi der Psychologie und die Schule, Heft 11, Schriften des Pädagogischen Institutes der Stadt Wien, Deutscher Verlag für Jugend and Volk, WienLeipzig.
+
+332
+
+p. 30.
+Is this a veiled criticism of Neurath?
+36 See, for example, D. W. Harding's review article of Wolfgang Kohler's 'The Task of
+Gestalt Psychology', in The New York Review of Books, December 18, 1969, pp. 16-20.
+BIBLIOGRAPHY
+Achs, 0., 'Die Schulreform in der Ersten Republik (1918-1927)', Osterreich in Geschichte und Literatur 13 (1969) 223-235.
+Bartley, W. W., Ill, 'Rationality versus the Theory of Rationality', in The Critical Approach to Science and Philosophy, Free Press, New York, 1964.
+
+Bartley, W. W., ifi, 'Theories of Demarcation between Science and Metaphysics', in
+Problems in the Philosophy of Science (ed. by I. Lakatos and A. E. Musgrave),
+North-Holland PubI. Co., Amsterdam, 1968.
+Bartley, W. W., III, 'Sprach- und Wissenschaftstheorie als Werkzeuge einer Schulreform: Wittgenstein und Popper als österreichische Schullehrer', Conceptus 3 (1969)
+6-22, Innsbruck-Munchen-Salzburg.
+Bartley, W. W., III, 'Die österreichische Schuireform als die Wiege der modernen Philosophie', Club Voltaire, Jahrbuch für kritische Aufklarung, Vol. IV, Rowohlt Paperback, 1970.
+
+Bartley, W. W., III, Wittgenstein, 1. B. Lippincott, New York, 1973 and Quartet Books,
+London, 1974.
+Basil, 0., Trakl, Rowohit, Hamburg, 1965.
+Beitrage zur Problemgeschichte der Psychologie, Festschrift for Karl Buhler's 50th
+Birthday, 1929.
+
+Belohoubek, V., 'Schuiwesen', in Stepan (ed), Neu-Osterreich, Vienna 1923, p.253.
+Benjamin, W., Illuminations (ed. with introduction by Hannah Arendt), Schocken
+Books, New York, 1969.
+Buhler, K., Die geistige Entwicklung des Kindes, Gustav Fischer Verlag, Jena,
+1918.
+Bühler, K., 'Die Krise der Psychologie', Kantstudien 31 (1926) 455-526.
+Bühler, K., Die Krise der Psychologie, Gustav Fischer Verlag, lena, 1927.
+BUhler, K., 'Displeasure and Pleasure in Relation to Activity', in Feelings and Emotions, Wittenberg Symposium, Clark University Press, Worcester, 1928.
+Buhler, K., The Mental Development of the child, Harcourt, Brace and Co., New York,
+1930.
+BUhler, K., Ausdruckstheorie, Gustav Fischer Verlag, Jena, 1933.
+BUhler, K., Sprachtheorie, Gustav Fischer Verlag, Jena, 1934.
+
+Bullock, M., Austria 1918-1938: A Study in Failure, Macmillan and Co., London, 1939.
+Burger, E., Arbeitspadagogik, Engelmann, Leipzig, 1923.
+Carnap, R., 'Andere Seiten der Philosophie', in Club Voltaire, Jahrbuch für kritische
+Aufklarung, Vol. III, Rowohlt Paperback, Munich, 1967.
+Cox, Philip W. L., 'Austrian Teachers in the Crisis', Progressive Education 11 (1934)
+360-368.
+The Critical Approach to Science and Philosophy (ed. by Mario Bunge), Free Press,
+New York, 1964.
+
+Dengler, Paul L., 'Creative Personality and the New Education', Progressive Education
+6 (1929), 132-135.
+Diamant, A., Austrian Catholics and the Social Question, University of Florida Press,
+Gainesville, 1959.
+Dottrens, R., The New Education in Austria, The John Day Co. New York, 1930.
+'Educational Events: Summer School in Psychology at the University of Vienna',
+School and Society 41 (1935) 284.
+Engelmann, P., Letters from Ludwig Witigenstein, with a Memoir, Basil Blackwell,
+Oxford, 1967.
+Fadrus, V., Die Osterreichische Schulreform, Vienna, 1927.
+Fadrus, V., 'Professor Dr. Karl Bühlers Wirken an der Wiener Universität', Wiener
+Zeischrft für Philosophie, Psychologie, Padagogik 7 (1959) 3-25, Festgabe for Karl
+BUhier's 80th birthday.
+
+Feigi, H., 'The Wiener Kreis in America', Perspectives in American History 2 (1968)
+630-673.
+von Ficker, L., 'Rilke and der unbekannte Freund: In Memoriam Ludwig Wittgenstein', Der Brenner, Innsbruck 1954, pp. 234-248.
+Fischl, H., Wesen und Werden der Schuireform in Osierreich, Vienna 1929.
+
+Fogelin, R. J., 'Wittgenstein and Intuitionism', American Philosophical Quarterly 5
+(1968).
+Gldckel, 0., Das Tor der Zukunft, Vienna 1917.
+Glhckel, 0., Die Osterreichische Schulreform, Verlag der Wiener Volksbuchhandlung,
+Vienna, 1923.
+Glöckel, 0., Die Wirksamkeit des Stadtschulrates, Vienna 1925.
+Glockel, 0., Die Entwicklung des Wiener Schuiwesens, Vienna 1927.
+
+Glhckel, 0., Drillschule, Lernschule, Arbeitsschule, Verlag der Organisation Wien der
+Sozialdemokratischen Partei, Vienna, 1928.
+
+334
+
+W. W. BARTLEY, III
+
+Gombrich, E. H. I., The Story of Art, Phaidon, London, 1958.
+Gombrich, H. H. J., Art and Illusion, Phaidon, London, 1960.
+Gomperz, H., Uber Sinn und Sinngebilde, Verstehen und Erkldren, J. C. B. Mohr,
+Tubingen, 1929.
+
+Gomperz, H., 'Karm die Deduktion zu 'neuen' Ergebnissen fuhren?', Kantstudien 35
+(1930) 466-479.
+Gomperz, H., Die Wissenschaft und die Tat, Gerold und Co., Vienna, 1934.
+Gomperz, H., 'Philosophy in Austria during the last sixty Years', The Personalist 17
+(1936) 307-311.
+Gomperz, H., 'Interpretation', Erkenntnis 7 (1936) 225-232.
+Gomperz, H., Interpretation: Logical Analysis of a Method of Historical Research,
+Library of Unified Science, Monograph Series, No. 8-9, W. P. van Stockum en Zoon,
+The Hague, 1939.
+
+Gomperz, H., 'The Meaning of 'Meaning'', Philosophy of Science 8 (1941) 157-183.
+Gomperz, H., 'Autobiographical Remarks', The Personalist 24 (1943) 254-270.
+Gomperz, H., Philosophical Studies (ed. by Daniel S. Robinson, with foreword by
+Philip Merlan), Christopher Publishing House, Boston, 1953.
+Gulick, Ch. A., Austria from Habsburg to Hitler, University of California Press, Berkeley
+and Los Angeles, 1948, two volumes.
+Hansel, L., Die Jugend und die leibliche Liebe: Sexualpddagogische Betrachtungen,
+Tyrolia Verlag, Innsbruck-Vienna-Munich, 1938.
+Hansel, L., 'Ludwig Wittgenstein (1889-1951)', Wissenschaft imd Weltbild, Monatsschrift für alle Gebiete der Forschung 8 (1951) 315-323.
+Hansel, L., Begegnungen und Auseinandersetzungen mit Denkern und Dichtern der
+Neuzeit, Osterreichischer Bundesverlag für Unterricht, Vienna, 1957, pp. 315-323.
+Hausmann, L., Wittgenstein als Volksschullehrer, typescript.
+
+Herbert, J. F., Outlines of Educational Doctrine, Macmillan, New York, 1904.
+Hon, F., 'School Reform in Austria', The Canadian Forum 11 (1930) 13-14.
+Hudson, W. D., Ludwig Wittgenstein, John Knox Press, Richmond, 1968.
+'100 Jahre Reichsvolksschulgesetz', Erziehung und Unterricht (1969).
+Hunter, J. F. M., "Forms of Life' in Wittgenstein's Philosophical Investigations',
+American Philosophical Quarterly 5 (1968).
+
+Kaplan, B. and Wapner, S., (eds.) Perspectives in Psychological Theory, International
+Universities Press, New York, 1960.
+Katz, J. I., The Philosophy of Language, Harper and Row, New York, 1966.
+Keyserling, A., Geschichte der Denkstile, Verlag der Palme, Vienna, 1968.
+Koffka, K., The Growth of the Mind, Harcourt Brace and Co., New York, 1925.
+Koffka, K., Principles of GestaltPsychology, Harcourt Braceand World, NewYork, 1935.
+Köhler, W., Dynamics in Psychology, Washington Square Press, New York, 1965.
+Kraft, V., The Vienna Circle, New York, 1953. The Philosophical Library.
+Kulpe, 0., Introduction to Philosophy, George Allen and Unwin Ltd., London, 1927.
+Kfilpe, 0., Outlines of Psychology, Swan Sonnenschein and Co., London, 1909.
+Külpe, 0., Vorlesungen llber Psychologie, S. Hirzel, Leipzig, 1922.
+Ktilpe, 0., Vorlesungen fiber Logik, S. Hirzel, Leipzig, 1923.
+Lazarsfeld, P. F., 'Amerikanische Beobachtungen eines Buhler-Schfllers', Zeitschr(ft
+exp. angew. Psychol. 6 (1959) 69-76.
+
+Leinfellner, E., 'Zur nominalistischen Begrundung von Linguistik und Sprachphilosophie: Fritz Mauthner und Ludwig Wittgenstein', Studium Generale (1969) 209-251.
+Lewin, K., A Dynamic Theory of Personality, McGraw-Hill, New York, 1935.
+
+THEORY OF LANGUAGE: WITTGENSTEIN AND POPPER
+
+335
+
+Lewin, K., Principles of Topological Psychology, McGraw-Hill paperbacks, New York,
+1966.
+London, K. L., 'Nazi Germany and the Austrian School System', The Educational
+Record (1941) 170-178.
+Lyford, G. L., 'Education in Eight European Cities', Childhood Education 6 (1930)
+259-260.
+Meister, R., 'Teacher Training inAustria', Harvard EducationalReview 8(1938)112-121.
+Methlagl, W. and Rochelt, H., 'Das Portrãt: Ludwig Wittgenstein zur 80. Widerkehr
+seines Geburtstages', broadcast over Radio Tirol, Osterreichischer Rundfunk, 1969.
+Meyer, A., Modern European Educators, Prentice Hall, New York, 1934, pp.99-160.
+Naess, A., Four Modern Philosophers, University of Chicago Press, Chicago, 1968.
+'The Nazis and their Subjugated Neighbors', School and Society 52 (1940) 625.
+Neurath, 0., 'Die Padagogische Weitbedeutung der Bildstatistik nach Wiener Methode',
+Die Quelle, 1933.
+
+'Obituary for Ludwig Wittgenstein', in Die Presse, Vienna, 6 May 1951, p. 51.
+Pears, D. F., 'The Development of Wittgenstein's Philosophy,' The New York Review
+of Books (January 16, 1969), 21-30.
+Piaget, J., Play, Dreams and Imitation in Childhood, William Heinemann Ltd., London,
+1951.
+Piaget, J., The Child's Conception of Number, Routledge and Kegan Paul Ltd., London,
+1952.
+Piaget, J., The Origins of Intelligence in Children, International Universities Press, New
+York, 1956.
+Pitcher, G., The Philosophy of Wittgenstein, Prentice-Hail, Englewood Cliffs, 1964, pp.
+6-9.
+Popper, Karl R., 'Uber die Steilung des Lehrers zu Schule and Schiller', Schulreform
+4 (1925) 204ff.
+Popper, Karl R., 'Zur Philosophie des Heimatgedankens', Die Quelle 77 (1927) 899ff.
+Popper, Karl R., 'Die Gedächtnispflege unter dem Gesichtspunkt der Selbsttatigkeit',
+Die Quelle 81 (1931) 607ff.
+Popper, Karl R., 'Padagogische Zeitschriftenschau', Die Quelle 82 (1932) 301, 580, 646,
+712, 778, 846, 930.
+Popper, Karl R., 'The Demarcation between Science and Metaphysics', in Conjectures
+and Refutations, Basic Books, New York, 1963.
+Popper, Karl R., 'Language and the Body-Mind Problem', in Conjectures and Refutations, Basic Books, New York, 1963.
+Popper, Karl R., The Open Society and Its Enemies, Harper Torchbooks, New York,
+1963, two volumes.
+Popper, Karl R., 'Philosophy of Science: A Personal Report', in British Philosophy in
+the Mid-Century (ed. by C. A. Mace), Allen and Unwin, London, 1957, and in Conjectures and Refutations, Basic Books, New York, 1963.
+Popper, Karl R., 'Towards a Rational Theory of Tradition', in Conjectures and Refutations, Basic Books, New York, 1963.
+Popper, Karl R., The Logic of Scientific Discovery, Harper Torchbooks, New York,
+1964.
+Popper, Karl R., The Poverty of Historicism, Harper Torchbooks, New York, 1964.
+Popper, Karl R., Conjectures and Refutations, Harper Torchbooks, New York, 1968.
+Scheibenreif, F., Orts- und Hauschronik von Trattenbach, Gemeindeamt Trattenbach:
+Im Selbstverlag and Kommissions-Verlag, Druck: K. MUhlberger, Neunkirchen, 1934.
+
+337
+
+W. W. BARTLEY, III
+
+THEORY OF LANGUAGE: WITTGENSTEIN AND POPPER
+
+Schneider, W., '100 Jabre Reichsvolksschulgesetz und Schulaufsicht im Schu1bk
+Neunkirchen', Erziehung und Unterricht, May 1969.
+
+Blackwell, Oxford, 1958.
+Wittgenstein, L., Philosophical Investigations, Basil
+(ed. by Cyril Barrett), University of
+Wittgen5tei11, L., Lectures and Conversations
+California Press, Berkeley and Los Angeles, 1967.
+
+336
+
+Schwab, J. J., 'On the Corruption of Education by Psychology', Ethics 68 (1957)
+Schwendt, J., Schule im Wald: Trattenbach, Dorf am Wechsel, Trattenbach 1966.
+Siegi, M. H., Reform of Elementary Education in Austria, New York 1933.
+
+Smital, 0., 'Eine Stimme aug Wien: Ludwig Wittgenstein', Broadcast, Osterreichjscher
+Rundfunk, 19 September 1968.
+Smoor, M. P., 'Impressions of the Schools of Austria', The High School Teacher (1930)
+417-8.
+Spiegelberg, H., 'The Puzzle of Wittgenstein's Phanomenologie', American Philosophical
+Quarterly 5 (1968).
+
+Steiner, G., Language and Silence, Atheneum, New York, 1970.
+Stern, J. P., Lichtenberg: A Doctrine of Scattered Occasions, Indiana University Press,
+Bloomington, 1959.
+
+Tesar, L. E., 'Die Schulreform in Osterreich', in Handbuch der Pt1dagogik, H. Nohi,
+L. Pallat, Vol. IV, 1928.
+Tumlirz, 0., 'Austrian Education in the Past Fifteen Years', School and Society 41
+(1935) 197-203.
+Vossler, K., Sprachphilosophie, Max Hueber, Munich, 1923.
+Vygotsky, L. S., Thought and Language, John Wiley and Sons, Inc., New York, and
+the MIT Press 1962.
+Waismann, F., Wittgenstein und der Wiener Kreis (ed. by B. F. McGuinness), Basil
+Blackwell, Oxford, 1967,
+Walker, J., 'Wittgenstein's Earlier Ethics', American Philosophical Quarterly 5 (1968).
+Way, L., Adler's Place in Psychology, Collier Books, New York, 1962.
+Wein, H., Sprachphilosophie der Gegenwart, Martinus Nijhoff, The Hague, 1963.
+Wellek, A., 'Em Dritteljahrhundert nach BUhler's 'Krise der Psychologie", Zeitschrift
+für experimentelle und angewandte Psychologie 6 (1959) 109-117.
+Wellek, A., 'Karl Buhler 1879-1963', Archly für die gesa,nte Psychologie 116 (1964).
+Wellek, A., 'The Impact of German Immigration on the Development of American.
+Psychology', Journal of the History of the Behavioural Sciences 4 (1968) 207-229.
+Welimer, A., Methodologie als Erkenntnistheorie: Zur Wissenschaftslehre Karl R.
+Poppers, Suhrkamp Verlag, Frankfurt a. M., 1967.
+Werner, H. Comparative Psychology of Mental Development, Follett Publishing Company, Chicago, 1948.
+Werner, H., (ed.) On Expressive Language, Clark University Press, Worcester, 1955.
+Wissenschaftliche Weltauffassung: Der Wiener Kreis, Arthur Wolf Verlag, Vienna, 1929.
+'Wittgenstein's Lectures on Ethics', The Philosophical Review 74 (1965) 3-26. Also
+printed in Neue Zürcher Zeitung, and in Conceptus 2 (1968).
+Ludwig Wittgenstein The Philosophical Investigations (ed. by George Pitcher), Doubleday New York 1966.
+Ludwig Wittgenstein.' The Man and His Philosophy (ed. by K. T. Fann), Dell Publishing
+Co., New York, 1967.
+
+'A Wittgenstein Miscellany', in The American Philosophical Quarterly (ed. by Nicholas
+Rescher) 5 (1968).
+Wittgenstein, L., Tractatus Logico-Philosophicus.
+
+Wittgenstein, L., Wbrterbuch für Volksschulen, Hölder-Pichler-Tempsky A. G., Vienna
+1926.
+Wittgenstein, L., The Blue and Brown Books, Basil Blackwell, Oxford, 1958.
+
+University of California Press, Berkeley and Los Angeles, 1967.
+Wittgensteifl, L., Zettel,
+Struktur
+and
+Sprachspiel bet Wittgenstein, Suhrkamp Verlag, Frankfurt,
+Wuchterl, K.,
+1969.
+
+Zilsel, E., 'Kant als Erzieher', Schulreform 3 (1924) 182ff.
+
+Amtlicher Bericht des Stadtschulrates für Wien.
+Deutsche Erziehung (ed. by Max Fritz), Vienna.
+
+Der Neue Weg (ed by Leopold Lang and Ludwig Battista).
+padagogisches Jahrbuch (ed. by Wiener Padagogischen Gesellschaft).
+Die Quelle (ed. by Eduard Burger), Vienna.
+Schulreforni, Haase Verlag, Vienna.
+Die Volkserziehung, Nachrichteri des Bundesministeriums für Unterricht.
+Volksbildung, Zeitschrift für die Forderung des VolksbildungsWesens in Osterreich (ed.
+by Max Mayer).
+
+

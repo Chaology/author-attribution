@@ -1,0 +1,762 @@
+The Theory of Complex Phenomena: A Precocious Play on the
+Epistemology of Complexity
+Friedrich A. von Hayek
+Originally published in Hayek, F. A. (1967). Studies in Philosophy, Politics and Economics, London,
+UK: Routledge & Kegan Paul, pp. 22-42. Reproduced by kind permission.
+
+Introduction by Mihnea Moldoveanu, Rotman School of Management, University
+of Toronto, CAN
+Friedrich Hayek's The Theory of Complex Phenomena (Hayek, 1964) is a precocious and far-sighted
+attempt to illuminate a topic that has loomed increasingly important in the 53 years since the printing of
+the paper: the epistemology of complexity. It posits a tension between real insight into complex
+phenomena and a narrow - but, common-interpretation of a Popperian falsificationism, and suggests
+that we make a 'hard choice' - one that subsequent research and philosophical forays into complexity
+science can be usefully understood as having implicitly made on numerous occasions.
+Popper suggested actual falsifiability of hypotheses derived from a theory as a criterion of demarcation
+between scientific and 'metaphysical' or 'pseudo-scientific' theories and of choice among alternative
+empirical theories (Popper, 1959). Thus, the 'theory' which states that 'the orbit of planet Z has the form
+of a circle, i.e, x^sup 2^ y^sup 2^=R2' is to be preferred (before testing) to a theory which states that
+'the orbit of planet Z has the form of an ellipse, i.e., a^sup 2^x2 b^sup 2^y^sup 2^=c^sup 2^ because it
+takes fewer points - or, measurements (namely, 3) to disconfirm the former theory than it takes (4) to
+disconfirm the latter. Popper capitalizes on the example to make the point that the (normative)
+emphasis placed by some philosophers of science on simplicity as a criterion for theory choice follows
+from (and is therefore not independent of) a commitment to actual falsifiability.
+This is precisely the point that Hayek focuses on, in reference to 'complex phenomena'. He sees that the
+astute researcher of complexity faces a hard choice between the 'point-wise' testability that Popper
+takes for granted on the one hand, and insight or understanding on the other - and advocates that the
+constraints which testability places on theory choice be loosened in favor of allowing for more
+complicated nomological relationships among independent variables, which, in turn, will orient the
+empiricist away from attempting to predict point events and towards predicting 'patterns' or dynamical
+regimes. This is a precocious and far sighted insight, and here is a case in point: Apparently
+unbeknownst to Hayek (plausibly so: Hayek finished the paper in 1961, two years before the Lorenz
+paper that kicked off 'chaos theory' was published), chaos theory got off the ground approximately at
+the same time Hayek was writing his paper, starting from (Edward) Lorenz's startling realization that
+some dynamical systems (such as that made up by the coupling between the system of nonlinear
+ordinary differential equations he was trying to solve numerically and the finite-precision arithmetic
+operations that his computer instantiated) exhibit highly sensitive dependence of their long-run
+dynamics on their initial conditions, such that two points in the phase space of the system that start out
+arbitrarily close together will - in the course of the system's evolution and after an only finite amount of
+time - end up very far apart. 'Chaos theory', then, touches reality not by making predictions about point
+events, but, rather, by specifying dynamical systems and regimes or regions of their parameter spaces
+that exhibit 'transition to chaos' (Ott, 2002) - that is, by making predictions about patterns of behavior
+rather than about highly localized space-time hyper-volumes ('points') of behavior.
+
+But, is the development of an empirical chaos theory really a validation of Hayek's claim that strict
+falsificationism must be relaxed in order to make progress on a science of complexity? Note, in this
+regard, that formal languages used for representing dynamical systems (such as those exhibiting chaotic
+behavior) come equipped with highly efficacious state space contraction devices and maneuvers, which
+collapse half-planes into lines and lines into points. It is, then, possible - by the application of such
+devices - to render predictions about macroscopic patterns and dynamical regimes of behavior into
+predictions about the 'rate of transition to chaos and boundaries between ordered and disordered
+behavior, which make possible precisely the kind of subsequent 'point- wise testing' that Popper is often
+interpreted as having had in mind. Doing so, however, will presuppose a flexibility on the part of the
+researcher at a level which most social scientists in general and economists trained in the neoclassical
+tradition in particular have to date had little consideration for: the ontological one - a flexibility about
+the objects in-terms-of-which discourse proceeds. This is something that Hayek glimpses and points the
+way to his paper, without fully calling out: 'statistics' - he argues - cannot be used to teach us much
+about a population of computers, unless we also have access to the code that runs on them (Hayek,
+1961, ibid.). Knowledge of the code used to design the computers will not only give us a radically
+different number and set of hypotheses that 'statistics' can be used to test, but also, perhaps more
+importantly, a different conceptualization of the 'computer' in terms of 'intentional' terms ('algorithms')
+rather than in terms of causal entities ('electrons and holes'). And this may be a far more penetrating
+insight of Hayek's paper than is the exhortation to loosen the epistemological constraints that we place
+on 'complexity science' - and one which complexity researchers may do well to heed. Should they
+choose to do so, the black box of human decision making (mind [arrow right] brain [arrow right]
+behavior) - neatly bracketed in economic analyses by rational choice models and linear demand
+functions - could be made to yield much illuminating insight under the gaze of new conceptual toolkits.
+References
+Hayek, F. (1961). "The dieory of complex phenomena," in M. Bunge (ed.), The Critical Approach to
+Science and Philosophy, ISBN 9780029049204.
+Lorenz, E. (1963). "Deterministic non-periodic flow," Journal of Atmospheric Sciences, ISSN 00224928, 20: 130-141.
+Ott, E. (2002). Chaos in Dynamical Systems, ISBN 9780521010849.
+Popper, K. R. (1959). The Logic of Scientific Discovery, ISBN 9780415278447 (2002).
+
+The Theory of Complex Phenomena: A Precocious Play on the Epistemology of
+Complexity
+
+1. Pattern Precognition and Pattern Prediction
+Man has been impelled to scientific inquiry by wonder and by need. Of these wonder has been
+incomparably more fertile. There are good reasons for this. Where we wonder we have already a
+question to ask. But however urgently we may want to find our way in what appears just chaotic, so
+long as we do not know what to look for, even the most attentive and persistent observation of the bare
+facts is not likely to make them more intelligible. Intimate acquaintance with the facts is certainly
+important ; but systematic observation can start only after problems have arisen. Until we have definite
+questions to ask we cannot employ our intellect; and questions presuppose that we have formed some
+provisional hypothesis or theory about the events.1
+Questions will arise at first only after our senses have discerned some recurring pattern or order in the
+events. It is a re-cognition of some regularity (or recurring pattern, or order), of some similar feature in
+otherwise different circumstances, which makes us wonder and ask 'why?'2 Our minds are so made that
+when we notice such regularity in diversity we suspect the presence of the same agent and become
+curious to detect it. It is to this trait of our minds that we owe whatever understanding and mastery of
+our environment we have achieved.
+Many such regularities of nature are recognized 'intuitively' by our senses. We see and hear patterns as
+much as individual events without having to resort to intellectual operations. In many instances these
+patterns are of course so much part of the environment which we take for granted that they do not cause
+questions. But where our senses show us new patterns, this causes surprise and questioning. To such
+curiosity we owe the beginning of science.
+Marvelous, however, as the intuitive capacity of our senses for pattern recognition is, it is still limited.3
+Only certain kinds of regular arrangements (not necessarily the simplest) obtrude themselves on our
+senses. Many of the patterns of nature we can discover only after they have been constructed by our
+mind. The systematic construction of such new patterns is the business of mathematics.4 The role
+which geometry plays in this respect with regard to some visual patterns is merely the most familiar
+instance of this. The great strength of mathematics is that it enables us to describe abstract patterns
+which cannot be perceived by our senses, and to state the common properties of hierarchies or classes
+of patterns of a highly abstract character. Every algebraic equation or set of such equations defines in
+this sense a class of patterns, with the individual manifestation of this kind of pattern being
+particularized as we substitute definite values for the variables.
+It is probably the capacity of our senses spontaneously to recognize certain kinds of patterns that has
+led to the erroneous belief that if we look only long enough, or at a sufficient number of instances of
+natural events, a pattern will always reveal itself. That this often is so means merely that in those cases
+the theorizing has been done already by our senses. Where, however, we have to deal with patterns for
+the development of which there has been no biological reason, we shall first have to invent the pattern
+before we can discover its presence in the phenomena-or before we shall be able to test its applicability
+to what we observe. A theory will always define only a kind (or class) of patterns, and the particular
+manifestation of the pattern to be expected will depend on the particular circumstances (the 'initial and
+marginal conditions' to which, for the purposes of this article, we shall refer as 'data'). How much in
+fact we shall be able to predict will depend on how many of those data we can ascertain.
+
+The description of the pattern which the theory provides is commonly regarded merely as a tool which
+will enable us to predict the particular manifestations of the pattern that will appear in specific
+circumstances. But the prediction that in certain general conditions a pattern of a certain kind will
+appear is also a significant (and falsifiable) prediction. If I tell somebody that if he goes to my study he
+will find there a rug with a pattern made up of diamonds and meanders, he will have no difficulty in
+deciding 'whether that prediction was verified or falsified by the result',5 even though I have said
+nothing about the arrangement, size, colour, etc., of the elements from which the pattern of the rug is
+formed.
+The distinction between a prediction of the appearance of a pattern of a certain class and a prediction of
+the appearance of a particular instance of this class is sometimes important even in the physical
+sciences. The mineralogist who states that the crystals of a certain mineral are hexagonal, or the
+astronomer who assumes that the course of a celestial body in the field of gravity of another will
+correspond to one of the conic sections, make significant predictions which can be refuted. But in
+general the physical sciences tend to assume that it will in principle always be possible to specify their
+predictions to any degree desired.6 The distinction assumes, however, much greater importance when
+we turn from the relatively simple phenomena with which the natural sciences deal, to the more
+complex phenomena of life, of mind, and of society, where such specifications may not always be
+possible.7
+2. Degrees of Complexity
+The distinction between simplicity and complexity raises considerable philosophical difficulties when
+applied to statements. But there seems to exist a fairly easy and adequate way to measure the degree of
+complexity of different kinds of abstract patterns. The minimum number of elements of which an
+instance of the pattern must consist in order to exhibit all the characteristic attributes of the class of
+patterns in question appears to provide an unambiguous criterion.
+It has occasionally been questioned whether the phenomena of life, of mind, and of society are really
+more complex than those of the physical world.8 This seems to be largely due to a confusion between
+the degree of complexity characteristic of a peculiar kind of phenomenon and the degree of complexity
+to which, by a combination of elements, any kind of phenomenon can be built up. Of course, in this
+manner physical phenomena may achieve any degree of complexity. Yet when we consider the question
+from the angle of the minimum number of distinct variables a formula or model must possess in order
+to reproduce the characteristic patterns of structures of different fields (or to exhibit the general laws
+which these structures obey), the increasing complexity as we proceed from the inanimate to the ('more
+highly organized') animate and social phenomena becomes fairly obvious.
+It is, indeed, surprising how simple in these terms, i.e., in terms of the number of distinct variables,
+appear all the laws of physics, and particularly of mechanics, when we look through a collection of
+formulae expressing them.9 On the other hand, even such relatively simple constituents of biological
+phenomena as feedback (or cybernetic) systems, in which a certain combination of physical structures
+produces an overall structure possessing distinct characteristic properties, require for their description
+something much more elaborate than anything describing the general laws of mechanics. In fact, when
+we ask ourselves by what criteria we single out certain phenomena as 'mechanical' or 'physical', we
+shall probably find that these laws are simple in the sense defined. Non-physical phenomena are more
+complex because we call physical what can be described by relatively simple formulae.
+The 'emergence' of 'new' patterns as a result of the increase in the number of elements between which
+simple relations exist, means that this larger structure as a whole will possess certain general or abstract
+features which will recur independently of the particular values of the individual data, so long as the
+
+general structure (as described, e.g., by an algebraic equation) is preserved.10 Such 'wholes', defined in
+terms of certain general properties of their structure, will constitute distinctive objects of explanation
+for a theory, even though such a theory may be merely a particular way of fitting together statements
+about the relations between the individual elements.
+It is somewhat misleading to approach this task mainly from the angle of whether such structures are
+'open' or 'closed' systems. There are, strictly speaking, no closed systems within the universe. All we
+can ask is whether in the particular instance the points of contact through which the rest of the universe
+acts upon the system we try to single out (and which for the theory become the data) are few or many.
+These data, or variables, which determine the particular form which the pattern described by the theory
+will assume in the given circumstances, will be more numerous in the case of complex wholes and
+much more difficult to ascertain and control than in the case of simple phenomena.
+What we single out as wholes, or where we draw the 'partition boundary',11 will be determined by the
+consideration whether we can thus isolate recurrent patterns of coherent structures of a distinct kind
+which we do in fact encounter in the world in which we live. Many complex patterns which are
+conceivable and might recur we shall not find it worthwhile to construct. Whether it will be useful to
+elaborate and study a pattern of a particular kind will depend on whether the structure it describes is
+persistent or merely accidental. The coherent structures in which we are mainly interested are those in
+which a complex pattern has produced properties which make self-maintaining the structure showing it.
+3. Pattern Prediction with Incomplete Data
+The multiplicity of even the minimum of distinct elements required to produce (and therefore also of
+the minimum number of data required to explain) a complex phenomenon of a certain kind creates
+problems which dominate the disciplines concerned with such phenomena and gives them an
+appearance very different from that of those concerned with simpler phenomena. The chief difficulty in
+the former becomes one of in fact ascertaining all the data determining a particular manifestation of the
+phenomenon in question, a difficulty which is often insurmountable in practice and sometimes even an
+absolute one.12 Those mainly concerned with simple phenomena are often inclined to think that where
+this is the case a theory is useless and that scientific procedure demands that we should find a theory of
+sufficient simplicity to enable us to derive from it predictions of particular events. To them the theory,
+the knowledge of the pattern, is merely a tool whose usefulness depends entirely on our capacity to
+translate it into a representation of the circumstances producing a particular event. Of the theories of
+simple phenomena this is largely true.13
+There is, however, no justification for the belief that it must always be possible to discover such simple
+regularities and that physics is more advanced because it has succeeded in doing this while other
+sciences have not yet done so. It is rather the other way round : physics has succeeded because it deals
+with phenomena which, in our sense, are simple. But a simple theory of phenomena which are in their
+nature complex (or one which, if that expression be preferred, has to deal with more highly organized
+phenomena) is probably merely of necessity false-at least without a specified ceteris paribus
+assumption, after the full statement of which the theory would no longer be simple.
+We are, however, interested not only in individual events, and it is also not only predictions of
+individual events which can be empirically tested. We are equally interested in the recurrence of
+abstract patterns as such; and the prediction that a pattern of a certain kind will appear in defined
+circumstances is a falsifiable (and therefore empirical) statement. Knowledge of the conditions in
+which a pattern of a certain kind will appear, and of what depends on its preservation, may be of great
+practical importance. The circumstances or conditions in which the pattern described by the theory will
+appear are defined by the range of values which may be inserted for the variables of the formula. All
+
+we need to know in order to make such a theory applicable to a situation is, therefore, that the data
+possess certain general properties (or belong to the class defined by the scope of the variables). Beyond
+this we need to know nothing about their individual attributes so long as we are content to derive
+merely the sort of pattern that will appear and not its particular manifestation.
+Such a theory destined to remain 'algebraic',14 because we are in fact unable to substitute particular
+values for the variables, ceases then to be a mere tool and becomes the final result of our theoretical
+efforts. Such a theory will, of course, in Popper's terms,15 be one of small empirical content, because it
+enables us to predict or explain only certain general features of a situation which may be compatible
+with a great many particular circumstances. It will perhaps enable us to make only what M. Scriven has
+called 'hypothetical predictions',16 i.e., predictions dependent on yet unknown future events; in any case
+the range of phenomena compatible with it will be wide and the possibility of falsifying it
+correspondingly small. But as in many fields this will be for the present, or perhaps forever, all the
+theoretical knowledge we can achieve, it will nevertheless extend the range of the possible advance of
+scientific knowledge.
+The advance of science will thus have to proceed in two different directions : while it is certainly
+desirable to make our theories as falsifiable as possible, we must also push forward into fields where,
+as we advance, the degree of falsifiability necessarily decreases. This is the price we have to pay for an
+advance into the field of complex phenomena.
+4. Statistics Impotent to Deal with Pattern Complexity
+Before we further illustrate the use of those mere 'explanations of the principle'17 provided by 'algebraic'
+theories which describe only the general character of higher-level generalities, and before we consider
+the important conclusions which follow from the insight into the boundaries of possible knowledge
+which our distinction provides, it is necessary to turn aside and consider the method which is often, but
+erroneously, believed to give us access to the understanding of complex phenomena: statistics. Because
+statistics is designed to deal with large numbers it is often thought that the difficulty arising from the
+large number of elements of which complex structures consist can be overcome by recourse to
+statistical techniques.
+Statistics, however, deals with the problem of large numbers essentially by eliminating complexity and
+deliberately treating the individual elements which it counts as if they were not systematically
+connected. It avoids the problem of complexity by substituting for the information on the individual
+elements information on the frequency with which their different properties occur in classes of such
+elements, and it deliberately disregards the fact that the relative position of the different elements in a
+structure may matter. In other words, it proceeds on the assumption that information on the numerical
+frequencies of the different elements of a collective is enough to explain the phenomena and that no
+information is required on the manner in which the elements are related. The statistical method is
+therefore of use only where we either deliberately ignore, or are ignorant of, the relations between the
+individual elements with different attributes, i.e., where we ignore or are ignorant of any structure into
+which they are organized. Statistics in such situations enables us to regain simplicity and to make the
+task manageable by substituting a single attribute for the unascertainable individual attributes in the
+collective. It is, however, for this reason irrelevant to the solution of problems in which it is the
+relations between individual elements with different attributes which matters.
+Statistics might assist us where we had information about many complex structures of the same kind,
+that is, where the complex phenomena and not the elements of which they consist could be made the
+elements of the statistical collective. It may provide us, e.g., with information on the relative frequency
+with which particular properties of the complex structures, say of the members of a species of
+
+organisms, occur together; but it presupposes that we have an independent criterion for identifying
+structures of the kind in question. Where we have such statistics about the properties of many
+individuals belonging to a class of animals, or languages, or economic systems, this may indeed be
+scientifically significant information.18
+How little statistics can contribute, however, even in such cases, to the explanation of complex
+phenomena is clearly seen if we imagine that computers were natural objects which we found in
+sufficiently large numbers and whose behaviour we wanted to predict. It is clear that we should never
+succeed in this unless we possessed the mathematical knowledge built into the computers, that is,
+unless we knew the theory determining their structure. No amount of statistical information on the
+correlation between input and output would get us any nearer our aim. Yet the efforts which are
+currently made on a large scale with regard to the much more complex structures which we call
+organisms are of the same kind. The belief that it must be possible in this manner to discover by
+observation regularities in the relations between input and output without the possession of an
+appropriate theory in this case appears even more futile and na�ve than it would be in the case of the
+computers.19
+While statistics can successfully deal with complex phenomena where these are the elements of the
+population on which we have information, it can tell us nothing about the structure of these elements. It
+treats them, in the fashionable phrase, as 'black boxes' which are presumed to be of the same kind but
+about whose identifying characteristics it has nothing to say. Nobody would probably seriously contend
+that statistics can elucidate even the comparatively not very complex structures of organic molecules,
+and few would argue that it can help us to explain the functioning of organisms. Yet when it comes to
+accounting for the functioning of social structures, that belief is widely held. It is here of course largely
+the product of a misconception about what the aim of a theory of social phenomena is, which is another
+story.
+5 . The Theory of Evolution as an Instance of Pattern Prediction
+Probably the best illustration of a theory of complex phenomena which is of great value, although it
+describes merely a general pattern whose detail we can never fill in, is the Darwinian theory of
+evolution by natural selection. It is significant that this theory has always been something of a
+stumbling block for the dominant conception of scientific method. It certainly does not fit the orthodox
+criteria of 'prediction and control' as the hallmarks of scientific method.20 Yet it cannot be denied that it
+has become the successful foundation of a great part of modern biology.
+Before we examine its character we must clear out of the way a widely held misconception as to its
+content. It is often represented as if it consisted of an assertion about the succession of particular
+species of organisms which gradually changed into each other. This, however, is not the theory of
+evolution but an application of the theory to the particular events which took place on Earth during the
+last two billion years or so.21 Most of the misapplications of evolutionary theory (particularly in
+anthropology and the other social sciences) and its various abuses (e.g., in ethics) are due to this
+erroneous interpretation of its content.
+The theory of evolution by natural selection describes a kind of process (or mechanism) which is
+independent of the particular circumstances in which it has taken place on Earth, which is equally
+applicable to a course of events in very different circumstances, and which might result in the
+production of an entirely different set of organisms. The basic conception of the theory is exceedingly
+simple and it is only in its application to the concrete circumstances that its extraordinary fertility and
+the range of phenomena for which it can account manifests itself.22 The basic proposition which has
+this far-reaching implication is that a mechanism of reduplication with transmittable variations and
+
+competitive selection of those which prove to have a better chance of survival will in the course of time
+produce a great variety of structures adapted to continuous adjustment to the environment and to each
+other. The validity of this general proposition is not dependent on the truth of the particular applications
+which were first made of it: if, for example, it should have turned out that, in spite of their structural
+similarity, man and ape were not joint descendants from a comparatively near common ancestor but
+were the product of two convergent strands starting from ancestors which differed much more from
+each other (such as is true of the externally very similar types of marsupial and placental carnivores),
+this would not have refuted Darwin's general theory of evolution but only the manner of its application
+to the particular case.
+The theory as such, as is true of all theories, describes merely a range of possibilities. In doing this it
+excludes other conceivable courses of events and thus can be falsified. Its empirical content consists in
+what it forbids.23 If a sequence of events should be observed which cannot be fitted into its pattern,
+such as, e.g., that horses suddenly should begin to give birth to young with wings, or that the cutting off
+of a hind-paw in successive generations of dogs should result in dogs being born without that hind-paw,
+we should regard the theory as refuted.24
+The range of what is permitted by the theory is undeniably wide. Yet one could also argue that it is only
+the limitation of our imagination which prevents us from being more aware of how much greater is the
+range of the prohibited - how infinite is the variety of conceivable forms of organisms which, thanks to
+the theory of evolution, we know will not in the foreseeable future appear on Earth. Commonsense may
+have told us before not to expect anything widely different from what we already knew. But exactly
+what kinds of variations are within the range of possibility and what kinds are not, only the theory of
+evolution can tell us. Though we may not be able to write down an exhaustive list of the possibilities,
+any specific question we shall, in principle, be able to answer.
+For our present purposes we may disregard the fact that in one respect the theory of evolution is still
+incomplete because we still know only little about the mechanism of mutation. But let us assume that
+we knew precisely the circumstances in which (or at least the probability that in given conditions) a
+particular mutation will appear, and that we similarly knew also the precise advantages which any such
+mutation would in any particular kind of environment confer upon an individual of a specific
+constitution. This would not enable us to explain why the existing species or organisms have the
+particular structures which they possess, nor to predict what new forms will spring from them.
+The reason for this is the actual impossibility of ascertaining the particular circumstances which, in the
+course of two billion years, have decided the emergence of the existing forms, or even those which,
+during the next few hundred years, will determine the selection of the types which will survive. Even if
+we tried to apply our explanatory scheme to a single species consisting of a known number of
+individuals each of which we were able to observe, and assuming that we were able to ascertain and
+record every single relevant fact, their sheer number would be such that we should never be able to
+manipulate them, i.e., to insert these data into the appropriate blanks of our theoretical formula and then
+to solve the 'statement equations' thus determined.25
+What we have said about the theory of evolution applies to most of the rest of biology. The theoretical
+understanding of the growth and functioning of organisms can only in the rarest of instances be turned
+into specific predictions of what will happen in a particular case, because we can hardly ever ascertain
+all the facts which will contribute to determine the outcome. Hence, 'prediction and control, usually
+regarded as essential criteria of science, are less reliable in biology'.26 It deals with pattern-building
+forces, the knowledge of which is useful for creating conditions favourable to the production of certain
+kinds of results, while it will only in comparatively few cases be possible to control all the relevant
+circumstances.
+
+6. Theories of Social Structures
+It should not be difficult now to recognize the similar limitations applying to theoretical explanations of
+the phenomena of mind and society. One of the chief results so far achieved by theoretical work in
+these fields seems to me to be the demonstration that here individual events regularly depend on so
+many concrete circumstances that we shall never in fact be in a position to ascertain them all ; and that
+in consequence not only the ideal of prediction and control must largely remain beyond our reach, but
+also the hope remain illusory that we can discover by observation regular connections between the
+individual events. The very insight which theory provides, for example, that almost any event in the
+course of a man's life may have some effect on almost any of his future actions, makes it impossible
+that we translate our theoretical knowledge into predictions of specific events. There is no justification
+for the dogmatic belief that such translation must be possible if a science of these subjects is to be
+achieved, and that workers in these sciences have merely not yet succeeded in what physics has done,
+namely to discover simple relations between a few observables. If the theories which we have yet
+achieved tell us anything, it is that no such simple regularities are to be expected.
+I will not consider here the fact that in the case of mind attempting to explain the detail of the working
+of another mind of the same order of complexity, there seems to exist, in addition to the merely
+'practical' yet nevertheless unsurmountable obstacles, also an absolute impossibility: because the
+conception of a mind fully explaining itself involves a logical contradiction. This I have discussed
+elsewhere.27 It is not relevant here because the practical limits determined by the impossibility of
+ascertaining all the relevant data lie so far inside the logical limits that the latter have little relevance to
+what in fact we can do.
+In the field of social phenomena only economics and linguistics28 seem to have succeeded in building
+up a coherent body of theory. I shall confine myself here to illustrating the general thesis with reference
+to economic theory, though most of what I have to say would appear to apply equally to linguistic
+theory.
+Schumpeter well described the task of economic theory when he wrote that 'the economic life of a nonsocialist society consists of millions of relations or flows between individual firms and households. We
+can establish certain theorems about them, but we can never observe them all.'29 To this must be added
+that most of the phenomena in which we are interested, such as competition, could not occur at all
+unless the number of distinct elements involved were fairly large, and that the overall pattern that will
+form itself is determined by the significantly different behaviour of the different individuals so that the
+obstacle of obtaining the relevant data cannot be overcome by treating them as members of a statistical
+collective.
+For this reason economic theory is confined to describing kinds of patterns which will appear if certain
+general conditions are satisfied, but can rarely if ever derive from this knowledge any predictions of
+specific phenomena. This is seen most clearly if we consider those systems of simultaneous equations
+which since Léon Walras have been widely used to represent the general relations between the prices
+and the quantities of all commodities bought and sold. They are so framed that if we were able to fill in
+all the blanks, i.e., if we knew all the parameters of these equations, we could calculate the prices and
+quantities of all the commodities. But, as at least the founders of this theory clearly understood, its
+purpose is not 'to arrive at a numerical calculation of prices', because it would be 'absurd' to assume that
+we can ascertain all the data.30
+The prediction of the formation of this general kind of pattern rests on certain very general factual
+assumptions (such as that most people engage in trade in order to earn an income, that they prefer a
+larger income to a smaller one, that they are not prevented from entering whatever trade they wish, etc.,
+- assumptions which determine the scope of the variables but not their particular values); it is, however,
+
+not dependent on the knowledge of the more particular circumstances which we would have to know in
+order to be able to predict prices or quantities of particular commodities. No economist has yet
+succeeded in making a fortune by buying or selling commodities on the basis of his scientific
+prediction of future prices (even though some may have done so by selling such predictions).
+To the physicist it often seems puzzling why the economist should bother to formulate those equations
+although admittedly he sees no chance of determining the numerical values of the parameters which
+would enable him to derive from them the values of the individual magnitudes. Even many economists
+seem loath to admit that those systems of equations are not a step towards specific predictions of
+individual events but the final results of their theoretical efforts, a description merely of the general
+character of the order we shall find under specifiable conditions which, however, can never be
+translated into a prediction of its particular manifestations.
+Predictions of a pattern are nevertheless both testable and valuable. Since the theory tells us under
+which general conditions a pattern of this sort will form itself, it will enable us to create such
+conditions and to observe whether a pattern of the kind predicted will appear. And since the theory tells
+us that this pattern assures a maximization of output in a certain sense, it also enables us to create the
+general conditions which will assure such a maximization, though we are ignorant of many of the
+particular circumstances which will determine the pattern that will appear.
+It is not really surprising that the explanation of merely a sort of pattern may be highly significant in
+the field of complex phenomena but of little interest in the field of simple phenomena, such as those of
+mechanics. The fact is that in studies of complex phenomena the general patterns are all that is
+characteristic of those persistent wholes which are the main object of our interest, because a number of
+enduring structures have this general pattern in common and nothing else.31
+7. The Ambiguity of the Claims of Determinism
+The insight that we will sometimes be able to say that data of a certain class (or of certain classes) will
+bring about a pattern of a certain kind, but will not be able to ascertain the attributes of the individual
+elements which decide which particular form the pattern will assume, has consequences of considerable
+importance. It means, in the first instance, that when we assert that we know how something is
+determined, this statement is ambiguous. It may mean that we merely know what class of
+circumstances determines a certain kind of phenomena, without being able to specify the particular
+circumstances which decide which member of the predicted class of patterns will appear; or it may
+mean that we can also explain the latter. Thus we can reasonably claim that a certain phenomenon is
+determined by known natural forces and at the same time admit that we do not know precisely how it
+has been produced. Nor is the claim invalidated that we can explain the principle on which a certain
+mechanism operates if it is pointed out that we cannot say precisely what it will do at a particular place
+and time. From the fact that we do know that a phenomenon is determined by certain kinds of
+circumstances it does not follow that we must be able to know even in one particular instance all the
+circumstances which have determined all its attributes.
+There may well be valid and more grave philosophical objections to the claim that science can
+demonstrate a universal determinism; but for all practical purposes the limits created by the
+impossibility of ascertaining all the particular data required to derive detailed conclusions from our
+theories are probably much narrower. Even if the assertion of a universal determinism were
+meaningful, scarcely any of the conclusions usually derived from it would therefore follow. In the first
+of the two senses we have distinguished we may, for instance, well be able to establish that every single
+action of a human being is the necessary result of the inherited structure of his body (particularly of its
+nervous system) and of all the external influences which have acted upon it since birth. We might even
+
+be able to go further and assert that if the most important of these factors were in a particular case very
+much the same as with most other individuals, a particular class of influences will have a certain kind
+of effect. But this would be an empirical generalization based on a ceteris paribus assumption which
+we could not verify in the particular instance. The chief fact would continue to be, in spite of our
+knowledge of the principle on which the human mind works, that we should not be able to state the full
+set of particular facts which brought it about that the individual did a particular thing at a particular
+time. The individual personality would remain for us as much a unique and unaccountable phenomenon
+which we might hope to influence in a desirable direction by such empirically developed practices as
+praise and blame, but whose specific actions we could generally not predict or control, because we
+could not obtain the information on all the particular facts which determined it.
+8. The Ambiguity of "Relativism
+The same sort of misconception underlies the conclusions derived from the various kinds of
+'relativism'. In most instances these relativistic positions on questions of history, culture, or ethics are
+derived from the erroneous interpretations of the theory of evolution which we have already
+considered. But the basic conclusion that the whole of our civilization and all human values are the
+result of a long process of evolution in the course of which values, as the aims of human activity
+appeared, continue to change, seems inescapable in the light of our present knowledge. We are
+probably also entitled to conclude that our present values exist only as the elements of a particular
+cultural tradition and are significant only for some more or less long phase of evolution-whether this
+phase includes some of our pre-human ancestors or is confined to certain periods of human civilization.
+We have no more ground to ascribe to them eternal existence than to the human race itself. There is
+thus one possible sense in which we may legitimately regard human values as relative and speak of the
+probability of their further evolution.
+But it is a far cry from this general insight to the claims of the ethical, cultural, or historical relativists
+or of evolutionary ethics. To put it crudely: while we know that all those values are relative to
+something, we do not know to what they are relative. We may be able to indicate the general class of
+circumstances which have made them what they are, but we do not know the particular conditions to
+which the values we hold are due, or what our values would be if those circumstances had been
+different. Most of the illegitimate conclusions are the result of the erroneous interpretation of the theory
+of evolution as the empirical establishment of a trend. Once we recognize that it gives us no more than
+a scheme of explanation which might be sufficient to explain particular phenomena if we knew all the
+facts which have operated in the course of history, it becomes evident that the claims of the various
+kinds of relativism (and of evolutionary ethics) are unfounded. Though we may meaningfully say that
+our values are determined by a class of circumstances definable in general terms, so long as we cannot
+state which particular circumstances have produced the existing values, or what our values would be
+under any specific set of other circumstances, no significant conclusions follow from the assertion.
+It deserves brief notice in passing how radically opposed are the practical conclusions which are
+derived from the same evolutionary approach according as it is assumed that we can or cannot in fact
+know enough about the circumstances to derive specific conclusions from our theory. While the
+assumption of a sufficient knowledge of the concrete facts generally produces a sort of intellectual
+hubris which deludes itself that reason can judge all values, the insight into the impossibility of such
+full knowledge induces an attitude of humility and reverence towards that experience of mankind as a
+whole that has been precipitated in the values and institutions of existing society.
+A few observations ought to be added here about the obvious significance of our conclusions for
+assessing the various kinds of 'reductionism'. In the sense of the first of the distinctions which we have
+
+repeatedly made - in the sense of general description - the assertion that biological or mental
+phenomena are 'nothing but' certain complexes of physical events, or that they are certain classes of
+structures of such events, these claims are probably defensible. But in the second sense - � specific
+prediction - which alone would justify the more ambitious claims made for reductionism, they are
+completely unjustified. A full reduction would be achieved only if we were able to substitute for a
+description of events in biological or mental terms a description in physical terms which included an
+exhaustive enumeration of all the physical circumstances which constitute a necessary and sufficient
+condition of the biological or mental phenomena in question. In fact such attempts always consist - and
+can consist only - in the illustrative enumeration of classes of events, usually with an added 'etc.', which
+might produce the phenomenon in question. Such 'eta-reductions' are not reductions which enable us to
+dispense with the biological or mental entities, or to substitute for them a statement of physical events,
+but are mere explanations of the general character of the kind of order or pattern whose specific
+manifestations we know only through our concrete experience of them.32
+9. The Importance of Our Ignorance
+Perhaps it is only natural that in the exuberance generated by the successful advances of science the
+circumstances which limit our factual knowledge, and the consequent boundaries imposed upon the
+applicability of theoretical knowledge, have been rather disregarded. It is high time, however, that we
+take our ignorance more seriously. As Popper and others have pointed out, 'the more we learn about the
+world, and the deeper our learning, the more conscious, specific, and articulate will be our knowledge
+of what we do not know, our knowledge of our ignorance'.33 We have indeed in many fields learnt
+enough to know that we cannot know all that we would have to know for a full explanation of the
+phenomena.
+These boundaries may not be absolute. Though we may never know as much about certain complex
+phenomena as we can know about simple phenomena, we may partly pierce the boundary by
+deliberately cultivating a technique which aims at more limited objectives - the explanation not of
+individual events but merely of the appearance of certain patterns or orders. Whether we call these
+mere explanations of the principle or mere pattern predictions or higher-level theories does not matter.
+Once we explicitly recognize that the understanding of the general mechanism which produces patterns
+of a certain kind is not merely a tool for specific predictions but important in its own right, and that it
+may provide important guides to action (or sometimes indications of the desirability of no action), we
+may indeed find that this limited knowledge is most valuable.
+What we must get rid of is the naive superstition that the world must be so organized that it is possible
+by direct observation to discover simple regularities between all phenomena and that this is a necessary
+presupposition for the application of the scientific method. What we have by now discovered about the
+organization of many complex structures should be sufficient to teach us that there is no reason to
+expect this, and that if we want to get ahead in these fields our aims will have to be somewhat different
+from what they are in the fields of simple phenomena.
+10. A Postscript on the Role of 'Laws' in the Theory of Complex Phenomena34
+Perhaps it deserves to be added that the preceding considerations throw some doubt on the widely held
+view that the aim of theoretical science is to establish 'laws' - at least if the word 'law' is used as
+commonly understood. Most people would probably accept some such definition of 'law' as that 'a
+scientific law is the rule by which two phenomena are connected with each other according to the
+principle of causality, that is to say, as cause and effect.'35 And no less an authority than Max Planck is
+
+reported to have insisted that a true scientific law must be expressible in a single equation.36
+Now the statement that a certain structure can assume only one of the (still infinite) number of states
+defined by a system of many simultaneous equations is still a perfectly good scientific (theoretical and
+falsifiable) statement.37 We might still call, of course, such a statement a 'law', if we so wish (though
+some people might rightly feel that this would do violence to language); but the adoption of such a
+terminology would be likely to make us neglectful of an important distinction: for to say that such a
+statement describes, like an ordinary law, a relation between cause and effect would be highly
+misleading. It would seem, therefore, that the conception of law in the usual sense has little application
+to the theory of complex phenomena, and that therefore also the description of scientific theories as
+'nomologic' or 'nomothetic' (or by the German term Gesetzeswissenschaften) is appropriate only to
+those two-variable or perhaps three-variable problems to which the theory of simple phenomena can be
+reduced, but not to the theory of phenomena which appear only above a certain level of complexity. If
+we assume that all the other parameters of such a system of equations describing a complex structure
+are constant, we can of course still call the dependence of one of the latter on the other a 'law' and
+describe a change in the one as 'the cause' and the change in the other as 'the effect'. But such a 'law'
+would be valid only for one particular set of values of all the other parameters and would change with
+every change in any one of them. This would evidently not be a very useful conception of a 'law', and
+the only generally valid statement about the regularities of the structure in question is the whole set of
+simultaneous equations from which, if the values of the parameters are continuously variable, an
+infinite number of particular laws, showing the dependence of one variable upon another, could be
+derived.
+In this sense we may well have achieved a very elaborate and quite useful theory about some kind of
+complex phenomenon and yet have to admit that we do not know of a single law, in the ordinary sense
+of the word, which this kind of phenomenon obeys. I believe this to be in a great measure true of social
+phenomena: though we possess theories of social structures, I rather doubt whether we know of any
+'laws' which social phenomena obey. It would then appear that the search for the discovery of laws is
+not an appropriate hall-mark of scientific procedure but merely a characteristic of the theories of simple
+phenomena as we have defined these earlier; and that in the field of complex phenomena the term 'law'
+as well as the concepts of cause and effect are not applicable without such modification as to deprive
+them of their ordinary meaning.
+In some respect the prevalent stress on 'laws', i.e., on the discovery of regularities in two-variable
+relations, is probably a result of inductivism, because only such simple co-variation of two magnitudes
+is likely to strike the senses before an explicit theory or hypothesis has been formed. In the case of
+more complex phenomena it is more obvious that we must have our theory first before we can ascertain
+whether the things do in fact behave according to this theory. It would probably have saved much
+confusion if theoretical science had not in this manner come to be identified with the search for laws in
+the sense of a simple dependence of one magnitude upon another. It would have prevented such
+misconception as that, e.g., the biological theory of evolution proposed some definite 'law of evolution'
+such as a law of the necessary sequence of certain stages or forms. It has of course done nothing of the
+kind and all attempts to do this rest on a misunderstanding of Darwin's great achievement. And the
+prejudice that in order to be scientific one must produce laws may yet prove to be one of the most
+harmful of methodological conceptions. It may have been useful to some extent for the reason given by
+Popper, that 'simple statements ... are to be prized more highly'38 in all fields where simple statements
+are significant. But it seems to me that there will always be fields where it can be shown that all such
+simple statements must be false and where in consequence also the prejudice in favour of 'laws' must be
+harmful.
+
+•
+
+Reprinted from The Critical Approach to Science and Philosophy. Essays in Honor of K. R.
+Popper, ed. M. Bunge, New York (The Free Press), 1964. The article was there printed (apart
+from a few stylistic emendations by the editor) in the form in which I had completed the
+manuscript in December 1961 and without my ever having seen proofs. I have now availed
+myself of this opportunity to insert some references I had intended to add in the proofs.
+
+Notes
+1. See already Aristotle, Metaphysics; I, 11, 9, 9826b (Loeb ed. p. ij): 'It is through wonder that
+men now begin and originally began to philosophize ... it is obvious that they pursued science
+for the sake of knowledge, and not for any practical utility' ; also Adam Smith, "The Principles
+which Lead and Direct Philosophical Inquiries, as Illustrated by the History of Astronomy', in
+Essays, London, 1869, p. 340: 'Wonder, therefore, and not any expectation of advantage from its
+discoveries, is the first principle which prompts mankind to the study of philosophy, that
+science which pretends to lay open the concealed connections that unite the various appearances
+of nature; and they pursue this study for its own sake, as an original pleasure or good in itself,
+without regarding its tendency to procure them the means of many other pleasures.' Is there
+really any evidence for the now popular contrary view that, e.g., 'hunger in the Nile Valley led
+to the development of geometry' (as Gardner Murphy in the Handbook of Social Psychology,
+ed. by Gardner Lindzey, 1954, Vol. II, p. 616, tells us) ? Surely the fact that the discovery of
+geometry turned out to be useful does not prove that it was discovered because of its usefulness.
+On the fact that economics has in some degree been an exception to the general rule and has
+suffered by being guided more by need than by detached curiosity, see my lecture on "The
+Trend of Economic Thinking' in Economica, 1933.
+2.
+
+See K. R. Popper, The Poverty of Historicism, London, 1957, p. 121 : 'Science . . . cannot start
+with observations, or with the "collection of data", as some students of method believe. Before
+we can collect data, our interest in data of a certain kind assist be aroused: the problem always
+comes first.' Also in his The Logic of Scientific Discovery, London, 1959, p. 59: Observation is
+always observation in the light of theories'
+
+3. Although in some respects the capacity of our senses for pattern recognition clearly also
+exceeds the capacity of our mind for specifying these patterns. The question of the extent to
+which this capacity of our senses is the result of another kind of (pre-sensory) experience is
+another matter. See, on this and on the general point that all perception involves a theory or
+hypothesis, my book The Sensory Order, London and Chicago, 1952, esp. para. 7.37. Cf. also
+the remarkable thought expressed by Adam Ferguson (and probably derived from George
+Berkeley) in The History of Civil Society, London, 1767, p. 39, that 'the inferences of thought
+are sometimes not to be distinguished from the perception of sense'; as well as H. von
+Helmholtz's theory of the 'unconscious inferences' involved in most perceptions. For a recent
+revival of these ideas see N. R. Hanson, Patterns of Discovery, Cambridge University Press,
+1958, esp. p. 19, and the views on the role of 'hypotheses' in perception as developed in recent
+'cognition theory' by J. S. Bruner, L. Postman and others.
+4.
+
+Cf. G. H. Hardy, Mathematician's Apology, Cambridge University Press, 1941, p. 14: ?
+mathematician, like a painter or poet, is a maker of patterns.'
+
+5.
+
+Charles Dickens, David Copperfield, p. 1.
+
+6. Though it may be permissible to doubt whether it is in fact possible to predict, e.g., the precise
+pattern which the vibrations of an airplane will at a particular moment produce in the standing
+wave on the surface of the coffee in my cup.
+
+7. Cf. Michael Scriven, 'A Possible Distinction between Traditional Scientific Disciplines and the
+Study of Human Behavior', Minnesota Studies in the Philosophy of Science, I, 1956, p. 332 :
+"The difference between the scientific study of behavior and that of physical phenomena is thus
+partly due to the relatively greater complexity of the simplest phenomena we are concerned to
+account for in a behavioral theory.'
+8. Ernest Nagel, The Structure of Science, New York, 1961, p. 505: 'though social phenomena may
+indeed be complex, it is by no means certain that they are in general more complex than
+physical and biological phenomena.' See, however, Johann von Neumann, "The General and
+Logical Theory of Automata', Cerebral Mechanism in Behavior. The Hixon Symposium, New
+York, 195 1, p. 24: 'we are dealing here with parts of logic with which we have practically no
+experience. The order of complexity is out of all proportion to anything we have ever known.' It
+may be useful to give here a few illustrations of the orders of magnitude with which biology
+and neurology have to deal. While the total number of electrons in the Universe has been
+estimated at io79 and the number of electrons and protons at 10^sup 100^, there are in
+chromosomes with 1,000 locations [genes] with 10 allelomorphs 10^sup 1000^ possible
+combinations; and the number of possible proteins is estimated at 10^sup 2700^ (L. von
+Bertalanffy, Problems of Life, New York, 1952, p. 103). C. Judson Herrick {Brains of Rats and
+Men, New York), suggests that 'during a few minutes of intense cortical activity the number of
+interneuronic connections actually made (counting also those that are actuated more than once
+in different associational patterns) may well be as great as the total number of atoms in the solar
+system' (i.e. 10^sup 56^); and Ralph W. Gerard {Scientific American, September 1953, p. 118)
+has estimated that in the course of seventy years a man may accumulate 15 � 10^sup 12^ units
+of information ('bits'), which is more than 1,000 times larger than the number of nerve cells.
+The further complications which social relations superimpose upon this are, of course, relatively
+insignificant. But the point is that if we wanted to 'reduce' social phenomena to physical events,
+they would constitute an additional complication, superimposed upon that of the physiological
+processes determining mental events.
+9. Cf. Warren Weaver, 'A Quarter Century in the Natural Sciences', The Rockefeller Foundation
+Annual Report, 1958, Chapter I, 'Science and Complexity', which, when writing this, I knew
+only in the abbreviated version which appeared in the American Scientist, XXXVI, 1948.
+10. Lloyd Morgan's conception of 'emergence' derives, via G. H. Lewes (Problems of Life and
+Mind, ist series, Vol. II, problem V, Ch. III, section headed 'Resultants and Emergents',
+American ed., Boston, 1891, p. 368), from John Stuart Mill's distinction of the 'heteropathic'
+laws of chemistry and other complex phenomena from the ordinary 'composition of causes' in
+mechanics, etc. See his System of Logic, London, 1843, Bk. III, Ch. 6, in Vol. I, p. 431 of the
+first edition, and C. Lloyd Morgan, The Emergence of Novelty, London, 1933, p. 12.
+11. Lewis White Beck, 'The "Natural Science Ideal" in the Social Sciences', The Scientific Monthly,
+LXVIII, June 1949, p. 388.
+12. Cf. F. A. Hayek, The Sensory Order, paras. 8.66-8.86.
+13. Cf. Ernest Nagel, 'Problems of Concept and Theory Formation in the Social Sciences', in
+Science, Language and Human Rights (American Philosophical Association, Eastern Division,
+Vol. 1), University of Pennsylvania Press, 1952, p. 620: 'In many cases we are ignorant of the
+appropriate initial and boundary conditions, and cannot make precise forecasts even though
+available theory is adequate for that purpose.'
+14. The useful term 'algebraic theories' was suggested to me by J. W. N. Watkins.
+
+15. K. R. Popper, The Logic of Scientific Discovery, London, 1959, p. 113.
+16. M. Scriven, 'Explanation and Prediction in Evolutionary Theory', Science, August 28, 1959, p.
+478 and cf. K. R. Popper, 'Prediction and Prophecy in the Social Sciences' (1949), reprinted in
+his Conjectures and Refutations, London, 1963, especially pp. 339 et seqq.
+17. Cf. F. A. Hayek, 'Degrees of Explanation', The British Journal for the Philosophy of Science,
+VI, No. 23, 1955, now reprinted as the first essay of the present collection.
+18. See F. A. Hayek, Tbe Counter-Revolution of Science, Glencoe, Ul., 1952, pp. 60-63.
+19. Cf. J. G. Taylor, 'Experimental Design: A Cloak for Intellectual Sterility', The British Journal of
+Psychology, 49, 1958, esp. pp. 107-8.
+20. Cf., e.g., Stephen Toulmin, Foresight and Prediction, London, 1961, p. 24: 'No scientist has ever
+used this theory to foretell the coming into existence of creatures of a novel species, still less
+verified his forecast.'
+21. Even Professor Popper seems to imply this interpretation when he writes {Poverty of
+Historicism, p. 107) that 'the evolutionary hypothesis is not a universal law of nature but a
+particular (or, more precisely, singular) historical statement about the ancestry of a number of
+terrestrial plants and animals'. If this means that the essence of the theory of evolution is the
+assertion that particular species had common ancestors, or that the similarity of structure always
+means a common ancestry (which was the hypothesis from which the theory of evolution was
+derived), this is emphatically not the main content of the present theory of evolution. There is,
+incidentally, some contradiction between Popper's treatment of the concept of 'mammals' as a
+universal (Logic, p. 65) and the denial that the evolutionary hypothesis describes a universal
+law of nature. The same process might have produced mammals on other planets.
+22. Charles Darwin himself well knew, as he once wrote to Lyell, that 'all the labour consists in the
+application of the theory' (quoted by C. C. Gillispie, The Edge of Objectivity, Princeton, i960, p.
+314).
+23. K. R. Popper, Logic, p. 41.
+24. Cf. Morton Beckner, The Biological Way of Thought, Columbia University Press, 1954, p. 241.
+25. K. R. Popper, Logic, p. 73.
+26. Ralph S. Lillie, 'Some Aspects of Theoretical Biology', Philosophy of Science, XV, 2, 1948, p.
+119.
+27. See The Sensory Order, 8.66-8.86, also The Counter-Revolution of Science, Glencoe, I, 22
+1952, p. 48, and the following essay in the present volume.
+28. See particularly Noam Chomsky, Syntactic Structures, 's Gravenhage, 1957, who
+characteristically seems to succeed in building up such a theory after frankly abandoning the
+striving after an inductivist 'discovery procedure' and substituting for it the search after an
+'evaluation procedure' which enables him to eliminate false theories of grammars and where
+these grammars may be arrived at 'by intuition, guess-work, all sorts of partial methodological
+hints, reliance on past experience, etc.' (p. 56).
+29. J. A. Schumpeter, History of Economic Analysis, Oxford University Press, 1954, p. 241.
+30. V. Pareto, Manuel d'�conomie politique, 2nd ed., Paris, 1927, pp. 223-4.
+31. A characteristic instance of the misunderstanding of this point (quoted by E. Nagel, p. 61)
+occurs in Charles A. Beard, Tbe Nature of the Social Sciences, New York, 1934, 29, where it is
+
+contended that if a science of society 'were a true science, like that of it would enable us to
+predict the essential movements of human affairs for the and the indefinite future, to give
+pictures of society in the year 2000 or the year 2500 just as astronomers can map the
+appearances of the heavens at fixed points of time in future.'
+32. Cf. My Counter-Revolution of Science, pp. 48 et seqq., and William Craig, 'Replacement
+Auxiliary Expressions', The Philosophical Review, 65, 1956.
+33. K. R. Popper, 'On the Sources of Knowledge and Ignorance', Proceedings of tbe British
+Academy, 46, i960, p. 69. See also Warren Weaver, ? Scientist Ponders Faith', Saturday Review,
+January 3, 1959: 'Is science really gaining in its assault on the totality of the unsolved? As
+science learns one answer, it is characteristically true that it also learns several new questions. It
+is as though science were working in a great forest of ignorance, making an ever larger circular
+clearing within which, not to insist on the pun, things are clear. . . . But, as that circle becomes
+larger and larger, the circumference of contact with ignorance also gets longer and longer.
+Science learns more and more. But there is an ultimate sense in which it does not gain ; for the
+volume of the appreciated but not understood keeps getting larger. We keep, in science, getting
+a more and more sophisticated view of our ignorance.'
+34. This last section of this essay was not contained in the version originally published and has been
+added to this reprint.
+35. The particular wording which I happened to come across while drafting this is taken from H.
+Kelsen, "The Natural Law Doctrine Before the Tribunal of Science' (1949), reprinted in What is
+Justice?, University of California Press, i960, p. 139. It seems to express well a widely held
+view.
+36. Sir Karl Popper comments on this that it seems extremely doubtful whether any single one of
+Maxwell's equations could be said to express anything of real significance if we knew none of
+the others; in fact, it seems that the repeated occurrence of the symbols in the various equations
+is needed to secure that these symbols have the intended meanings.
+37. Cf. K. R. Popper, Logic of Scientific Discovery, � 17, p. 73 : 'Even if the system of equations
+does not suffice for a unique solution, it does not allow every conceivable combination of
+values to be substituted for the "unknowns" (variables). Rather, the system of equations
+characterizes certain combinations of values or value systems as admissible, and others as
+inadmissible; it distinguishes the class of admissible value systems from the ckss of
+inadmissible value systems.' Note also the application of this in the following passages to
+'statement equations'.
+38. Ibid., p. 142.
+"theory of complex phenomena, The". Emergence : Complexity and Organization. FindArticles.com.
+04 Feb, 2010. http://findarticles.com/p/articles/mi_7525/is_200701/ai_n32229511/
+
+
